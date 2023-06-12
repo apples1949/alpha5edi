@@ -1322,7 +1322,7 @@
 				"GroupSize": 0,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Charming Hits!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

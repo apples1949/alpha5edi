@@ -303,7 +303,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Setting Up Camp"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SETTING_UP_CAMP]"
 			}
 		},
 		{

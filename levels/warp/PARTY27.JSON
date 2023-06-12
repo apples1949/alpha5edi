@@ -1049,7 +1049,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "egypt_imp",
-				"WaveStartMessage": "Gargscallions!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GARGSCALLIONS]"
 			}
 		},
 		{
@@ -1063,7 +1063,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateors!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEORS]"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateors!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEORS]"
 			}
 		},
 		{
@@ -1091,7 +1091,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateors!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEORS]"
 			}
 		},
 		{
@@ -1105,7 +1105,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateors!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEORS]"
 			}
 		},
 		{

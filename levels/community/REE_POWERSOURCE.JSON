@@ -1359,7 +1359,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Charming Hits!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]"
 			}
 		},
 		{
@@ -1488,7 +1488,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Charming Hits!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]"
 			}
 		},
 		{

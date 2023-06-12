@@ -693,7 +693,7 @@
 				"GridTypes": [
 					"RTID(traptile_1@GridItemTypes)"
 				],
-				"WaveStartMessage": "Sun Burn!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SUN_BURN]",
 				"ZombieSpawnWaitTime": 0,
 				"Zombies": [
 					{

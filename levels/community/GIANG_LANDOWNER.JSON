@@ -1067,7 +1067,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Open Dimension!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OPEN_DIMENSION]",
 				"ZombieCount": 0
 			}
 		},

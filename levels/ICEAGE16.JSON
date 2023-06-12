@@ -1716,7 +1716,7 @@
 			"objdata": {
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
-				"WaveStartMessage": "Area change incoming!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_AREA_CHANGE_INCOMING]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

@@ -913,7 +913,7 @@
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -928,7 +928,7 @@
 					"RTID(overgrown_trap@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": "1",
 				"Zombies": [
 					{

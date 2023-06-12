@@ -760,7 +760,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Double Wave!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]"
 			}
 		},
 		{

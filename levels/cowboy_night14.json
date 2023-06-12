@@ -709,7 +709,7 @@
 				"GridTypes": [
 					"RTID(crater@GridItemTypes)"
 				],
-				"WaveStartMessage": "Under-dancers?",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDER_DANCERS2]",
 				"SuppressActionIfNoGridItemsFound": false,
 				"Zombies": [
 					{

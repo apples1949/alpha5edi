@@ -1772,7 +1772,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
-				"WaveStartMessage": "Permanent Under-dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_UNDER_DANCERS]",
 				"ZombieFallTime": "1.5"
 			}
 		},

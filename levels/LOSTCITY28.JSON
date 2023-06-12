@@ -901,7 +901,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Sun Focant!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SUN_FOCANT]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

@@ -1182,7 +1182,7 @@
 				"GroupSize": 2,
 				"TimeBeforeFullSpawn": 0.5,
 				"TimeBetweenGroups": 0.5,
-				"WaveStartMessage": "Air Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_AIR_RAID]",
 				"ZombieCount": 2,
 				"ZombieName": "modern_balloon"
 			}
@@ -1198,7 +1198,7 @@
 				"GroupSize": 2,
 				"TimeBeforeFullSpawn": 0.5,
 				"TimeBetweenGroups": 0.5,
-				"WaveStartMessage": "Air Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_AIR_RAID]",
 				"ZombieCount": 3,
 				"ZombieName": "modern_balloon"
 			}
@@ -1214,7 +1214,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": 2,
 				"TimeBetweenGroups": 0.5,
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 3,
 				"ZombieName": "beach_imp"
 			}
@@ -1230,7 +1230,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": 2,
 				"TimeBetweenGroups": 0.5,
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 3,
 				"ZombieName": "beach_armor1"
 			}
@@ -1246,7 +1246,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": 2,
 				"TimeBetweenGroups": 0.5,
-				"WaveStartMessage": "No Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]",
 				"ZombieCount": 8,
 				"ZombieName": "beach_imp"
 			}
@@ -1262,7 +1262,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": 20,
 				"TimeBetweenGroups": 2,
-				"WaveStartMessage": "No Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]",
 				"ZombieCount": 10,
 				"ZombieName": "beach_snorkel"
 			}

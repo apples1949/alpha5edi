@@ -1824,7 +1824,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1836,7 +1836,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Type": "RTID(night_camel@ZombieTypes)"
@@ -1852,7 +1852,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "2",
@@ -1873,7 +1873,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "1",
@@ -1894,7 +1894,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "DarkMagic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARKMAGIC]",
 				"Zombies": [
 					{
 						"Type": "RTID(night_camel@ZombieTypes)"
@@ -1910,7 +1910,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "1",
@@ -1939,7 +1939,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "4",
@@ -1968,7 +1968,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "1",
@@ -2001,7 +2001,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "1",
@@ -2042,7 +2042,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "1",
@@ -2098,7 +2098,7 @@
 			"objdata": {
 				"ColumnStart": 7,
 				"ColumnEnd": 8,
-				"WaveStartMessage": "Dark Magic!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DARK_MAGIC]",
 				"Zombies": [
 					{
 						"Row": "1",

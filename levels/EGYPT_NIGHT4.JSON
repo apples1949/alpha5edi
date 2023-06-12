@@ -681,7 +681,7 @@
 			"objdata": {
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
-				"WaveStartMessage": "Double Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -694,7 +694,7 @@
 			"objdata": {
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
-				"WaveStartMessage": "Triple Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_TRIPLE_WAVE]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

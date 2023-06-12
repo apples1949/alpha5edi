@@ -286,7 +286,7 @@
                 "GroupSize": 1,
                 "TimeBeforeFullSpawn": "0.5",
                 "TimeBetweenGroups": "0.25",
-                "WaveStartMessage": "No Tide!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]",
                 "ZombieCount": 0,
                 "ZombieName": "beach"
             }

@@ -972,7 +972,7 @@
 			"objdata": {
 				"SpiderCount": 0,
 				"SpiderZombieName": "dummy",
-				"WaveStartMessage": "Barrade!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BARRADE]"
 			}
 		},
 		{

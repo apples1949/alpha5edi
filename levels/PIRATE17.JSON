@@ -745,7 +745,7 @@
 			"objdata": {
 				"SpiderCount": 0,
 				"SpiderZombieName": "dummy",
-				"WaveStartMessage": "Cannonball!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CANNONBALL]"
 			}
 		},
 		{

@@ -913,7 +913,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "30",
 				"TimeBetweenGroups": "0.5",
-				"WaveStartMessage": "Low Dive!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_DIVE]",
 				"ZombieCount": 4,
 				"ZombieName": "beach_snorkel"
 			}
@@ -929,7 +929,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "30",
 				"TimeBetweenGroups": "0.5",
-				"WaveStartMessage": "Low Dive!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_DIVE]",
 				"ZombieCount": 9,
 				"ZombieName": "beach_snorkel"
 			}

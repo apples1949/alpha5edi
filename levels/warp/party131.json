@@ -1281,7 +1281,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Elimination Incoming!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ELIMINATION_INCOMING]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1295,7 +1295,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Elimination!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ELIMINATION]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1464,7 +1464,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Under-dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDER_DANCERS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1484,7 +1484,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Elimination!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ELIMINATION]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1754,7 +1754,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Elimination!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ELIMINATION]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

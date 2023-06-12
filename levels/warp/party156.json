@@ -2113,7 +2113,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Rading Imp"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RADING_IMP]"
 			}
 		},
 		{
@@ -2166,7 +2166,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Double Wave!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]"
 			}
 		},
 		{
@@ -2183,7 +2183,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Triple Wave!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_TRIPLE_WAVE]"
 			}
 		},
 		{
@@ -2200,7 +2200,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Quadruple Wave!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_QUADRUPLE_WAVE]"
 			}
 		},
 		{

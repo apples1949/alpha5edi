@@ -1470,7 +1470,7 @@
 				"GridTypes": [
 					"RTID(traptile_1@GridItemTypes)"
 				],
-				"WaveStartMessage": "Berry Bursters!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BERRY_BURSTERS]",
 				"SuppressActionIfNoGridItemsFound": false,
 				"ZombieSpawnWaitTime": "2",
 				"Zombies": [

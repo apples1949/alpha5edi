@@ -1509,7 +1509,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
-				"WaveStartMessage": "The Captain is Here...",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_THE_CAPTAIN_IS_HERE]...",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1526,7 +1526,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
-				"WaveStartMessage": "Ready the Cannons!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_READY_THE_CANNONS]",
 				"ZombieFallTime": "1.5"
 			}
 		},

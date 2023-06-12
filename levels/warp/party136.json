@@ -822,7 +822,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -842,7 +842,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

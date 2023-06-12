@@ -424,7 +424,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "30",
 				"TimeBetweenGroups": "10",
-				"WaveStartMessage": "Constant Parachute Rain!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CONSTANT_PARACHUTE_RAIN]",
 				"ZombieFallTime": "1.5"
 			}
 		},

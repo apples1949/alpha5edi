@@ -773,7 +773,7 @@
 			"objclass": "SpiderRainZombieSpawnerProps",
 			"objdata": {
 				"SpiderCount": 0,
-				"WaveStartMessage": "A huge flock of Parrots is coming!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_A_HUGE_FLOCK_OF_PARROTS_IS_COMING]"
 			}
 		},
 		{

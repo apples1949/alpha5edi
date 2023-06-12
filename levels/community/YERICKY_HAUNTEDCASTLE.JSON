@@ -438,7 +438,7 @@
 			"#comment": "Autopoints-1",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -519,7 +519,7 @@
 			"#comment": "Autopoints-4",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -580,7 +580,7 @@
 			"#comment": "Autopoints-4",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -712,7 +712,7 @@
 			"#comment": "Autopoints-8",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -889,7 +889,7 @@
 			"#comment": "Autopoints-11",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1120,7 +1120,7 @@
 			"#comment": "Autopoints-22",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1356,7 +1356,7 @@
 			"#comment": "Autopoints-26",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1572,7 +1572,7 @@
 			"#comment": "Autopoints-41",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Ghost Raid!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_RAID]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

@@ -875,7 +875,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Rapscallions!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAPSCALLIONS]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

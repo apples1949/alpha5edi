@@ -1266,7 +1266,7 @@
 			"#EventInfo": "APT-3 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1305,7 +1305,7 @@
 			"#EventInfo": "APT-8 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1353,7 +1353,7 @@
 			"#EventInfo": "APT-33 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1416,7 +1416,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_surfer",
-				"WaveStartMessage": "Surf-tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SURF_TIDE]"
 			}
 		},
 		{
@@ -1498,7 +1498,7 @@
 			"#EventInfo": "APT-30 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1547,7 +1547,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_surfer",
-				"WaveStartMessage": "Surf-tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SURF_TIDE]"
 			}
 		},
 		{
@@ -1563,7 +1563,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_surfer",
-				"WaveStartMessage": "Surf-tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SURF_TIDE]"
 			}
 		},
 		{
@@ -1573,7 +1573,7 @@
 			"#EventInfo": "APT-35 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

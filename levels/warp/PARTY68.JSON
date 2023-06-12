@@ -1321,7 +1321,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Dodo Attack!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DODO_ATTACK]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1335,7 +1335,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Dodo Attack!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DODO_ATTACK]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1387,7 +1387,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Dodo Attack!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DODO_ATTACK]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1401,7 +1401,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Dodo Attack!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DODO_ATTACK]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1472,7 +1472,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Last Dodo Attack!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LAST_DODO_ATTACK]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

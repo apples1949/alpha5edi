@@ -207,7 +207,7 @@
 {"aliases":["BalloonPFL5"],"objclass":"SpawnZombiesJitteredWaveActionProps","objdata":{"AdditionalPlantfood":1,"Zombies":[{"Row":"5","Type":"RTID(modern_balloon@ZombieTypes)"}]}},
 
 {"aliases": ["Flag"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":6,"ColumnStart":6,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "","ZombieCount":1,"ZombieName": "beach_flag"}},	
-{"aliases": ["W1_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":8,"ColumnStart":8,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "Continuous No Tide!","ZombieCount":2,"ZombieName": "beach"}},	
+{"aliases": ["W1_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":8,"ColumnStart":8,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "[WAVESTARTMESSAGE_CONTINUOUS_NO_TIDE]","ZombieCount":2,"ZombieName": "beach"}},	
 {"aliases": ["W2_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":8,"ColumnStart":8,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "","ZombieCount":3,"ZombieName": "beach"}},	
 {"aliases": ["W3_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":8,"ColumnStart":8,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "","ZombieCount":4,"ZombieName": "beach"}},	
 {"aliases": ["W4_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":8,"ColumnStart":8,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "","ZombieCount":2,"ZombieName": "beach"}},{"aliases": ["W4_2"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":8,"ColumnStart":8,"GroupSize":999,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "","ZombieCount":1,"ZombieName": "beach_fem_armor1"}},	
@@ -247,7 +247,7 @@
                 "GroupSize": 6,
                 "TimeBeforeFullSpawn": "0.5",
                 "TimeBetweenGroups": "0.25",
-                "WaveStartMessage": "No Tide!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]",
                 "ZombieCount": 2,
                 "ZombieName": "beach"
             }

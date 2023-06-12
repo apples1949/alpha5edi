@@ -420,7 +420,7 @@
 				"GroupSize": 0,
 				"TimeBetweenGroups": "0",
 				"ZombieName": "barrelroller",
-				"WaveStartMessage": "Double Wave!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]"
 			}
 		},
 		{

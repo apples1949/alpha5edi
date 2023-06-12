@@ -1342,7 +1342,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Shield check!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SHIELD_CHECK]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -3080,7 +3080,7 @@
 				"GridTypes": [
 					"RTID(spend_500@GridItemTypes)"
 				],
-				"WaveStartMessage": "Game Over!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
 				"SuppressActionIfNoGridItemsFound": true,
 				"Zombies": [
 					{

@@ -2600,7 +2600,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Icy Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ICY_LOW_TIDE]"
 			}
 		},
 		{
@@ -2676,7 +2676,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Squidy Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SQUIDY_LOW_TIDE]"
 			}
 		},
 		{
@@ -2724,7 +2724,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Low Tide!??!?!??"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE3]"
 			}
 		},
 		{
@@ -2764,7 +2764,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "More Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MORE_LOW_TIDE]"
 			}
 		},
 		{
@@ -2832,7 +2832,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Even more Low Tide!!!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_EVEN_MORE_LOW_TIDE]"
 			}
 		},
 		{

@@ -1279,7 +1279,7 @@
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
 				"GroupSize": 0,
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

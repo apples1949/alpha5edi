@@ -868,7 +868,7 @@
 			"#EventInfo": "APT-12 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "helpme",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_HELPME]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",

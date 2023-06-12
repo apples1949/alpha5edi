@@ -1333,7 +1333,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Double Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

@@ -1633,7 +1633,7 @@
 				"SpiderZombieName": "modern_superfanimp",
 				"TimeBeforeFullSpawn": 5,
 				"TimeBetweenGroups": 1,
-				"WaveStartMessage": "Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]",
 				"ZombieFallTime": 2.75
 			}
 		},
@@ -1643,7 +1643,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Prolonggggging Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PROLONGGGGGING_MEATEOR]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

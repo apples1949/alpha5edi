@@ -1281,7 +1281,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1843,7 +1843,7 @@
 			"#comment": "Autopoints-6",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -2363,7 +2363,7 @@
 			"#comment": "Autopoints-20",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -3060,7 +3060,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -3503,7 +3503,7 @@
 			"#comment": "Autopoints-48",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

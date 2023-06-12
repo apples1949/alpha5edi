@@ -738,7 +738,7 @@
 			"objclass": "SpiderRainZombieSpawnerProps",
 			"objdata": {
 				"SpiderCount": 0,
-				"WaveStartMessage": "Wild Rush!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]"
 			}
 		},
 		{}

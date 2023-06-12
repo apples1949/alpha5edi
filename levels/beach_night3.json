@@ -133,8 +133,8 @@
 {"aliases":["Wave15"],"objclass":"SpawnZombiesJitteredWaveActionProps","objdata":{"Zombies":[{"Row":"1","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"2","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"3","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"4","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"1","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"2","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"3","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"4","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"1","Type":"RTID(beach_snorkel@ZombieTypes)"},{"Row":"3","Type":"RTID(beach_snorkel@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_snorkel@ZombieTypes)"}]}},	
 {"aliases":["Wave16"],"objclass":"SpawnZombiesJitteredWaveActionProps","objdata":{"Zombies":[{"Row":"1","Type":"RTID(beach_surfer@ZombieTypes)"},{"Row":"2","Type":"RTID(beach_surfer@ZombieTypes)"},{"Row":"3","Type":"RTID(beach_snorkel@ZombieTypes)"},{"Row":"4","Type":"RTID(beach_surfer@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_surfer@ZombieTypes)"},{"Row":"1","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"2","Type":"RTID(beach_armor1@ZombieTypes)"},{"Row":"3","Type":"RTID(beach@ZombieTypes)"},{"Row":"4","Type":"RTID(beach_snorkel@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_surfer@ZombieTypes)"},{"Row":"1","Type":"RTID(beach_snorkel@ZombieTypes)"},{"Row":"2","Type":"RTID(beach_snorkel@ZombieTypes)"},{"Row":"3","Type":"RTID(beach@ZombieTypes)"},{"Row":"4","Type":"RTID(beach@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"2","Type":"RTID(beach@ZombieTypes)"},{"Row":"3","Type":"RTID(beach@ZombieTypes)"},{"Row":"5","Type":"RTID(beach_fem_armor1@ZombieTypes)"},{"Row":"3","Type":"RTID(beach@ZombieTypes)"}]}},	
 
-{"aliases": ["LT1_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":7,"ColumnStart":5,"GroupSize":1,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "No Tide!","ZombieCount":3,"ZombieName": "beach_imp"}},{"aliases": ["LT1_7"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":5,"ColumnStart":3,"GroupSize":1,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "No Tide!","ZombieCount":2,"ZombieName": "beach_snorkel"}},	
-{"aliases": ["LT2_7"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":4,"ColumnStart":1,"GroupSize":1,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "No Tide!","ZombieCount":5,"ZombieName": "beach_snorkel"}},	
+{"aliases": ["LT1_1"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":7,"ColumnStart":5,"GroupSize":1,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]","ZombieCount":3,"ZombieName": "beach_imp"}},{"aliases": ["LT1_7"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":5,"ColumnStart":3,"GroupSize":1,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]","ZombieCount":2,"ZombieName": "beach_snorkel"}},	
+{"aliases": ["LT2_7"],"objclass": "BeachStageEventZombieSpawnerProps","objdata": {"ColumnEnd":4,"ColumnStart":1,"GroupSize":1,"TimeBeforeFullSpawn": "30","TimeBetweenGroups": "0.5","WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]","ZombieCount":5,"ZombieName": "beach_snorkel"}},	
 
         {
             "aliases": [
@@ -147,7 +147,7 @@
                 "GroupSize": 6,
                 "TimeBeforeFullSpawn": "0.5",
                 "TimeBetweenGroups": "0.25",
-                "WaveStartMessage": "No Tide!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_NO_TIDE]",
                 "ZombieCount": 2,
                 "ZombieName": "beach"
             }

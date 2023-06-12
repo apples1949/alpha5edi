@@ -731,7 +731,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Double Time!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_TIME]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -752,7 +752,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Punishment!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PUNISHMENT]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",

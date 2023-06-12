@@ -690,7 +690,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Permanent Under-dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_UNDER_DANCERS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

@@ -470,7 +470,7 @@
 				"GridTypes": [
 					"RTID(protectionrune@GridItemTypes)"
 				],
-				"WaveStartMessage": "It's not that easy (:",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ITS_NOT_THAT_EASY]:",
 				"SuppressActionIfNoGridItemsFound": false,
 				"Zombies": [
 					{
@@ -560,7 +560,7 @@
 				"GridTypes": [
 					"RTID(gravestone_dark@GridItemTypes)"
 				],
-				"WaveStartMessage": "Game Over!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
 				"SuppressActionIfNoGridItemsFound": true,
 				"Zombies": [
 					{

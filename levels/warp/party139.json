@@ -992,7 +992,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2.75",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateor!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]"
 			}
 		},
 		{
@@ -1041,7 +1041,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2.75",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateor!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]"
 			}
 		},
 		{
@@ -1110,7 +1110,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2.75",
 				"SpiderZombieName": "modern_superfanimp",
-				"WaveStartMessage": "Meateor!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]"
 			}
 		},
 		{

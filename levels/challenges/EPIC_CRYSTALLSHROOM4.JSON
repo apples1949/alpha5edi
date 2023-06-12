@@ -1412,7 +1412,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Under-dancers?",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDER_DANCERS2]",
 				"ZombieCount": 0,
 				"ZombieName": "dummy"
 			}

@@ -958,7 +958,7 @@
 				"SpiderZombieName": "modern_superfanimp",
 				"TimeBeforeFullSpawn": 5,
 				"TimeBetweenGroups": 1,
-				"WaveStartMessage": "Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]",
 				"ZombieFallTime": 2.3
 			}
 		},
@@ -1072,7 +1072,7 @@
 				"GridTypes": [
 					"RTID(spend_500@GridItemTypes)"
 				],
-				"WaveStartMessage": "Game Over!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
 				"SuppressActionIfNoGridItemsFound": true,
 				"Zombies": [
 					{

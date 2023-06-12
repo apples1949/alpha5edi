@@ -390,7 +390,7 @@
 			"#EventInfo": "APT-1 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

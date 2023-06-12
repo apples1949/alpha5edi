@@ -901,7 +901,7 @@
 				"GridTypes": [
 					"RTID(gravestone_tutorial2@CurrentLevel)"
 				],
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"Zombies": [
 					{
@@ -920,7 +920,7 @@
 				"GridTypes": [
 					"RTID(gravestone_tutorial1@CurrentLevel)"
 				],
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"Zombies": [
 					{
@@ -957,7 +957,7 @@
 				"GridTypes": [
 					"RTID(gravestone_tutorial1@CurrentLevel)"
 				],
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"Zombies": [
 					{
@@ -994,7 +994,7 @@
 				"GridTypes": [
 					"RTID(gravestone_tutorial1@CurrentLevel)"
 				],
-				"WaveStartMessage": "Necromancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"Zombies": [
 					{

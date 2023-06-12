@@ -948,7 +948,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Permanent Cannonballs!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_CANNONBALLS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",
@@ -968,7 +968,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Permanent Cannonballs!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_CANNONBALLS]",
 				"ZombieSpawnWaitTime": 15,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",

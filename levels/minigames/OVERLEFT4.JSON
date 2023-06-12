@@ -1164,7 +1164,7 @@
 			"objclass": "SpiderRainZombieSpawnerProps",
 			"objdata": {
 				"SpiderCount": 0,
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{

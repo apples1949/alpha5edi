@@ -1476,7 +1476,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Parachute Rain!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1493,7 +1493,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1510,7 +1510,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Parachute Rain!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1527,7 +1527,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1544,7 +1544,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1561,7 +1561,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Parachute Rain!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1578,7 +1578,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Parachute Rain!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1613,7 +1613,7 @@
 					"RTID(overgrown_trap@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": "1",
 				"Zombies": [
 					{

@@ -966,7 +966,7 @@
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -980,7 +980,7 @@
 				"GridTypes": [
 					"RTID(arcadecabinet_1@GridItemTypes)"
 				],
-				"WaveStartMessage": "Game Over!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
 				"SuppressActionIfNoGridItemsFound": true,
 				"Zombies": [
 					{

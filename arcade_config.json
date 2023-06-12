@@ -25,7 +25,7 @@
 						"LevelPacks": [
 							{
 								"ID": "vasebreaker_tutorial",
-								"PackNameLocalizationKey": "Vasebreaker: Intro",
+								"PackNameLocalizationKey": "[VASEBREAKER_INTRO]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_TUTORIAL",
 								"Levels": [
@@ -46,7 +46,7 @@
 							},
 							{
 								"ID": "vasebreaker_egypt_1",
-								"PackNameLocalizationKey": "Egypt Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_EGYPT_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_tutorial",
@@ -68,7 +68,7 @@
 							},
 							{
 								"ID": "vasebreaker_lostcity_1",
-								"PackNameLocalizationKey": "Lost City Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_LOST_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_egypt_1",
@@ -90,7 +90,7 @@
 							},
 							{
 								"ID": "vasebreaker_dark_1",
-								"PackNameLocalizationKey": "Dark Ages Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_DARK_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_lostcity_1",
@@ -111,7 +111,7 @@
 							},
 							{
 								"ID": "vasebreaker_pirate_1",
-								"PackNameLocalizationKey": "Pirate Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_PIRATE_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_dark_1",
@@ -132,7 +132,7 @@
 							},
 							{
 								"ID": "vasebreaker_iceage_1",
-								"PackNameLocalizationKey": "Ice Age Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_ICEAGE_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_pirate_1",
@@ -153,7 +153,7 @@
 							},
 							{
 								"ID": "vasebreaker_cowboy_1",
-								"PackNameLocalizationKey": "Wild West Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_COWBOY_1",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_iceage_1",
@@ -174,7 +174,7 @@
 							},
 							{
 								"ID": "vasebreaker_beach_1",
-								"PackNameLocalizationKey": "Seaside Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_BEACH_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_cowboy_1",
@@ -195,7 +195,7 @@
 							},
 							{
 								"ID": "vasebreaker_dino_1",
-								"PackNameLocalizationKey": "Jurassic Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_DINO_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_beach_1",
@@ -216,7 +216,7 @@
 							},
 							{
 								"ID": "vasebreaker_future_1",
-								"PackNameLocalizationKey": "Future Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_FUTURE_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_dino_1",
@@ -237,7 +237,7 @@
 							},
 							{
 								"ID": "vasebreaker_eighties_1",
-								"PackNameLocalizationKey": "Neon Edition - I",
+								"PackNameLocalizationKey": "[VASEBREAKER_NEON_1]",
 								"LayoutFile": "MiniGameLevelPack",
 								"BackdropImage": "IMAGE_UI_ARCADEMENU_BG_WEST",
 								"UnlockAfter": "vasebreaker_future_1",

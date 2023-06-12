@@ -1704,7 +1704,7 @@
                 "GroupSize": 1,
                 "TimeBeforeFullSpawn": 1,
                 "TimeBetweenGroups": 1,
-                "WaveStartMessage": "Snorkel Invade!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_SNORKEL_INVADE]",
                 "ZombieCount": 0,
                 "ZombieName": "ra"
             }

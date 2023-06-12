@@ -557,7 +557,7 @@
 			"objclass": "SpiderRainZombieSpawnerProps",
 			"objdata": {
 				"SpiderCount": 0,
-				"WaveStartMessage": "OVERLEFT binding execute!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERLEFT_BINDING_EXECUTE]"
 			}
 		},
 		{

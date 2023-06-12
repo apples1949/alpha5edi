@@ -1290,7 +1290,7 @@
 				"GridTypes": [
 					"RTID(gravestone_1@GridItemTypes)"
 				],
-				"WaveStartMessage": "Game Over!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
 				"SuppressActionIfNoGridItemsFound": true,
 				"Zombies": [
 					{

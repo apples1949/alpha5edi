@@ -932,7 +932,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1071,7 +1071,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1175,7 +1175,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1246,7 +1246,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{

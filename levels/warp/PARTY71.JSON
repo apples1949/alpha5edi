@@ -1027,7 +1027,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "High Quality Music!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_HIGH_QUALITY_MUSIC]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1079,7 +1079,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "High Quality Music!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_HIGH_QUALITY_MUSIC]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1131,7 +1131,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "High Quality Music!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_HIGH_QUALITY_MUSIC]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1200,7 +1200,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "High Quality Music!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_HIGH_QUALITY_MUSIC]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

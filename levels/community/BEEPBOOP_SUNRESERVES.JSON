@@ -741,7 +741,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Weed Spray!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WEED_SPRAY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -810,7 +810,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Charming Hits!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]"
 			}
 		},
 		{
@@ -820,7 +820,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Weed Spray!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WEED_SPRAY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -860,7 +860,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Charming Hits!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]"
 			}
 		},
 		{
@@ -892,7 +892,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Weed Spray!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WEED_SPRAY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

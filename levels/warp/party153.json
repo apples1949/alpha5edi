@@ -984,7 +984,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "No durians allowed on the train!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NO_DURIANS_ALLOWED_ON_THE_TRAIN]"
 			}
 		},
 		{
@@ -1000,7 +1000,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Here comes the train!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_HERE_COMES_THE_TRAIN]"
 			}
 		},
 		{
@@ -1118,7 +1118,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Permanent Under-dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_UNDER_DANCERS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",
@@ -1143,7 +1143,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Train Attack!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_TRAIN_ATTACK]"
 			}
 		},
 		{
@@ -1159,7 +1159,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Railroad Switch!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAILROAD_SWITCH]"
 			}
 		},
 		{
@@ -1175,7 +1175,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Rush Hour Approaching!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RUSH_HOUR_APPROACHING]"
 			}
 		},
 		{

@@ -114,7 +114,7 @@
 				"GroupSize": 2,
 				"TimeBeforeFullSpawn": 1,
 				"TimeBetweenGroups": 0.25,
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieCount": 0,
 				"ZombieName": "chicken"
 			}

@@ -1691,7 +1691,7 @@
 				"SpiderZombieName": "modern_superfanimp",
 				"TimeBeforeFullSpawn": 5,
 				"TimeBetweenGroups": 1,
-				"WaveStartMessage": "Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]",
 				"ZombieFallTime": 2.3
 			}
 		},
@@ -1708,7 +1708,7 @@
 				"SpiderZombieName": "modern_superfanimp",
 				"TimeBeforeFullSpawn": 5,
 				"TimeBetweenGroups": 0.5,
-				"WaveStartMessage": "Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]",
 				"ZombieFallTime": 2.3
 			}
 		},
@@ -1871,7 +1871,7 @@
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
 				"GroupSize": 0,
-				"WaveStartMessage": "Rapscallions!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAPSCALLIONS]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

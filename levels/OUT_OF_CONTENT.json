@@ -1204,7 +1204,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 1",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_1]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1220,7 +1220,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 2",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_2]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1236,7 +1236,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 3",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_3]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1252,7 +1252,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 4",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_4]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1268,7 +1268,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 5",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_5]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1284,7 +1284,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 6",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_6]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1300,7 +1300,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 7",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_7]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1316,7 +1316,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 8",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_8]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1332,7 +1332,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 9",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_9]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1348,7 +1348,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "LEVEL 10",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LEVEL_10]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1364,7 +1364,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv1 cleared! ...Meh.",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV1_CLEARED_MEH]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1380,7 +1380,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv2 cleared! ...Easy peezy.",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV2_CLEARED_EASY_PEEZY]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1396,7 +1396,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv3 cleared! Nice!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV3_CLEARED_NICE]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1412,7 +1412,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv4 cleared! Good!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV4_CLEARED_GOOD]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1428,7 +1428,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv5 cleared! Great job!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV5_CLEARED_GREAT_JOB]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1444,7 +1444,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv6 cleared! Excellent!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV6_CLEARED_EXCELLENT]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1460,7 +1460,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv7 cleared! Wow, GG!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV7_CLEARED_WOW_GG]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1476,7 +1476,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv8 cleared! Extraodinary!!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV8_CLEARED_EXTRAODINARY]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1492,7 +1492,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv9 cleared! UNBELIEVABLE!!!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV9_CLEARED_UNBELIEVABLE]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}
@@ -1508,7 +1508,7 @@
 				"GroupSize": 1,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lv10 cleared! I'm SERIOUSLY impressed.",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LV10_CLEARED_IM_SERIOUSLY_IMPRESSED]",
 				"ZombieCount": 0,
 				"ZombieName": "ra"
 			}

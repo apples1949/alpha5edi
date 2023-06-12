@@ -1096,7 +1096,7 @@
 				"GroupSize": "4",
 				"TimeBeforeFullSpawn": "1",
 				"TimeBetweenGroups": "1",
-				"WaveStartMessage": "Lowest Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOWEST_TIDE]",
 				"ZombieCount": 1,
 				"ZombieName": "beach_armor4"
 			}
@@ -1112,7 +1112,7 @@
 				"GroupSize": "4",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Lowest Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOWEST_TIDE]",
 				"ZombieCount": 6,
 				"ZombieName": "beach_armor1"
 			}

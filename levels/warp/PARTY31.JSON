@@ -1010,7 +1010,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1043,7 +1043,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1076,7 +1076,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1109,7 +1109,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1142,7 +1142,7 @@
 			"#comment": "Autopoints-5",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

@@ -166,7 +166,7 @@
 					"RTID(traptile_1@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Rainbow Row!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAINBOW_ROW]",
 				"ZombieSpawnWaitTime": "0",
 				"Zombies": [
 					{
@@ -972,7 +972,7 @@
 				"GridTypes": [
 					"RTID(fling@CurrentLevel)"
 				],
-				"WaveStartMessage": "Rainbow Row!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAINBOW_ROW]",
 				"Zombies": [
 					{
 						"Type": "RTID(invinciblelane@CurrentLevel)"
@@ -1166,7 +1166,7 @@
 				"GroupSize": 0,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Double Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

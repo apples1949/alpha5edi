@@ -1489,7 +1489,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "One wave of Under-Dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_ONE_WAVE_OF_UNDER_DANCERS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -2168,7 +2168,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Under-Dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDER_DANCERS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

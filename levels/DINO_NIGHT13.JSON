@@ -1249,7 +1249,7 @@
 				"SpiderZombieName": "modern_superfanimp",
 				"TimeBeforeFullSpawn": 30,
 				"TimeBetweenGroups": 4,
-				"WaveStartMessage": "Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]",
 				"ZombieFallTime": 2.75
 			}
 		},
@@ -1266,7 +1266,7 @@
 				"SpiderZombieName": "modern_superfanimp",
 				"TimeBeforeFullSpawn": 60,
 				"TimeBetweenGroups": 5,
-				"WaveStartMessage": "Meateor!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_MEATEOR]",
 				"ZombieFallTime": 2.75
 			}
 		}

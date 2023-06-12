@@ -848,7 +848,7 @@
 					"RTID(shaker_stunner@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Shake Board!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SHAKE_BOARD]",
 				"ZombieSpawnWaitTime": "0",
 				"Zombies": [
 					{

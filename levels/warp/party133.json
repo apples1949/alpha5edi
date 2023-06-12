@@ -995,7 +995,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1010,7 +1010,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_fem",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1025,7 +1025,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "eighties_mc2",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1052,7 +1052,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_fem",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_octopus",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1094,7 +1094,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1109,7 +1109,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_fem_armor1",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1124,7 +1124,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach_octopus",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1139,7 +1139,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "eighties_mc2",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{}

@@ -694,7 +694,7 @@
 			"#comment": "Autopoints-0",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Double Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

@@ -1900,7 +1900,7 @@
                 "GroupSize": 0,
                 "TimeBeforeFullSpawn": "0.5",
                 "TimeBetweenGroups": "0.25",
-                "WaveStartMessage": "Warning: Massive amount of graves coming!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_LAST_DODO_ATTACK]",
                 "ZombieCount": 0,
                 "ZombieName": "prospector"
             }

@@ -895,7 +895,7 @@
 			"#EventInfo": "APT-0 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Shooting Star!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SHOOTING_STAR]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -940,7 +940,7 @@
 			"#EventInfo": "APT-0 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Shooting Star!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SHOOTING_STAR]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

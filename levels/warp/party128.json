@@ -583,7 +583,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -610,7 +610,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 				"TimeBetweenGroups": "0.2",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{
@@ -642,7 +642,7 @@
 				"TimeBetweenGroups": "0.6",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{
@@ -658,7 +658,7 @@
 				"TimeBetweenGroups": "0.6",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{

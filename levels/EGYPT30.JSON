@@ -722,7 +722,7 @@
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
 				"AdditionalPlantfood": "0",
-				"WaveStartMessage": "Ghost Fire!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GHOST_FIRE]",
 				"GridTypes": [
 					"RTID(gravestoneZombieOnDestruction_1@GridItemTypes)"
 				],

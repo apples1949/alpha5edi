@@ -1100,7 +1100,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Sun Focant!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SUN_FOCANT]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -1191,7 +1191,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -1207,7 +1207,7 @@
 					"RTID(overgrown_trap@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": "1",
 				"Zombies": [
 					{

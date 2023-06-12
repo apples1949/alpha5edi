@@ -1150,7 +1150,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1221,7 +1221,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1266,7 +1266,7 @@
 			"#EventInfo": "APT-0 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Rainbow Bomb!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAINBOW_BOMB]",
 				"ZombieSpawnWaitTime": 1.5,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1332,7 +1332,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1399,7 +1399,7 @@
 			"#EventInfo": "APT-0 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Rainbow Bomb!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAINBOW_BOMB]",
 				"ZombieSpawnWaitTime": 1.5,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1495,7 +1495,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{
@@ -1538,7 +1538,7 @@
 			"#EventInfo": "APT-0 APF-0 MLS-1 MFW-1 ",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Rainbow Bomb!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAINBOW_BOMB]",
 				"ZombieSpawnWaitTime": 1.5,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -1566,7 +1566,7 @@
 				"TimeBetweenGroups": "0.5",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
 		{

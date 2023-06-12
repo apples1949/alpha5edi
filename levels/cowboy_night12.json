@@ -1163,7 +1163,7 @@
 			"objdata": {
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -1178,7 +1178,7 @@
 				"GridTypes": [
 					"RTID(gravestone_1@GridItemTypes)"
 				],
-				"WaveStartMessage": "Game Over!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
 				"SuppressActionIfNoGridItemsFound": true,
 				"Zombies": [
 					{

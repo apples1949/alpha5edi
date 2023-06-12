@@ -864,7 +864,7 @@
 				"TimeBetweenGroups": "5",
 				"ZombieFallTime": "3",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Permanent Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_BOT_SWARM]"
 			}
 		},
 		{
@@ -915,7 +915,7 @@
 				"TimeBetweenGroups": "5",
 				"ZombieFallTime": "3",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Runes Spawn!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RUNES_SPAWN]"
 			}
 		},
 		{
@@ -1074,7 +1074,7 @@
 				"TimeBetweenGroups": "5",
 				"ZombieFallTime": "3",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Runes Spawn!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RUNES_SPAWN]"
 			}
 		},
 		{
@@ -1182,7 +1182,7 @@
 				"TimeBetweenGroups": "5",
 				"ZombieFallTime": "3",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Runes Spawn!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RUNES_SPAWN]"
 			}
 		},
 		{

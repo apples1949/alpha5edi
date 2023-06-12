@@ -961,7 +961,7 @@
 				"GroupSize": "4",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 1,
 				"ZombieName": "beach_armor1"
 			}
@@ -977,7 +977,7 @@
 				"GroupSize": "4",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 5,
 				"ZombieName": "beach"
 			}
@@ -993,7 +993,7 @@
 				"GroupSize": "3",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 1,
 				"ZombieName": "beach_fem_armor2"
 			}
@@ -1009,7 +1009,7 @@
 				"GroupSize": "1",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 2,
 				"ZombieName": "beach_fem_armor1"
 			}
@@ -1025,7 +1025,7 @@
 				"GroupSize": "3",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 6,
 				"ZombieName": "beach"
 			}
@@ -1041,7 +1041,7 @@
 				"GroupSize": "3",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 3,
 				"ZombieName": "beach_surfer"
 			}
@@ -1057,7 +1057,7 @@
 				"GroupSize": "3",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 2,
 				"ZombieName": "beach_armor2"
 			}
@@ -1073,7 +1073,7 @@
 				"GroupSize": "3",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 2,
 				"ZombieName": "beach_surfer"
 			}
@@ -1089,7 +1089,7 @@
 				"GroupSize": "3",
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "Low Tide!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]",
 				"ZombieCount": 6,
 				"ZombieName": "beach_armor1"
 			}

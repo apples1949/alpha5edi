@@ -2091,7 +2091,7 @@
 			"objdata": {
 				"SpiderCount": 0,
 				"SpiderZombieName": "dummy",
-				"WaveStartMessage": "Necromancy!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NECROMANCY]"
 			}
 		},
 		{

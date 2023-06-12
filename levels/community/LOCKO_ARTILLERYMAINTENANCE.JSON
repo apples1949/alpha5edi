@@ -570,7 +570,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{
@@ -604,7 +604,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{
@@ -621,7 +621,7 @@
 				"TimeBetweenGroups": "1",
 				"ZombieFallTime": "1.5",
 				"SpiderZombieName": "lostcity_lostpilot",
-				"WaveStartMessage": "Parachute Rain!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
 		{}

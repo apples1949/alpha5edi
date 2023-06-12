@@ -1829,7 +1829,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Double Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_DOUBLE_WAVE]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -1840,7 +1840,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Triple Wave!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_TRIPLE_WAVE]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -1851,7 +1851,7 @@
 			],
 			"objclass": "BeachStageEventZombieSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}
@@ -1867,7 +1867,7 @@
 					"RTID(overgrown_trap@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Overgrown!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OVERGROWN]",
 				"ZombieSpawnWaitTime": "1",
 				"Zombies": [
 					{

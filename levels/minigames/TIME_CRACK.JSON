@@ -1885,7 +1885,7 @@
 				"GridTypes": [
 					"RTID(gravestone_tutorial@GridItemTypes)"
 				],
-				"WaveStartMessage": "Under-dancers!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDER_DANCERS]",
 				"SuppressActionIfNoGridItemsFound": false,
 				"Zombies": [
 					{

@@ -1453,7 +1453,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Quake Spawn!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_QUAKE_SPAWN]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

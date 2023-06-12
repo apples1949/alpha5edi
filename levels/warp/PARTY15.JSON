@@ -246,7 +246,7 @@
 				"TimeBetweenGroups": "10",
 				"ZombieFallTime": "2",
 				"SpiderZombieName": "future_imp",
-				"WaveStartMessage": "Permanent Bot Swarm!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMANENT_BOT_SWARM]"
 			}
 		},
 		{

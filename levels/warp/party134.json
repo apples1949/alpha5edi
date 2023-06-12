@@ -654,7 +654,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Permament Powered Frost Wind!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_PERMAMENT_POWERED_FROST_WIND]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

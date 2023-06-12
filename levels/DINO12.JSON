@@ -1077,7 +1077,7 @@
 				"ColumnEnd": 0,
 				"ColumnStart": 0,
 				"GroupSize": 0,
-				"WaveStartMessage": "Rapscallions!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_RAPSCALLIONS]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

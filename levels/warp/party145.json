@@ -618,7 +618,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Wild Rush is incoming! Prepare your Puff Shrooms!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH_IS_INCOMING_PREPARE_YOUR_PUFF_SHROOMS]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -632,7 +632,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -646,7 +646,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "The Final Wild Rush is incoming!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_THE_FINAL_WILD_RUSH_IS_INCOMING]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -660,7 +660,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Wild Rush!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

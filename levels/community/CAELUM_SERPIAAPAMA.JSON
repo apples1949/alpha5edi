@@ -895,7 +895,7 @@
 			"#comment": "Autopoints-24",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Octo-mancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OCTO_MANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
@@ -928,7 +928,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.05",
 				"ZombieName": "beach",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -938,7 +938,7 @@
 			"#comment": "Autopoints-40",
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "Octo-mancy!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_OCTO_MANCY]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

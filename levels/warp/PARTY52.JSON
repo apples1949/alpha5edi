@@ -1105,7 +1105,7 @@
 				"GroupSize": 0,
 				"TimeBeforeFullSpawn": "0.5",
 				"TimeBetweenGroups": "0.25",
-				"WaveStartMessage": "No more ice wind!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_NO_MORE_ICE_WIND]",
 				"ZombieCount": 0,
 				"ZombieName": "prospector"
 			}

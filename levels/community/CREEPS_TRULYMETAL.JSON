@@ -1355,7 +1355,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
-				"WaveStartMessage": "Crescendo!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CRESCENDO]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1372,7 +1372,7 @@
 				"SpiderZombieName": "lostcity_lostpilot",
 				"TimeBeforeFullSpawn": "2",
 				"TimeBetweenGroups": "1.0",
-				"WaveStartMessage": "Charming Hits!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]",
 				"ZombieFallTime": "1.5"
 			}
 		},
@@ -1387,7 +1387,7 @@
 					"RTID(traptile_1@GridItemTypes)"
 				],
 				"SuppressActionIfNoGridItemsFound": false,
-				"WaveStartMessage": "Crescendo!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_CRESCENDO]",
 				"Zombies": [
 					{
 						"Type": "RTID(triggerer_once@ZombieTypes)"

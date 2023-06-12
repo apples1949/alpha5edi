@@ -951,7 +951,7 @@
             "objdata": {
                 "ColumnEnd": 0,
                 "ColumnStart": 0,
-                "WaveStartMessage": "Pad-Spawn!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_PAD_SPAWN]",
                 "ZombieCount": 0,
                 "ZombieName": "prospector"
             }
@@ -1040,7 +1040,7 @@
                 "GridTypes": [
                     "RTID(lilypad@GridItemTypes)"
                 ],
-                "WaveStartMessage": "Game Over!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_GAME_OVER]",
                 "SuppressActionIfNoGridItemsFound": true,
                 "Zombies": [
                     {

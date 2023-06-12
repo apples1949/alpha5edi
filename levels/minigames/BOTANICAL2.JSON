@@ -552,7 +552,7 @@
 				"GridTypes": [
 					"RTID(plank@GridItemTypes)"
 				],
-				"WaveStartMessage": "Boss Spawn!",
+				"WaveStartMessage": "WAVESTARTMESSAGE_BOSS_SPAWN",
 				"SuppressActionIfNoGridItemsFound": false,
 				"Zombies": [
 					{

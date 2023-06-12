@@ -819,7 +819,7 @@
                 "GroupSize": 0,
                 "TimeBeforeFullSpawn": "0.5",
                 "TimeBetweenGroups": "0.25",
-                "WaveStartMessage": "Bomb Shower!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_BOMB_SHOWER]",
                 "ZombieCount": 0,
                 "ZombieName": "prospector"
             }

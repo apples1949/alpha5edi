@@ -365,7 +365,7 @@
 				"GridTypes": [
 					"RTID(traptile_2@GridItemTypes)"
 				],
-				"WaveStartMessage": "Snowball Fight!",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_SNOWBALL_FIGHT]",
 				"ZombieSpawnWaitTime": 0,
 				"Zombies": [
 					{

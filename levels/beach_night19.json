@@ -165,7 +165,7 @@
             ],
             "objclass": "BeachStageEventZombieSpawnerProps",
             "objdata": {
-                "WaveStartMessage": "Unceasing Urchin Rise!",
+                "WaveStartMessage": "[WAVESTARTMESSAGE_UNCEASING_URCHIN_RISE]",
                 "ZombieCount": 0,
                 "ZombieName": "beach"
             }

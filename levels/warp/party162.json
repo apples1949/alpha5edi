@@ -985,7 +985,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.3",
 				"ZombieName": "beach_imp",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{
@@ -1024,7 +1024,7 @@
 				"GroupSize": 1,
 				"TimeBetweenGroups": "0.2",
 				"ZombieName": "beach_imp",
-				"WaveStartMessage": "Low Tide!"
+				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
 		{}
