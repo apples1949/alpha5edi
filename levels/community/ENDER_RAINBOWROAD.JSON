@@ -68,7 +68,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1145,7 +1146,8 @@
 				"Lifetime": 1,
 				"PlantingRestrictions": {
 					"BlockedPlantingReason": "PLANTING_NOT_ON_CRATERS",
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"PopAnim": "POPANIM_EFFECTS_CRATER",

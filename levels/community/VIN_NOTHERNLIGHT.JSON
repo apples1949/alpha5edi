@@ -54,7 +54,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -62,7 +63,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1569,7 +1571,8 @@
 					"ZombieLostCityBasicGroup",
 					"ZombieLostCityBugEffectsGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_ModernBalloon",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_MODERN_BALLOON",
 				"HomeWorld": "modern",
@@ -1614,7 +1617,8 @@
 				"Hitpoints": 4139231,
 				"NormalDeathWhenMowed": true,
 				"PlantsWhichAlsoKillBasic": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ShadowOffset": {
@@ -1681,7 +1685,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

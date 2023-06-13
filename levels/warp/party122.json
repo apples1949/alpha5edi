@@ -20,7 +20,7 @@
 				"Modules": [
 					"RTID(TechnicalZombieOverride@LevelModules)",
 					"RTID(LostCityMowers@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(GI@CurrentLevel)",
 					"RTID(SeedBank@CurrentLevel)",
@@ -41,8 +41,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -122,7 +124,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -137,45 +140,69 @@
 				"MaxNextWaveHealthPercentage": 0.1,
 				"ZombieCountdownHugeWaveDelay": 10,
 				"Waves": [
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave5@.)"
 					],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave10@.)"
 					],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave15@.)"
 					],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave20@.)"
 					],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave25@.)"
 					],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave30@.)"
 					]
@@ -486,7 +513,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

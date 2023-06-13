@@ -13,7 +13,8 @@
 				"Loot": "RTID(DangerRoomLoot@LevelModules)",
 				"Modules": [
 					"RTID(DangerRoomIntro@CurrentLevel)",
-					"RTID(DangerRoomModule@CurrentLevel)","RTID(JamZombiesModule@LevelModules)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(IceageMowers@LevelModules)",
 					"RTID(DefaultSunDropper@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)",
@@ -62,7 +63,8 @@
 			"aliases": [
 				"NewWaves"
 			],
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"objclass": "DangerRoomModuleProperties",
@@ -105,7 +107,8 @@
 				"DangerRoomIntro"
 			],
 			"objclass": "DangerRoomLevelIntroProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

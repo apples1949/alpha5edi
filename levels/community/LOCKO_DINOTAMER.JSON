@@ -172,7 +172,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -279,7 +280,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"AdditionalPlantfood": 0,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -642,7 +644,8 @@
 				"DinoType": "stego"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

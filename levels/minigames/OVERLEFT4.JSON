@@ -92,7 +92,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1279,7 +1280,8 @@
 				"ResourceGroups": [
 					"ZombieEightiesBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EightiesBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EIGHTIES_BASIC",
 				"HomeWorld": "eighties",
@@ -1298,7 +1300,8 @@
 				"ResourceGroups": [
 					"ZombieEightiesBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EightiesBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EIGHTIES_BASIC",
 				"HomeWorld": "eighties",
@@ -1608,7 +1611,8 @@
 			],
 			"objclass": "ZombieBeachFishermanProps",
 			"objdata": {
-				"AllowedLowPlants": [],
+				"AllowedLowPlants": [
+				],
 				"ArtCenter": {
 					"x": 110,
 					"y": 130

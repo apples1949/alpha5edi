@@ -119,7 +119,8 @@
 				"Hitpoints": 10000000,
 				"PlantingRestrictions": {
 					"BlockedPlantingReason": "PLANTING_NOT_ON_CRATERS",
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"PopAnim": "POPANIM_GRAVESTONES_EGYPT_HIEROGLYPH",
@@ -197,7 +198,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -320,7 +322,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

@@ -233,7 +233,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1003,7 +1004,8 @@
 				"ImpactSoundEvent": "Play_Plant_RedStinger_Impact",
 				"ImpactSoundThrottleTimer": 0,
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactOffset": [
 					{
 						"Min": 0,

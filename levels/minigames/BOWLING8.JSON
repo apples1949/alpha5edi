@@ -200,7 +200,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1180,7 +1181,8 @@
 				"ResourceGroups": [
 					"ZombiePirateBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_PirateBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIRATE_BASIC",
 				"HomeWorld": "pirate",
@@ -1199,7 +1201,8 @@
 				"ResourceGroups": [
 					"ZombiePirateBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_PirateBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIRATE_BASIC",
 				"HomeWorld": "pirate",
@@ -1218,7 +1221,8 @@
 				"ResourceGroups": [
 					"ZombiePirateBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_PirateBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIRATE_BASIC",
 				"HomeWorld": "pirate",

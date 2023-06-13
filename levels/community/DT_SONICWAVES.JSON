@@ -94,7 +94,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -235,7 +236,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1201,7 +1203,8 @@
 				"ResourceGroups": [
 					"ZombieCarnieMagicianGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_MAGICIAN",
 				"HomeWorld": "modern",
@@ -1228,7 +1231,8 @@
 				"TimeBetweenDoveSpawn": 99999999,
 				"TeleportationFailPercentage": 0,
 				"ImmuneToPlantRestrictionSet": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ArtCenter": {

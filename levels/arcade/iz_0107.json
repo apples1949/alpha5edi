@@ -481,7 +481,8 @@
 			],
 			"objclass": "InitialGridItemProperties",
 			"objdata": {
-				"InitialGridItemPlacements": []
+				"InitialGridItemPlacements": [
+				]
 			}
 		},
 		{

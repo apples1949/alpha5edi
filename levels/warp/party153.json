@@ -177,7 +177,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1025,7 +1026,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1034,8 +1036,10 @@
 			],
 			"objclass": "SpawnGravestonesWaveActionProps",
 			"objdata": {
-				"GravestonePool": [],
-				"SpawnPositionsPool": [],
+				"GravestonePool": [
+				],
+				"SpawnPositionsPool": [
+				],
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
@@ -1067,7 +1071,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1092,7 +1097,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1101,8 +1107,10 @@
 			],
 			"objclass": "SpawnGravestonesWaveActionProps",
 			"objdata": {
-				"GravestonePool": [],
-				"SpawnPositionsPool": [],
+				"GravestonePool": [
+				],
+				"SpawnPositionsPool": [
+				],
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
@@ -1122,7 +1130,8 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
+				"GridTypes": [
+				],
 				"Zombies": [
 					{
 						"Type": "RTID(camel_onehump@ZombieTypes)"
@@ -1334,7 +1343,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL_FLAG",
 				"HomeWorld": "modern",
@@ -1412,7 +1422,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

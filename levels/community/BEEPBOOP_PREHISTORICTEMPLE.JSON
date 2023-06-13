@@ -53,7 +53,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -867,7 +868,8 @@
 				"DinoType": "tyranno"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

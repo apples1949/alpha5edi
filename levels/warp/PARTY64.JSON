@@ -42,7 +42,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"chomper",
 					"toadstool",
@@ -74,7 +75,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1242,7 +1244,8 @@
 				"Placeable": true
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

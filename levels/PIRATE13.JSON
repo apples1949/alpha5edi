@@ -153,7 +153,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -225,7 +226,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1139,7 +1141,8 @@
 					"shooter"
 				],
 				"HasShadow": false,
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"RenderColor": {
 					"mRed": 220,
 					"mGreen": 20,

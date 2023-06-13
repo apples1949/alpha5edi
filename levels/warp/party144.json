@@ -17,7 +17,7 @@
 				],
 				"Modules": [
 					"RTID(FutureMowers@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(ConveyorBelt@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(PowerTiles@CurrentLevel)",
@@ -168,7 +168,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -569,7 +570,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

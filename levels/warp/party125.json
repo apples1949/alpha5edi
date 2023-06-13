@@ -38,8 +38,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -95,7 +97,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1084,7 +1087,8 @@
 				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

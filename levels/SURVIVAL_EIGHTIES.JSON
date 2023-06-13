@@ -168,7 +168,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -189,7 +190,8 @@
 				"Blank"
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {}
+			"objdata": {
+			}
 		}
 	],
 	"version": 1

@@ -35,7 +35,8 @@
 			"objclass": "LevelScoringModuleProperties",
 			"objdata": {
 				"PlantBonusMultiplier": 0.0,
-				"PlantBonuses": [],
+				"PlantBonuses": [
+				],
 				"ScoringRulesType": "NoMultiplier",
 				"StartingPlantfood": 0
 			}
@@ -123,7 +124,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -204,7 +206,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

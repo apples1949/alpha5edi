@@ -155,7 +155,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1632,7 +1633,8 @@
 			],
 			"objclass": "ZombieDarkJugglerProps",
 			"objdata": {
-				"AngleAgnosticProjectiles": [],
+				"AngleAgnosticProjectiles": [
+				],
 				"ArtCenter": {
 					"x": 90,
 					"y": 125
@@ -1682,7 +1684,8 @@
 					"z": 1.2
 				},
 				"Speed": 0.2,
-				"UnthrowableProjectiles": [],
+				"UnthrowableProjectiles": [
+				],
 				"WavePointCost": 300,
 				"Weight": 1000
 			}

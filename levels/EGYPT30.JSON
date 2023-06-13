@@ -188,7 +188,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -427,7 +428,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -914,7 +916,8 @@
 				"Hitpoints": 31000,
 				"PlantingRestrictions": {
 					"BlockedPlantingReason": "PLANTING_NOT_ON_CRATERS",
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"PopAnim": "POPANIM_GRAVESTONES_EGYPT_HIEROGLYPH",
@@ -1177,7 +1180,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",

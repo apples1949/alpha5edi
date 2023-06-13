@@ -40,7 +40,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -109,7 +110,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -117,7 +119,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1545,7 +1548,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -1638,7 +1642,8 @@
 				"ResourceGroups": [
 					"ZombieFutureJetpackGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureJetpack",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC",
 				"HomeWorld": "future"
@@ -1751,7 +1756,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

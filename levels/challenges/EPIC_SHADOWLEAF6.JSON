@@ -84,7 +84,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -205,7 +206,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1337,7 +1339,8 @@
 					"ZombieLostCityBasicGroup",
 					"ZombieLostCityBugEffectsGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_ModernBalloon",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_MODERN_BALLOON",
 				"HomeWorld": "modern",
@@ -1382,7 +1385,8 @@
 				"Hitpoints": 268353535,
 				"NormalDeathWhenMowed": true,
 				"PlantsWhichAlsoKillBasic": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ShadowOffset": {

@@ -38,7 +38,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"hypnoshroom",
 					"caulipower"
@@ -231,7 +232,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -239,7 +241,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1164,7 +1167,8 @@
 				"WaveStartMessage": "[WAVESTARTMESSAGE_PARACHUTE_RAIN]"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

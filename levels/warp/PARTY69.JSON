@@ -36,7 +36,8 @@
 				"Boosterama"
 			],
 			"objclass": "BoosteramaModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -51,7 +52,8 @@
 						"Level": -1
 					}
 				],
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -385,7 +387,8 @@
 				"PointIncrementPerWave": 0.0,
 				"StartingPoints": -100.0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -393,7 +396,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -749,7 +753,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -768,7 +773,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -856,7 +862,8 @@
 				"DirtSpawnEffectName": "POPANIM_EFFECTS_DIRT_SPAWN_DIRT"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

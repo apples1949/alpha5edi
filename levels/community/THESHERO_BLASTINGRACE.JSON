@@ -59,7 +59,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1273,7 +1274,8 @@
 				"DirtSpawnEffectName": "POPANIM_EFFECTS_DIRT_SPAWN_DIRT"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

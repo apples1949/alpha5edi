@@ -15,7 +15,8 @@
 				"Loot": "RTID(DangerRoomLoot@LevelModules)",
 				"Modules": [
 					"RTID(DangerRoomIntro@CurrentLevel)",
-					"RTID(DangerRoomModule@CurrentLevel)","RTID(JamZombiesModule@LevelModules)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(LostCityMowers@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
@@ -35,7 +36,8 @@
 				"DangerRoomIntro"
 			],
 			"objclass": "DangerRoomLevelIntroProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -10037,7 +10039,8 @@
 			"aliases": [
 				"NewWaves"
 			],
-			"objdata": {}
+			"objdata": {
+			}
 		}
 	],
 	"version": 1

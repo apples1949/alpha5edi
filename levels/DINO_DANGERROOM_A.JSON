@@ -63,7 +63,8 @@
 			"aliases": [
 				"NewWaves"
 			],
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"objclass": "DangerRoomModuleProperties",
@@ -83,7 +84,8 @@
 				"DangerRoomIntro"
 			],
 			"objclass": "DangerRoomLevelIntroProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

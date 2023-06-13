@@ -46,7 +46,8 @@
 				"SuppressFlagZombie": true,
 				"FlagWaveInterval": 1,
 				"WaveCount": 1,
-				"Waves": []
+				"Waves": [
+				]
 			}
 		},
 		{
@@ -57,7 +58,8 @@
 			"objdata": {
 				"ColumnStart": 8,
 				"ColumnEnd": 9,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		}
 	],

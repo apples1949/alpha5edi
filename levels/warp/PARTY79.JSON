@@ -37,8 +37,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -103,7 +105,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1010,7 +1013,8 @@
 				"SpawnEffectAnimID": "",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1132,7 +1136,8 @@
 				"SpawnEffectAnimID": "",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1228,7 +1233,8 @@
 				"SpawnEffectAnimID": "",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1381,7 +1387,8 @@
 				"SpawnEffectAnimID": "",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{

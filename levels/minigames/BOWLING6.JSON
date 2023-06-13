@@ -117,7 +117,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1193,7 +1194,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1212,7 +1214,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1231,7 +1234,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1652,7 +1656,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_1"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -1672,7 +1677,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_2"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -1692,7 +1698,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_3"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}

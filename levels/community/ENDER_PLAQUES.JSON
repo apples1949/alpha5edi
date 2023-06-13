@@ -125,7 +125,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -133,7 +134,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -3069,7 +3071,8 @@
 					"RTID(gravestoneSunOnDestruction@GridItemTypes)",
 					"RTID(gravestonePlantfoodOnDestruction@GridItemTypes)"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -4210,7 +4213,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

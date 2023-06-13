@@ -613,7 +613,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -709,7 +710,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -800,7 +802,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -919,7 +922,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1188,7 +1192,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1538,7 +1543,8 @@
 				}
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

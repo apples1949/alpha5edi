@@ -849,7 +849,8 @@
 				"ZombieCountdownFirstWaveSecs": 0.0,
 				"ZombieCountdownFirstWaveConveyorSecs": 0.0,
 				"ZombieCountdownHugeWaveDelay": 0.0,
-				"Waves": []
+				"Waves": [
+				]
 			}
 		},
 		{

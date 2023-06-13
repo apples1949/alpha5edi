@@ -16,7 +16,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(DefaultSunDropper@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(BeachMowers@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(Escalation@CurrentLevel)",
@@ -97,7 +97,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -180,7 +181,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

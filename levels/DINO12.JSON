@@ -89,9 +89,12 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
-				"PlantIncludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
+				"PlantIncludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -117,7 +120,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1333,7 +1337,8 @@
 					"shooter"
 				],
 				"HasShadow": false,
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"RenderColor": {
 					"mRed": 220,
 					"mGreen": 20,
@@ -1419,7 +1424,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		}
 	],

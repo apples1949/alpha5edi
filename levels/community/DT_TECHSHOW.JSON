@@ -15,7 +15,7 @@
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(DefaultSunDropper@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(FutureMowers@LevelModules)",
 					"RTID(SeedBank@.)",
@@ -59,7 +59,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

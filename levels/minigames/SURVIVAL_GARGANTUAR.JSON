@@ -13,7 +13,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(LevelDifficultyScaling@CurrentLevel)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
@@ -156,7 +156,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -179,7 +180,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		}
 	],

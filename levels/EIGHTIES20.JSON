@@ -141,9 +141,12 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
-				"PlantIncludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
+				"PlantIncludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -169,7 +172,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -209,7 +213,6 @@
 					[
 						"RTID(Wave7@CurrentLevel)"
 					],
-					
 					[
 						"RTID(Wave8@CurrentLevel)"
 					],
@@ -233,7 +236,6 @@
 					[
 						"RTID(Wave14@CurrentLevel)"
 					],
-					
 					[
 						"RTID(Wave15@CurrentLevel)",
 						"RTID(CH@CurrentLevel)",
@@ -261,7 +263,6 @@
 					[
 						"RTID(Wave21@CurrentLevel)"
 					],
-					
 					[
 						"RTID(Wave22@CurrentLevel)"
 					],
@@ -1462,7 +1463,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

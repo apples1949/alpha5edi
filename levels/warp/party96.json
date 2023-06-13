@@ -184,7 +184,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -208,7 +209,8 @@
 					[
 						"RTID(Wave4@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave6@.)"
 					],
@@ -242,7 +244,8 @@
 					[
 						"RTID(Wave16@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave18@.)"
 					]
@@ -793,7 +796,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

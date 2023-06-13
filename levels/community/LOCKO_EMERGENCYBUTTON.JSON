@@ -273,7 +273,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -853,7 +854,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

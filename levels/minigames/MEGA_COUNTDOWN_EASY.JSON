@@ -163,7 +163,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -171,7 +172,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1060,7 +1062,8 @@
 					"shooter"
 				],
 				"HasShadow": false,
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"RenderColor": {
 					"mRed": 220,
 					"mGreen": 20,

@@ -109,7 +109,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1016,7 +1017,8 @@
 				"SplashRadius": 8000
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

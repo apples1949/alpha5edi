@@ -16,7 +16,7 @@
 				],
 				"Modules": [
 					"RTID(PirateMowers@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(GI@CurrentLevel)",
 					"RTID(SeedBank@CurrentLevel)",
@@ -66,7 +66,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"springbean"
 				],
@@ -95,7 +96,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1372,7 +1374,8 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
+				"GridTypes": [
+				],
 				"Zombies": [
 					{
 						"Type": "RTID(iceage_hunter@ZombieTypes)"
@@ -1393,8 +1396,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1407,8 +1412,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1421,8 +1428,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1435,8 +1444,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1449,8 +1460,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1490,7 +1503,8 @@
 				"ResourceGroups": [
 					"ZombieEightiesGlitterGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EightiesGlitter",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_80S_GLITTER",
 				"HomeWorld": "eighties",
@@ -1654,7 +1668,8 @@
 				"Hitpoints": 600,
 				"JamStyle": "jam_ballad",
 				"PlantBoomRestrictionSet": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"PlantFreezeRadius": 0,
@@ -2150,7 +2165,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

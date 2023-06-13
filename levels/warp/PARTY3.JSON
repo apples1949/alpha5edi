@@ -18,7 +18,7 @@
 				"Modules": [
 					"RTID(DefaultSunDropper@CurrentLevel)",
 					"RTID(DarkMowers@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(TechnicalZombieOverride@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(GI@CurrentLevel)",

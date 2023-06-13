@@ -39,8 +39,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantIncludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantIncludeList": [
+				],
 				"PlantExcludeList": [
 					"snowpea",
 					"coldsnapdragon",
@@ -268,7 +270,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1651,7 +1654,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

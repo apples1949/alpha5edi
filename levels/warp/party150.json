@@ -39,7 +39,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"gravebuster"
 				],
@@ -162,7 +163,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -667,7 +669,8 @@
 				"WaveStartMessage": "[WAVESTARTMESSAGE_BOT_SWARM]"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

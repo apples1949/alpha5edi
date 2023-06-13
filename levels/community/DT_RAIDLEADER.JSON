@@ -127,7 +127,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -202,7 +203,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1061,7 +1063,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_FLAG",
 				"HomeWorld": "lostcity",

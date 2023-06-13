@@ -119,7 +119,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1164,7 +1165,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1183,7 +1185,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1202,7 +1205,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1539,7 +1543,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_1"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -1559,7 +1564,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_2"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -1579,7 +1585,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_3"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}

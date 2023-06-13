@@ -58,7 +58,8 @@
 				"TutorialIntro"
 			],
 			"objclass": "TutorialLevel2Properties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -82,7 +83,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

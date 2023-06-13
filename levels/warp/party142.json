@@ -54,8 +54,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -342,7 +344,8 @@
 					"shooter"
 				],
 				"HasShadow": false,
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"RenderColor": {
 					"mRed": 220,
 					"mGreen": 20,
@@ -414,7 +417,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -521,7 +525,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1489,7 +1494,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

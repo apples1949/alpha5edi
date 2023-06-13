@@ -255,7 +255,8 @@
 				"ExplodesWhenMowed": false,
 				"FlickIsLaneRestricted": true,
 				"GroundTrackName": "ground_swatch",
-				"HealthThresholdToImpAmmoLayers": [],
+				"HealthThresholdToImpAmmoLayers": [
+				],
 				"HitRect": {
 					"mHeight": 150,
 					"mWidth": 61,
@@ -956,13 +957,15 @@
 						]
 					},
 					{
-						"SplinePoints": []
+						"SplinePoints": [
+						]
 					}
 				],
 				"MaxRewardGold": 0,
 				"MinRewardGold": 0,
 				"MinScore": 0,
-				"ResourceGroupNames": [],
+				"ResourceGroupNames": [
+				],
 				"RowHasCannon": [
 					0,
 					0,
@@ -994,7 +997,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1962,7 +1966,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

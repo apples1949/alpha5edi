@@ -344,7 +344,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -396,7 +397,6 @@
 						"RTID(SS@CurrentLevel)",
 						"RTID(SSM@CurrentLevel)"
 					],
-					
 					[
 						"RTID(Wave10@CurrentLevel)"
 					],

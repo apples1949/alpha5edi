@@ -333,7 +333,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -694,7 +695,8 @@
 						"Weight": 5
 					}
 				],
-				"Remove": []
+				"Remove": [
+				]
 			}
 		},
 		{
@@ -906,7 +908,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

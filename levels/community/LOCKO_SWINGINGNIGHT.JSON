@@ -17,7 +17,7 @@
 				],
 				"Modules": [
 					"RTID(FrontLawnMowers@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(ConveyorBelt@CurrentLevel)",
 					"RTID(Rails@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)",
@@ -206,7 +206,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -593,7 +594,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"AdditionalPlantfood": 0,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -651,7 +653,8 @@
 				"DinoWaveDuration": 1
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

@@ -5,8 +5,8 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"Description": "E  C  L  I  S  E",
-                "FirstRewardParam": "bloominghearts",
-                "FirstRewardType": "unlock_plant",
+				"FirstRewardParam": "bloominghearts",
+				"FirstRewardType": "unlock_plant",
 				"LevelNumber": 0,
 				"StartingSun": 150,
 				"AddBonusStartingSun": false,
@@ -803,7 +803,8 @@
 				"ZombieCountdownFirstWaveSecs": 0.0,
 				"ZombieCountdownFirstWaveConveyorSecs": 0.0,
 				"ZombieCountdownHugeWaveDelay": 0.0,
-				"Waves": []
+				"Waves": [
+				]
 			}
 		},
 		{

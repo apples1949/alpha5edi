@@ -64,16 +64,56 @@
 			"objclass": "InitialGridItemProperties",
 			"objdata": {
 				"InitialGridItemPlacements": [
-					{"GridX":2,"GridY":0,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":6,"GridY":0,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":1,"GridY":1,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":7,"GridY":1,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":2,"GridY":2,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":6,"GridY":2,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":1,"GridY":3,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":7,"GridY":3,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":2,"GridY":4,"TypeName":"gravestoneZombieOnDestruction_1"},
-					{"GridX":6,"GridY":4,"TypeName":"gravestoneZombieOnDestruction_1"}
+					{
+						"GridX": 2,
+						"GridY": 0,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 6,
+						"GridY": 0,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 1,
+						"GridY": 1,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 7,
+						"GridY": 1,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 2,
+						"GridY": 2,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 6,
+						"GridY": 2,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 1,
+						"GridY": 3,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 7,
+						"GridY": 3,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 2,
+						"GridY": 4,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					},
+					{
+						"GridX": 6,
+						"GridY": 4,
+						"TypeName": "gravestoneZombieOnDestruction_1"
+					}
 				]
 			}
 		},
@@ -132,7 +172,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

@@ -62,8 +62,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -127,7 +129,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -145,86 +148,105 @@
 						"RTID(Wave1@.)",
 						"RTID(Necro1@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro2@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro3@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave4@.)",
 						"RTID(Necro4@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro5@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro6@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave7@.)",
 						"RTID(Necro7@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro8@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro9@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave10@.)",
 						"RTID(Necro10@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro11@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro12@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave13@.)",
 						"RTID(Necro13@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro14@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro15@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave16@.)",
 						"RTID(Necro16@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro17@.)",
 						"RTID(SS17_C6@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro18@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave19@.)",
 						"RTID(Necro19@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro20@.)"
 					],
@@ -235,39 +257,47 @@
 						"RTID(Wave22@.)",
 						"RTID(Necro22@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro23@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro24@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave25@.)",
 						"RTID(Necro25@.)",
 						"RTID(SS25@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro26@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro27@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave28@.)",
 						"RTID(Necro28@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave29@.)",
 						"RTID(Necro29@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave30@.)",
 						"RTID(Necro30@.)",
@@ -280,52 +310,80 @@
 					[
 						"RTID(Necro32@.)"
 					],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave35@.)"
 					],
 					[
 						"RTID(Necro36@.)"
 					],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Necro40@.)"
 					],
 					[
 						"RTID(Wave41@.)"
 					],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Necro45@.)"
 					],
 					[
 						"RTID(Snowstorm46@.)"
 					],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave50@.)",
 						"RTID(Necro50@.)"
@@ -333,29 +391,46 @@
 					[
 						"RTID(Necro55@.)"
 					],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Snowstorm56_C5@.)",
 						"RTID(Snowstorm56_C6@.)",
 						"RTID(Snowstorm56_C7@.)",
 						"RTID(Snowstorm56_C8@.)"
 					],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(Wave60@.)",
 						"RTID(Necro60@.)",
@@ -1962,7 +2037,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2047,7 +2123,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

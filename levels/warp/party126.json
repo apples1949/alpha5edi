@@ -41,8 +41,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -221,7 +223,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1447,7 +1450,8 @@
 				"GridTypes": [
 					"RTID(traptile_1@GridItemTypes)"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1829,7 +1833,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -1926,7 +1931,8 @@
 				"ResourceGroups": [
 					"ZombieFutureJetpackGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureJetpack",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC",
 				"HomeWorld": "future"
@@ -1971,7 +1977,8 @@
 				"Weight": 4000
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

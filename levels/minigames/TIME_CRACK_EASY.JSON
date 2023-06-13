@@ -19,7 +19,7 @@
 					"RTID(ModernMowers@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(PortalsSpawn@CurrentLevel)",
 					"RTID(InitialPlants@CurrentLevel)",
 					"RTID(GridItems@CurrentLevel)",
@@ -422,7 +422,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

@@ -441,7 +441,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -1413,7 +1414,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
 				"HomeWorld": "lostcity",
@@ -1432,7 +1434,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
 				"HomeWorld": "lostcity",
@@ -1451,7 +1454,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
 				"HomeWorld": "lostcity",

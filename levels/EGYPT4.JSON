@@ -228,7 +228,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -762,7 +763,8 @@
 			],
 			"objclass": "ModifyConveyorWaveActionProps",
 			"objdata": {
-				"Add": [],
+				"Add": [
+				],
 				"Remove": [
 					{
 						"Type": "RTID(cabbagepult@PlantTypes)"

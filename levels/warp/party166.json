@@ -19,7 +19,7 @@
 				],
 				"Modules": [
 					"RTID(TechnicalZombieOverride@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(FutureMowers@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(GI@CurrentLevel)",
@@ -43,7 +43,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"caulipower",
 					"escaperoot"
@@ -151,7 +152,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -471,7 +473,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -496,7 +499,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -533,7 +537,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -578,7 +583,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

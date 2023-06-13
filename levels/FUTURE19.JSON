@@ -151,8 +151,10 @@
 						"PlantType": "thymewarp"
 					}
 				],
-				"PlantExcludeList": [],
-				"PlantIncludeList": [],
+				"PlantExcludeList": [
+				],
+				"PlantIncludeList": [
+				],
 				"SelectionMethod": "preset"
 			}
 		},
@@ -180,7 +182,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -266,7 +269,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

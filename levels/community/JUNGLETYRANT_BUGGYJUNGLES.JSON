@@ -122,7 +122,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -321,8 +322,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -703,8 +706,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -905,8 +910,10 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
-				"Zombies": []
+				"GridTypes": [
+				],
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -943,7 +950,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

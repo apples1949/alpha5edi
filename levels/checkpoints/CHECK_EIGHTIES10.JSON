@@ -41,7 +41,8 @@
 			"objdata": {
 				"ZombieCountdownFirstWaveSecs": 0,
 				"ZombieCountdownHugeWaveDelay": 0,
-				"Waves": []
+				"Waves": [
+				]
 			}
 		}
 	],

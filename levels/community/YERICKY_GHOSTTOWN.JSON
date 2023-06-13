@@ -166,7 +166,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1326,7 +1327,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -1417,7 +1419,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -1508,7 +1511,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -1754,7 +1758,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

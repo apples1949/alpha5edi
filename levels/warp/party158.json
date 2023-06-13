@@ -17,7 +17,7 @@
 				],
 				"Modules": [
 					"RTID(DefaultSunDropper@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(DinoMowers@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(GI@CurrentLevel)",
@@ -215,7 +215,8 @@
 				"PointIncrementPerWave": 0.0,
 				"StartingPoints": -100.0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -223,7 +224,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -795,7 +797,8 @@
 			"objclass": "ZombieType",
 			"objdata": {
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"HomeWorld": "lostcity",
 				"IsBasicZombie": true,
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
@@ -899,7 +902,8 @@
 				"DamageFlags": [
 					"shooter"
 				],
-				"Conditions": [],
+				"Conditions": [
+				],
 				"CollisionFlags": [
 					"ground",
 					"griditems",
@@ -942,7 +946,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

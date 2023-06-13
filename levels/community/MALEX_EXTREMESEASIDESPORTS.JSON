@@ -17,7 +17,7 @@
 				],
 				"Modules": [
 					"RTID(DefaultSunDropper@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(BeachMowers@LevelModules)",
 					"RTID(GI@CurrentLevel)",
 					"RTID(SeedBank@CurrentLevel)",
@@ -128,7 +128,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1740,11 +1741,13 @@
 					"RTID(SurfboardDefault@ArmorTypes)"
 				],
 				"BreaksSurfboard": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"BlocksSurfboard": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ZombieStats": [
@@ -1780,7 +1783,8 @@
 				"IsBasicZombie": true
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

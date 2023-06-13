@@ -43,8 +43,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -191,7 +193,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -690,7 +693,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -731,7 +735,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -772,7 +777,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -813,7 +819,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -846,7 +853,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": false,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -895,7 +903,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -928,7 +937,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -961,7 +971,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -994,7 +1005,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1027,7 +1039,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1123,7 +1136,8 @@
 					"mHeight": 30.0
 				},
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactSoundEvent": "",
 				"ImpactShowsAtZombieFeet": true,
 				"ImpactOffset": [
@@ -1334,7 +1348,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1367,7 +1382,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1400,7 +1416,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1433,7 +1450,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1466,7 +1484,8 @@
 					"y": 139
 				},
 				"PopAnimRigClass": "EffectAnimRig_SwitchTile",
-				"PositioningFlags": [],
+				"PositioningFlags": [
+				],
 				"ProjectileFireOriginOffset": {
 					"x": 0,
 					"y": 0,
@@ -1563,7 +1582,8 @@
 					"mHeight": 30.0
 				},
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactSoundEvent": "",
 				"ImpactShowsAtZombieFeet": true,
 				"ImpactOffset": [
@@ -1628,7 +1648,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

@@ -126,7 +126,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -134,7 +135,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1347,7 +1349,8 @@
 				"DirtSpawnEffectName": "POPANIM_EFFECTS_DIRT_SPAWN_DIRT"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

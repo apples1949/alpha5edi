@@ -143,7 +143,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1140,7 +1141,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
 				"HomeWorld": "lostcity",
@@ -1159,7 +1161,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
 				"HomeWorld": "lostcity",
@@ -1178,7 +1181,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
 				"HomeWorld": "lostcity",
@@ -1534,7 +1538,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_1"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -1554,7 +1559,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_2"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -1574,7 +1580,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_3"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}

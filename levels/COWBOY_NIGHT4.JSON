@@ -112,7 +112,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -202,7 +203,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -930,7 +932,8 @@
 				"ResourceGroups": [
 					"ZombieWestPianoGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Piano",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIANO",
 				"HomeWorld": "cowboy"

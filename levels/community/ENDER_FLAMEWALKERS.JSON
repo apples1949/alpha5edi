@@ -56,7 +56,8 @@
 				"RailcartDefaultTypeName": "railcart_egypt",
 				"GravestoneDefaultTypeName": "gravestone_egypt",
 				"DirtSpawnEffectName": "POPANIM_EFFECTS_DIRT_SPAWN_DIRT",
-				"DisabledStreetCells": []
+				"DisabledStreetCells": [
+				]
 			}
 		},
 		{
@@ -1925,7 +1926,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2018,7 +2020,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2114,7 +2117,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2210,7 +2214,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptFlag",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_FLAG",
 				"HomeWorld": "egypt",

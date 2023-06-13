@@ -37,7 +37,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"holonut",
 					"tanglekelp",
@@ -78,7 +79,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -4093,7 +4095,8 @@
 				"TossSpinRadiansPerSecond": -500.0
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

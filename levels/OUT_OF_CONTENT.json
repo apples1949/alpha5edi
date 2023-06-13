@@ -177,7 +177,8 @@
 					[
 						"RTID(MessageClearLv1@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv2@CurrentLevel)",
 						"RTID(c62@CurrentLevel)",
@@ -257,7 +258,8 @@
 					[
 						"RTID(MessageClearLv2@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv3@CurrentLevel)",
 						"RTID(JamBallad@CurrentLevel)",
@@ -343,7 +345,8 @@
 					[
 						"RTID(MessageClearLv3@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv4@CurrentLevel)",
 						"RTID(r1c5@CurrentLevel)",
@@ -435,7 +438,8 @@
 					[
 						"RTID(MessageClearLv4@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv5@CurrentLevel)",
 						"RTID(JamRap@CurrentLevel)",
@@ -539,7 +543,8 @@
 					[
 						"RTID(MessageClearLv5@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv6@CurrentLevel)",
 						"RTID(r1c3@CurrentLevel)",
@@ -651,7 +656,8 @@
 					[
 						"RTID(MessageClearLv6@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv7@CurrentLevel)",
 						"RTID(Jam8bit@CurrentLevel)",
@@ -770,7 +776,8 @@
 					[
 						"RTID(MessageClearLv7@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv8@CurrentLevel)",
 						"RTID(JamMetal@CurrentLevel)",
@@ -875,7 +882,8 @@
 					[
 						"RTID(MessageClearLv8@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv9@CurrentLevel)",
 						"RTID(r1c6@CurrentLevel)",
@@ -989,7 +997,8 @@
 					[
 						"RTID(MessageClearLv9@CurrentLevel)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(MessageLv10@CurrentLevel)",
 						"RTID(JamPunk@CurrentLevel)",
@@ -1101,7 +1110,8 @@
 					[
 						"RTID(MessageClearLv10@CurrentLevel)"
 					],
-					[]
+					[
+					]
 				]
 			}
 		},
@@ -1114,7 +1124,8 @@
 				"NotificationEvents": [
 					"jam_punk"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1126,7 +1137,8 @@
 				"NotificationEvents": [
 					"jam_pop"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1138,7 +1150,8 @@
 				"NotificationEvents": [
 					"jam_rap"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1150,7 +1163,8 @@
 				"NotificationEvents": [
 					"jam_8bit"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1162,7 +1176,8 @@
 				"NotificationEvents": [
 					"jam_metal"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1174,7 +1189,8 @@
 				"NotificationEvents": [
 					"jam_ballad"
 				],
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

@@ -129,7 +129,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1326,7 +1327,8 @@
 				"ResourceGroups": [
 					"ZombieBeachBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_BeachBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_BEACH_BASIC",
 				"HomeWorld": "beach",
@@ -1345,7 +1347,8 @@
 				"ResourceGroups": [
 					"ZombieBeachBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_BeachBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_BEACH_BASIC",
 				"HomeWorld": "beach",
@@ -1624,11 +1627,13 @@
 					"RTID(SurfboardDefault@CurrentLevel)"
 				],
 				"BreaksSurfboard": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"BlocksSurfboard": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				}
 			}

@@ -14,7 +14,8 @@
 				"Loot": "RTID(DangerRoomLoot@LevelModules)",
 				"Modules": [
 					"RTID(DangerRoomIntro@CurrentLevel)",
-					"RTID(DangerRoomModule@CurrentLevel)","RTID(JamZombiesModule@LevelModules)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(EgyptMowers@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(Gravestones@CurrentLevel)",
@@ -36,7 +37,8 @@
 			"aliases": [
 				"NewWaves"
 			],
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -106,7 +108,8 @@
 				"DangerRoomIntro"
 			],
 			"objclass": "DangerRoomLevelIntroProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

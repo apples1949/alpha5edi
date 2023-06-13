@@ -300,7 +300,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -569,7 +570,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"AdditionalPlantfood": 0,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -579,7 +581,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"AdditionalPlantfood": 0,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -604,7 +607,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -629,7 +633,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -639,7 +644,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"AdditionalPlantfood": 0,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -649,7 +655,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"AdditionalPlantfood": 0,
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -674,10 +681,12 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
 				"RandomPlacement": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

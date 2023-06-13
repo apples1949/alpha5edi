@@ -35,7 +35,8 @@
 			"aliases": [
 				"NewWaves"
 			],
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -108,7 +109,8 @@
 				"DangerRoomIntro"
 			],
 			"objclass": "DangerRoomLevelIntroProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

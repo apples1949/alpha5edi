@@ -79,7 +79,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1374,7 +1375,8 @@
 					"x": -112.5,
 					"y": -100
 				},
-				"AttachedPAMAnimationToPlay": [],
+				"AttachedPAMAnimationToPlay": [
+				],
 				"CollisionRect": {
 					"mHeight": 100,
 					"mWidth": 3,
@@ -1384,7 +1386,8 @@
 				"ImpactSoundEvent": "",
 				"ImpactSoundThrottleTimer": 0.075,
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactOffset": [
 					{
 						"Min": 0,
@@ -1521,7 +1524,8 @@
 					"x": -112.5,
 					"y": -100
 				},
-				"AttachedPAMAnimationToPlay": [],
+				"AttachedPAMAnimationToPlay": [
+				],
 				"CollisionRect": {
 					"mHeight": 100,
 					"mWidth": 3,
@@ -1531,7 +1535,8 @@
 				"ImpactSoundEvent": "",
 				"ImpactSoundThrottleTimer": 0.075,
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactOffset": [
 					{
 						"Min": 0,
@@ -1830,7 +1835,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -1927,7 +1933,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -2024,7 +2031,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -2121,7 +2129,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -2219,7 +2228,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2238,7 +2248,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2257,7 +2268,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2798,11 +2810,13 @@
 					"RTID(SurfboardDefault@ArmorTypes)"
 				],
 				"BreaksSurfboard": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"BlocksSurfboard": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ZombieStats": [
@@ -2931,7 +2945,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -3023,8 +3038,10 @@
 				"DamageFlags": [
 					"shooter"
 				],
-				"CollisionFlags": [],
-				"Conditions": [],
+				"CollisionFlags": [
+				],
+				"Conditions": [
+				],
 				"InitialVelocity": [
 					{
 						"Min": 512,
@@ -3120,7 +3137,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

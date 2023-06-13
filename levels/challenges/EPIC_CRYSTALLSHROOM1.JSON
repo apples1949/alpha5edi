@@ -115,7 +115,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -141,7 +142,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -706,7 +708,8 @@
 			],
 			"objclass": "ModifyConveyorWaveActionProps",
 			"objdata": {
-				"Add": [],
+				"Add": [
+				],
 				"Remove": [
 					{
 						"Type": "RTID(stallia@PlantTypes)"

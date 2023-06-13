@@ -192,8 +192,10 @@
 				"HasShadow": false,
 				"BaseDamage": 0,
 				"DiesOnImpact": false,
-				"DamageFlags": [],
-				"CollisionFlags": [],
+				"DamageFlags": [
+				],
+				"CollisionFlags": [
+				],
 				"InitialVelocity": [
 					{
 						"Min": -1.1,
@@ -276,7 +278,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",
@@ -533,7 +536,8 @@
 			"objdata": {
 				"BaseDamage": 0,
 				"DiesOnImpact": true,
-				"DamageFlags": [],
+				"DamageFlags": [
+				],
 				"CollisionFlags": [
 					"ground"
 				],
@@ -634,7 +638,8 @@
 			"objdata": {
 				"BaseDamage": 0,
 				"DiesOnImpact": true,
-				"DamageFlags": [],
+				"DamageFlags": [
+				],
 				"CollisionFlags": [
 					"ground"
 				],

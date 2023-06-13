@@ -21,7 +21,7 @@
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
@@ -135,7 +135,8 @@
 			"objclass": "LevelScoringModuleProperties",
 			"objdata": {
 				"PlantBonusMultiplier": 0.0,
-				"PlantBonuses": [],
+				"PlantBonuses": [
+				],
 				"ScoringRulesType": "NoMultiplier",
 				"StartingPlantfood": 0
 			}
@@ -212,7 +213,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -929,7 +931,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		}
 	],

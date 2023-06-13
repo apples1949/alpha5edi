@@ -110,7 +110,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -657,7 +658,8 @@
 				"PortalType": "future_jetpack"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

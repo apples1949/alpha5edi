@@ -248,7 +248,8 @@
 			"objclass": "LevelScoringModuleProperties",
 			"objdata": {
 				"PlantBonusMultiplier": 0.0,
-				"PlantBonuses": [],
+				"PlantBonuses": [
+				],
 				"ScoringRulesType": "NoMultiplier",
 				"StartingPlantfood": 0
 			}
@@ -265,8 +266,10 @@
 						"PlantType": "stallia"
 					}
 				],
-				"PlantExcludeList": [],
-				"PlantIncludeList": [],
+				"PlantExcludeList": [
+				],
+				"PlantIncludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -292,7 +295,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -396,7 +400,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1748,7 +1753,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",

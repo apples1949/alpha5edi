@@ -18,7 +18,7 @@
 					"RTID(DefaultSunDropper@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(PortalsSpawn@CurrentLevel)",
 					"RTID(InitialPlants@CurrentLevel)",
 					"RTID(GridItems@CurrentLevel)",
@@ -430,7 +430,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -2219,7 +2220,8 @@
 				"ResourceGroups": [
 					"ZombieWestPianoGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Piano",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIANO",
 				"HomeWorld": "cowboy"

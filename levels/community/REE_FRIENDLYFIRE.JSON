@@ -129,7 +129,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -137,7 +138,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1057,7 +1059,8 @@
 			"#comment": "PF-0",
 			"objclass": "SpawnGravestonesWaveActionProps",
 			"objdata": {
-				"GravestonePool": [],
+				"GravestonePool": [
+				],
 				"SpawnPositionsPool": [
 					{
 						"mX": 4,
@@ -1412,7 +1415,8 @@
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

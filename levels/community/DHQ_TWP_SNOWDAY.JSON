@@ -398,7 +398,8 @@
 				"ResourceGroups": [
 					"ZombiePirateBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_PirateBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIRATE_BASIC",
 				"HomeWorld": "pirate",
@@ -487,7 +488,8 @@
 				"ResourceGroups": [
 					"ZombieFutureBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_FutureBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK",
 				"HomeWorld": "future",

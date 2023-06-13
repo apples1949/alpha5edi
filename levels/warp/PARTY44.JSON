@@ -84,7 +84,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -396,7 +397,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_1"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -416,7 +418,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_2"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -436,7 +439,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_3"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -456,7 +460,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_4"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -476,7 +481,8 @@
 				"ArmorLayers": [
 					"gargantuar_damage_5"
 				],
-				"ArmorLayerHealth": [],
+				"ArmorLayerHealth": [
+				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
 			}
@@ -487,7 +493,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		}
 	],

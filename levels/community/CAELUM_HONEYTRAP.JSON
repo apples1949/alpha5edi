@@ -38,7 +38,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -153,7 +154,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

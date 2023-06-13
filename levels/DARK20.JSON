@@ -183,7 +183,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -275,7 +276,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -862,7 +864,8 @@
 				"KnightHelm": "none",
 				"KnightingAreaX": 20,
 				"KnightingAreaY": 20,
-				"PlantablePlants": [],
+				"PlantablePlants": [
+				],
 				"ScaledProps": [
 					{
 						"Arg1": 1.2,

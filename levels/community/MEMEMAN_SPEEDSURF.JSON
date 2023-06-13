@@ -251,7 +251,8 @@
 					"shooter"
 				],
 				"HasShadow": false,
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"RenderColor": {
 					"mRed": 220,
 					"mGreen": 20,
@@ -332,7 +333,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -340,7 +342,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1464,7 +1467,8 @@
 				"PopAnim": "POPANIM_GRAVESTONES_TUTORIAL_GRAVESTONE"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

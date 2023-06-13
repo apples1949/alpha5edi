@@ -192,7 +192,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1234,7 +1235,8 @@
 					"z": 1.2
 				},
 				"Speed": 0.18,
-				"UnthrowableProjectiles": [],
+				"UnthrowableProjectiles": [
+				],
 				"WavePointCost": 450,
 				"Weight": 3500,
 				"ZombieStats": [
@@ -1245,7 +1247,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

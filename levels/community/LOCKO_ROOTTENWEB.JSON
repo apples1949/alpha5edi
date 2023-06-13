@@ -19,7 +19,7 @@
 					"RTID(FrontLawnMowers@LevelModules)",
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(TechnicalZombieOverride@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(Rails@CurrentLevel)",
 					"RTID(GI@CurrentLevel)",
 					"RTID(ProtectThePlant@CurrentLevel)",
@@ -228,7 +228,8 @@
 						"Row": 4
 					}
 				],
-				"Rails": []
+				"Rails": [
+				]
 			}
 		},
 		{
@@ -266,7 +267,8 @@
 				"PointIncrementPerWave": 0.0,
 				"StartingPoints": -100.0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -274,7 +276,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -384,7 +387,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -973,7 +977,8 @@
 				}
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

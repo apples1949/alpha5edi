@@ -200,7 +200,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1161,7 +1162,8 @@
 				"ResourceGroups": [
 					"ZombieWestPianoGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Piano",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIANO",
 				"HomeWorld": "cowboy"
@@ -1256,7 +1258,8 @@
 				"WavePointCost": 400
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

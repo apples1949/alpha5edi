@@ -190,7 +190,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -198,7 +199,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1159,7 +1161,8 @@
 				"ResourceGroups": [
 					"ZombieWestPianoGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Piano",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIANO",
 				"HomeWorld": "cowboy"
@@ -1254,7 +1257,8 @@
 				"WavePointCost": 400
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

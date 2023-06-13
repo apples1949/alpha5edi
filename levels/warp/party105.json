@@ -40,7 +40,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"sunflower",
 					"twinsunflower",
@@ -2447,7 +2448,8 @@
 				"ResourceGroups": [
 					"ZombieWestPianoHolidayGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Piano",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_PIANO_HOLIDAY",
 				"HomeWorld": "cowboy"
@@ -2542,7 +2544,8 @@
 				"WavePointCost": 400
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

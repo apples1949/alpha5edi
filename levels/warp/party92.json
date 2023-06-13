@@ -38,7 +38,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"phatbeet",
 					"puffshroom",
@@ -305,7 +306,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1477,7 +1479,8 @@
 					"ZombieLostCityBasicGroup",
 					"ZombieLostCityBugEffectsGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_ModernBalloon",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_MODERN_BALLOON",
 				"HomeWorld": "modern",
@@ -1523,7 +1526,8 @@
 				"Hitpoints": 10,
 				"NormalDeathWhenMowed": true,
 				"PlantsWhichAlsoKillBasic": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ShadowOffset": {
@@ -1551,7 +1555,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -1649,7 +1654,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1842,7 +1848,8 @@
 				},
 				"ImpactSoundEvent": "",
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactOffset": [
 					{
 						"Min": 0,
@@ -1966,7 +1973,8 @@
 				},
 				"ImpactSoundEvent": "",
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactOffset": [
 					{
 						"Min": 0,
@@ -2090,7 +2098,8 @@
 				},
 				"ImpactSoundEvent": "",
 				"ImpactPAM": "",
-				"ImpactPAMAnimationToPlay": [],
+				"ImpactPAMAnimationToPlay": [
+				],
 				"ImpactOffset": [
 					{
 						"Min": 0,
@@ -2103,7 +2112,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

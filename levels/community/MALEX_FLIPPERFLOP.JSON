@@ -37,7 +37,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -77,7 +78,8 @@
 				"StartingPoints": 0,
 				"PointIncrementPerWave": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -85,7 +87,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1459,7 +1462,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1478,7 +1482,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1497,7 +1502,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1516,7 +1522,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_BASIC",
 				"HomeWorld": "iceage",
@@ -1535,7 +1542,8 @@
 				"ResourceGroups": [
 					"ZombieIceageBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_IceAgeBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_FLAG",
 				"HomeWorld": "iceage",
@@ -2390,7 +2398,8 @@
 				"Placeable": true
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

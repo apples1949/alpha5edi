@@ -19,7 +19,7 @@
 					"RTID(FutureMowers@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(GI@CurrentLevel)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(DefaultSunDropper@LevelModules)",
 					"RTID(ChallengeModule@CurrentLevel)",
@@ -39,8 +39,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -180,7 +182,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -941,7 +944,8 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
+				"GridTypes": [
+				],
 				"Zombies": [
 					{
 						"Type": "RTID(eighties_punk@ZombieTypes)"
@@ -1276,7 +1280,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

@@ -64,7 +64,8 @@
 			"aliases": [
 				"NewWaves"
 			],
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"objclass": "DangerRoomModuleProperties",
@@ -85,14 +86,16 @@
 				"DangerRoomIntro"
 			],
 			"objclass": "DangerRoomLevelIntroProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
 				"FutureLinkedTileGroups"
 			],
 			"objclass": "PowerTileProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

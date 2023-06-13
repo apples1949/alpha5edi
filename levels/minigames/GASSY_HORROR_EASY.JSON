@@ -195,7 +195,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -209,7 +210,8 @@
 				"StartingPoints": 0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
 				"WavesPerFlag": 8,
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{

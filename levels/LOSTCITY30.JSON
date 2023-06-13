@@ -157,7 +157,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1680,7 +1681,8 @@
 				"ResourceGroups": [
 					"ZombieLostCityMimeGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Hunter",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_MIME",
 				"HomeWorld": "lostcity",

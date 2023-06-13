@@ -43,7 +43,8 @@
 						"Level": -1
 					}
 				],
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -93,7 +94,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1163,7 +1165,8 @@
 				"ExplodesWhenMowed": true,
 				"FlickIsLaneRestricted": true,
 				"GroundTrackName": "ground_swatch",
-				"HealthThresholdToImpAmmoLayers": [],
+				"HealthThresholdToImpAmmoLayers": [
+				],
 				"HitRect": {
 					"mHeight": 150,
 					"mWidth": 65,
@@ -1246,7 +1249,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

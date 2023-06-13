@@ -17,7 +17,7 @@
 				],
 				"Modules": [
 					"RTID(DefaultSunDropper@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(IceageMowers@LevelModules)",
 					"RTID(GI@CurrentLevel)",
 					"RTID(SeedBank@CurrentLevel)",
@@ -91,7 +91,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1525,7 +1526,8 @@
 				"WavePointCost": 400
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

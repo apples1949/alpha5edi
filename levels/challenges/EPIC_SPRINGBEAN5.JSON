@@ -255,7 +255,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -437,7 +438,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -537,7 +539,8 @@
 				},
 				"PushBlockingGridItems": {
 					"ListType": "excludelist",
-					"List": []
+					"List": [
+					]
 				},
 				"NotSquashedPlants": {
 					"ListType": "includelist",

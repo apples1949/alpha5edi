@@ -41,8 +41,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -136,7 +138,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -182,30 +185,40 @@
 						"RTID(Wave7@.)",
 						"RTID(Wave7@.)"
 					],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(ParaRain14@.)"
 					],
-					[],
-					[],
-					[],
-					[],
+					[
+					],
+					[
+					],
+					[
+					],
+					[
+					],
 					[
 						"RTID(ParaRain19@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave21@.)",
 						"RTID(Overdoze@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave23@.)",
 						"RTID(ParaRain23@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave25@.)",
 						"RTID(Overdoze@.)"
@@ -216,7 +229,8 @@
 					[
 						"RTID(ParaRain27@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave29@.)"
 					],
@@ -759,7 +773,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

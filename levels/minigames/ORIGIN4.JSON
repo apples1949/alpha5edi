@@ -467,7 +467,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -526,7 +527,6 @@
 						"RTID(SS@CurrentLevel)",
 						"RTID(SSM@CurrentLevel)"
 					],
-					
 					[
 						"RTID(Wave11@CurrentLevel)"
 					],
@@ -561,7 +561,6 @@
 						"RTID(SS@CurrentLevel)",
 						"RTID(SSM@CurrentLevel)"
 					],
-					
 					[
 						"RTID(Wave20@CurrentLevel)",
 						"RTID(SS@CurrentLevel)",
@@ -669,7 +668,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

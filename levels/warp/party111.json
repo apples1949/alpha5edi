@@ -61,8 +61,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantExcludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -92,7 +94,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -110,19 +113,23 @@
 					[
 						"RTID(Wave2@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave4@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave6@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave8@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Wave10@.)"
 					],
@@ -755,7 +762,8 @@
 				"HomeWorld": "cowboy"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

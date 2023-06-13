@@ -103,7 +103,8 @@
 				"PointIncrementPerWave": 0.0,
 				"StartingPoints": -100.0,
 				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": []
+				"ZombiePool": [
+				]
 			}
 		},
 		{
@@ -210,7 +211,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -761,7 +763,8 @@
 				"WaveStartMessage": "[WAVESTARTMESSAGE_WILD_RUSH1]"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

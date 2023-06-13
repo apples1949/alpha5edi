@@ -267,7 +267,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -579,7 +580,8 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
+				"GridTypes": [
+				],
 				"Zombies": [
 					{
 						"Type": "RTID(football_mech@ZombieTypes)"
@@ -593,8 +595,10 @@
 			],
 			"objclass": "SpawnGravestonesWaveActionProps",
 			"objdata": {
-				"GravestonePool": [],
-				"SpawnPositionsPool": [],
+				"GravestonePool": [
+				],
+				"SpawnPositionsPool": [
+				],
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,

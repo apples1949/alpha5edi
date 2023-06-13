@@ -99,7 +99,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -236,7 +237,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1861,7 +1863,8 @@
 					"ZombieCaesarGroup",
 					"ZombieZcorpConsultantGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_MAGICIAN",
 				"HomeWorld": "modern",
@@ -1888,7 +1891,8 @@
 				"TimeBetweenDoveSpawn": 99999999,
 				"TeleportationFailPercentage": 0,
 				"ImmuneToPlantRestrictionSet": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ConditionImmunities": [

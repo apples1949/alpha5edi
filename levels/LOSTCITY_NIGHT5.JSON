@@ -141,16 +141,56 @@
 			"objclass": "InitialGridItemProperties",
 			"objdata": {
 				"InitialGridItemPlacements": [
-					{"GridX":3,"GridY":0,"TypeName":"goldtile"},
-					{"GridX":4,"GridY":0,"TypeName":"goldtile"},
-					{"GridX":5,"GridY":0,"TypeName":"goldtile"},
-					{"GridX":1,"GridY":1,"TypeName":"goldtile"},
-					{"GridX":2,"GridY":1,"TypeName":"goldtile"},
-					{"GridX":1,"GridY":3,"TypeName":"goldtile"},
-					{"GridX":2,"GridY":3,"TypeName":"goldtile"},
-					{"GridX":3,"GridY":4,"TypeName":"goldtile"},
-					{"GridX":4,"GridY":4,"TypeName":"goldtile"},
-					{"GridX":5,"GridY":4,"TypeName":"goldtile"}
+					{
+						"GridX": 3,
+						"GridY": 0,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 4,
+						"GridY": 0,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 5,
+						"GridY": 0,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 1,
+						"GridY": 1,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 2,
+						"GridY": 1,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 1,
+						"GridY": 3,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 2,
+						"GridY": 3,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 3,
+						"GridY": 4,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 4,
+						"GridY": 4,
+						"TypeName": "goldtile"
+					},
+					{
+						"GridX": 5,
+						"GridY": 4,
+						"TypeName": "goldtile"
+					}
 				]
 			}
 		},
@@ -209,7 +249,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -282,7 +323,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{

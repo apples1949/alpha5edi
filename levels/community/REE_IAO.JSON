@@ -36,8 +36,10 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
-				"PlantIncludeList": [],
+				"PresetPlantList": [
+				],
+				"PlantIncludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -149,7 +151,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -723,7 +726,8 @@
 				"DinoType": "ptero"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

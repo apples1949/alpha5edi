@@ -47,7 +47,8 @@
 				"SuppressFlagZombie": true,
 				"FlagWaveInterval": 1,
 				"WaveCount": 1,
-				"Waves": []
+				"Waves": [
+				]
 			}
 		}
 	],

@@ -16,7 +16,7 @@
 				],
 				"Modules": [
 					"RTID(TechnicalZombieOverride@LevelModules)",
-                    "RTID(JamZombiesModule@LevelModules)",
+					"RTID(JamZombiesModule@LevelModules)",
 					"RTID(BeachMowers@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(GI@CurrentLevel)",
@@ -39,7 +39,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantIncludeList": [
 					"sunflower",
 					"potatomine",
@@ -119,7 +120,8 @@
 					"stickybombrice",
 					"unused_47"
 				],
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -143,7 +145,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description":"[DESCRIPTION_WARP_PARTY133]",
+				"Description": "[DESCRIPTION_WARP_PARTY133]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},
@@ -208,7 +210,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1142,7 +1145,8 @@
 				"WaveStartMessage": "[WAVESTARTMESSAGE_LOW_TIDE2]"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

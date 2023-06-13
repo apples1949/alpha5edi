@@ -194,7 +194,8 @@
 				"TimeBetweenDoveSpawn": 99999999,
 				"TeleportationFailPercentage": 0,
 				"ImmuneToPlantRestrictionSet": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ArtCenter": {
@@ -331,7 +332,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [

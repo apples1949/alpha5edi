@@ -37,7 +37,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"pumpkin"
 				],
@@ -165,7 +166,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -671,7 +673,8 @@
 				"HomeWorld": "lostcity"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

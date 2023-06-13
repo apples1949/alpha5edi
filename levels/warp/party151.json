@@ -98,7 +98,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -609,7 +610,8 @@
 				"PortalType": "future_bucket"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

@@ -38,7 +38,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"thymewarp",
 					"electricblueberry",
@@ -235,7 +236,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1015,7 +1017,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1103,7 +1106,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1191,7 +1195,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1279,7 +1284,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -1542,7 +1548,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -1679,7 +1686,8 @@
 				"DamageFlags": [
 					"shooter"
 				],
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"InitialVelocity": [
 					{
 						"Min": -45,
@@ -1783,7 +1791,8 @@
 				"DamageFlags": [
 					"shooter"
 				],
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"InitialVelocity": [
 					{
 						"Min": -45,
@@ -1887,7 +1896,8 @@
 				"DamageFlags": [
 					"shooter"
 				],
-				"CollisionFlags": [],
+				"CollisionFlags": [
+				],
 				"InitialVelocity": [
 					{
 						"Min": -45,
@@ -1951,7 +1961,8 @@
 				"ResourceGroups": [
 					"ZombieEgyptBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_EgyptBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_EGYPT_BASIC",
 				"HomeWorld": "egypt",
@@ -2240,8 +2251,10 @@
 				"HasShadow": false,
 				"BaseDamage": 0,
 				"DiesOnImpact": false,
-				"DamageFlags": [],
-				"CollisionFlags": [],
+				"DamageFlags": [
+				],
+				"CollisionFlags": [
+				],
 				"InitialVelocity": [
 					{
 						"Min": -10.1,
@@ -2312,7 +2325,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

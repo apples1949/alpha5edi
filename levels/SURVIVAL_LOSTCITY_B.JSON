@@ -351,7 +351,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -374,7 +375,8 @@
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
 				"ZombieSpawnPattern": "ZombieSpawnerPatternStaggered",
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		}
 	],

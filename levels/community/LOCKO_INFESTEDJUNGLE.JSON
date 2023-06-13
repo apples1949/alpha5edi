@@ -39,7 +39,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PlantExcludeList": [],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -201,7 +202,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1103,7 +1105,8 @@
 			"objclass": "ZombieType",
 			"objdata": {
 				"AnimRigClass": "ZombieAnimRig_LostCityBasic",
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"HomeWorld": "lostcity",
 				"IsBasicZombie": true,
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_LOSTCITY_BASIC",
@@ -1160,7 +1163,8 @@
 				"Weight": 1
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

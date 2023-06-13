@@ -68,8 +68,10 @@
 						"Level": 1
 					}
 				],
-				"PlantIncludeList": [],
-				"PlantExcludeList": [],
+				"PlantIncludeList": [
+				],
+				"PlantExcludeList": [
+				],
 				"SelectionMethod": "preset"
 			}
 		},
@@ -267,7 +269,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1067,7 +1070,8 @@
 				}
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

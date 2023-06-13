@@ -39,7 +39,8 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [],
+				"PresetPlantList": [
+				],
 				"PlantExcludeList": [
 					"powerlily",
 					"caulipower"
@@ -196,7 +197,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -969,7 +971,8 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
+				"GridTypes": [
+				],
 				"Zombies": [
 					{
 						"Type": "RTID(cowboy@ZombieTypes)"
@@ -1299,7 +1302,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -1390,7 +1394,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -1481,7 +1486,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyBasic",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_BASIC",
 				"HomeWorld": "cowboy",
@@ -1572,7 +1578,8 @@
 				"ResourceGroups": [
 					"ZombieWestBasicGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_CowboyFlag",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_WEST_FLAG",
 				"HomeWorld": "cowboy",
@@ -1982,7 +1989,8 @@
 				"Hitpoints": 1600,
 				"NormalDeathWhenMowed": true,
 				"PlantsWhichBreakPianoOnCollision": {
-					"List": [],
+					"List": [
+					],
 					"ListType": "includelist"
 				},
 				"ScaledProps": [
@@ -2570,7 +2578,8 @@
 					"ZombieGargantuarEffects",
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern"
@@ -2610,7 +2619,8 @@
 				"ExplodesWhenMowed": true,
 				"FlickIsLaneRestricted": true,
 				"GroundTrackName": "ground_swatch",
-				"HealthThresholdToImpAmmoLayers": [],
+				"HealthThresholdToImpAmmoLayers": [
+				],
 				"HitRect": {
 					"mHeight": 0,
 					"mWidth": 0,
@@ -2736,7 +2746,8 @@
 				]
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }

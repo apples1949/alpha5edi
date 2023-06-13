@@ -157,7 +157,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -875,7 +876,8 @@
 				},
 				"PushBlockingGridItems": {
 					"ListType": "includelist",
-					"List": []
+					"List": [
+					]
 				},
 				"NotSquashedPlants": {
 					"ListType": "includelist",

@@ -206,7 +206,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -1457,7 +1458,8 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"Zombies": [
+				]
 			}
 		},
 		{
@@ -1659,7 +1661,8 @@
 					"Max": 0
 				},
 				"AttachedPAM": "",
-				"AttachedPAMAnimationToPlay": [],
+				"AttachedPAMAnimationToPlay": [
+				],
 				"ImpactSoundEvent": "",
 				"ImpactPAM": "",
 				"ImpactPAMAnimationToPlay": [

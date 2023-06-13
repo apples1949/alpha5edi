@@ -248,7 +248,8 @@
 				"NewWaves"
 			],
 			"objclass": "WaveManagerModuleProperties",
-			"objdata": {}
+			"objdata": {
+			}
 		},
 		{
 			"aliases": [
@@ -266,15 +267,18 @@
 					[
 						"RTID(Necro1@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro3@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro5@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro7@.)"
 					],
@@ -284,11 +288,13 @@
 					[
 						"RTID(Necro9@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro11@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro13@.)"
 					],
@@ -298,11 +304,13 @@
 					[
 						"RTID(Necro15@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro17@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro19@.)"
 					],
@@ -312,11 +320,13 @@
 					[
 						"RTID(Necro21@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro23@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro25@.)"
 					],
@@ -326,7 +336,8 @@
 					[
 						"RTID(Necro27@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro29@.)"
 					],
@@ -336,15 +347,18 @@
 					[
 						"RTID(Necro31@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro33@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro35@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro37@.)"
 					],
@@ -354,19 +368,23 @@
 					[
 						"RTID(Necro39@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro41@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro43@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro45@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro47@.)"
 					],
@@ -376,11 +394,13 @@
 					[
 						"RTID(Necro49@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro51@.)"
 					],
-					[],
+					[
+					],
 					[
 						"RTID(Necro53@.)"
 					],
@@ -579,7 +599,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -748,7 +769,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -920,7 +942,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1095,7 +1118,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1188,7 +1212,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1436,7 +1461,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1677,7 +1703,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -1783,7 +1810,8 @@
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": true,
 				"AdditionalPlantfood": "0",
-				"GridTypes": [],
+				"GridTypes": [
+				],
 				"Zombies": [
 					{
 						"Type": "RTID(tutorial@ZombieTypes)"
@@ -1966,7 +1994,8 @@
 				"SpawnEffectAnimID": "POPANIM_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT",
 				"SpawnSoundID": "Play_Zomb_Egypt_TombRaiser_Grave_Rise",
 				"DisplacePlants": true,
-				"GridClassesToDestroy": []
+				"GridClassesToDestroy": [
+				]
 			}
 		},
 		{
@@ -2055,7 +2084,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -2143,7 +2173,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -2234,7 +2265,8 @@
 				"ResourceGroups": [
 					"ZombieTutorialGroup"
 				],
-				"AudioGroups": [],
+				"AudioGroups": [
+				],
 				"AnimRigClass": "ZombieAnimRig_Tutorial",
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
 				"HomeWorld": "modern",
@@ -2364,7 +2396,8 @@
 				"ImpactSoundEvent": "Play_impact_shieldhit"
 			}
 		},
-		{}
+		{
+		}
 	],
 	"version": 1
 }
