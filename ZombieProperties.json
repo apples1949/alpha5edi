@@ -1254,7 +1254,7 @@
 					"mY": 10
 				},
 				"Hitpoints": 910,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"MetallicBodyParts": true,
 				"NormalDeathOnExplosion": true,
 				"NormalDeathWhenMowed": true,
@@ -3587,7 +3587,7 @@
 					"mY": 10
 				},
 				"Hitpoints": 1100,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"ScaledProps": [
 					{
 						"Arg1": 1.05,
@@ -3799,7 +3799,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 10000000,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -3973,7 +3973,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -4007,7 +4007,7 @@
 					"mY": 10
 				},
 				"Hitpoints": 1100,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"ScaledProps": [
 					{
 						"Arg1": 1.05,
@@ -4219,7 +4219,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 10000000,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -4393,7 +4393,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -4427,7 +4427,7 @@
 					"mY": 10
 				},
 				"Hitpoints": 1100,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"ScaledProps": [
 					{
 						"Arg1": 1.05,
@@ -4639,7 +4639,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 10000000,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -4813,7 +4813,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -4847,7 +4847,7 @@
 					"mY": 10
 				},
 				"Hitpoints": 1100,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"ScaledProps": [
 					{
 						"Arg1": 1.05,
@@ -5059,7 +5059,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 10000000,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -5233,7 +5233,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -5930,7 +5930,7 @@
 					}
 				],
 				"Hitpoints": 1100,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"MaxTideLoweredPercent": 0.2,
 				"IsValidPinchTarget": false,
 				"NormalDeathOnExplosion": true,
@@ -16322,7 +16322,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -16496,7 +16496,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -17597,7 +17597,7 @@
 				},
 				"Speed": 2.0,
 				"SpeedVariance": 0.0,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"WavePointCost": 4,
 				"Weight": 1
 			}
@@ -17785,7 +17785,7 @@
 				},
 				"Speed": 2.0,
 				"SpeedVariance": 0.0,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"WavePointCost": 4,
 				"Weight": 1
 			}
@@ -18570,7 +18570,7 @@
 				],
 				"GroundTrackName": "none",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},
@@ -18741,7 +18741,7 @@
 				],
 				"GroundTrackName": "ground_swatch",
 				"Hitpoints": 99999999,
-				"ScoreOverride": 0,
+				"ScoreOverride": 1,
 				"Speed": 2.0
 			}
 		},

@@ -1877,13 +1877,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_PIRATE",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_PIRATE",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_PIRATE",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_PIRATE",
 				"RewardDialogTitle": "[WORLD_NAME_PIRATE]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_PIRATE]"
@@ -1899,13 +1899,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_COWBOY",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_COWBOY",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_COWBOY",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_COWBOY",
 				"RewardDialogTitle": "[WORLD_NAME_COWBOY]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_COWBOY]"
@@ -1921,13 +1921,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_ICEAGE",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_ICEAGE",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_ICEAGE",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_ICEAGE",
 				"RewardDialogTitle": "[WORLD_NAME_ICEAGE]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_ICEAGE]"
@@ -1943,13 +1943,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_LOSTCITY",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_LOSTCITY",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_LOSTCITY",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_LOSTCITY",
 				"RewardDialogTitle": "[WORLD_NAME_LOSTCITY]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_LOSTCITY]"
@@ -1965,13 +1965,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_FUTURE",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_FUTURE",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_FUTURE",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_FUTURE",
 				"RewardDialogTitle": "[WORLD_NAME_FUTURE]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_FUTURE]"
@@ -1987,13 +1987,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_DARK",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_DARK",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_DARK",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_DARK",
 				"RewardDialogTitle": "[WORLD_NAME_DARK]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_DARK]"
@@ -2009,13 +2009,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_EIGHTIES",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_EIGHTIES",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_EIGHTIES",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_EIGHTIES",
 				"RewardDialogTitle": "[WORLD_NAME_EIGHTIES]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_EIGHTIES]"
@@ -2031,13 +2031,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_DINO",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_DINO",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_DINO",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_DINO",
 				"RewardDialogTitle": "[WORLD_NAME_DINO]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_DINO]"
@@ -2053,13 +2053,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_BEACH",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_BEACH",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_BEACH",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_BEACH",
 				"RewardDialogTitle": "[WORLD_NAME_BEACH]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_BEACH]"
@@ -2075,13 +2075,13 @@
 				"SpawnSound": "Play_Coin",
 				"GroundSound": "Play_UI_Game_Reward_Key_World_Drop",
 				"CollectSound": "Play_UI_Game_Reward_Key_World_PickUp",
-				"StandaloneImage": "IMAGE_ENDLEVEL_ICON_KEY_MODERN",
-				"StandaloneGroup": "CollectableUnique",
+				"StandaloneImage": "IMAGE_WORLDKEY_ICON_KEY_MODERN",
+				"StandaloneGroup": "GameTrophies",
 				"Dimensions": {
 					"x": 75,
 					"y": 75
 				},
-				"RewardDialogImage": "IMAGE_ENDLEVEL_ICON_KEY_MODERN",
+				"RewardDialogImage": "IMAGE_WORLDKEY_ICON_KEY_MODERN",
 				"RewardDialogTitle": "[WORLD_NAME_MODERN]",
 				"RewardDialogDescriptions": [
 					"[WORLD_PREVIEW_DESCRIPTION_MODERN]"
