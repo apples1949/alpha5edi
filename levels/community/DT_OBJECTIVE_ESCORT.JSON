@@ -159,7 +159,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_OBJECTIVE_ESCORT]",
 				"DescriptiveName": ""
 			}
 		},

@@ -62,7 +62,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "That's paradise since the first time\nI saw you standing there.",
+				"Description": "[DESCRIPTION_COMMUNITY_MALEX_AIRBOARDER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

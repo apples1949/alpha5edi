@@ -53,7 +53,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_CITRON4]",
 				"DescriptiveName": "[STARCHALLENGE_PRESET_PLANTS_NAME]"
 			}
 		},

@@ -46,7 +46,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while super boosted Shadow Zombies attack\nThey all die when all other zombies are killed!",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_NULLANDVOID]",
 				"DescriptiveName": "[STARCHALLENGE_LASTSTAND_MINIGAME_NAME]"
 			}
 		},

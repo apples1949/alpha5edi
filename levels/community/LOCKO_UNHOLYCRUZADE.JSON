@@ -92,7 +92,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Superior beings will zap your plants every 90 seconds!",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_UNHOLYCRUZADE]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

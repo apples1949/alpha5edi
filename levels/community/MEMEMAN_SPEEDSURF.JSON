@@ -62,7 +62,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Beat the level in under 8 minutes",
+				"Description": "[DESCRIPTION_COMMUNITY_MEMEMAN_SPEEDSURF]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -45,7 +45,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Double Wave spam incoming!\nSurvive with 120 seconds to prepare",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_SONICWAVES]",
 				"DescriptiveName": ""
 			}
 		},

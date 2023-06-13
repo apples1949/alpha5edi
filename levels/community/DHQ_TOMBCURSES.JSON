@@ -78,7 +78,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive as gravestones constantly rise from the ground on empty tiles.",
+				"Description": "[DESCRIPTION_COMMUNITY_DHQ_TOMBCURSES]",
 				"DescriptiveName": ""
 			}
 		},

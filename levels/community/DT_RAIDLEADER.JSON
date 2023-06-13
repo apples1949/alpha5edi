@@ -101,7 +101,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Flag Zombies are tougher and boost the speed of all zombies on their lanes!",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_RAIDLEADER]",
 				"DescriptiveName": "[STARCHALLENGE_PROTECT_THE_PLANT_NAME]"
 			}
 		},

@@ -85,7 +85,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Rescue the petrified Gold Blooms before the final wave",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_FLASHBANG]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

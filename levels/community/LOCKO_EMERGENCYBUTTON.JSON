@@ -87,7 +87,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_EMERGENCYBUTTON]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

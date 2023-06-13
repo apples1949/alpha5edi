@@ -63,7 +63,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_RIDINGSHOTGUN]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

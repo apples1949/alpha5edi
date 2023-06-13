@@ -98,7 +98,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seed bank\nLet Nether Dodos eat Hypno-shrooms and protect them from other zombies",
+				"Description": "[DESCRIPTION_COMMUNITY_REE_FRIENDLYNETHER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

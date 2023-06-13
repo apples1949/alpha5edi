@@ -45,7 +45,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with plants having no cooldown and a special seedbank",
+				"Description": "[DESCRIPTION_COMMUNITY_IMAGI_SEEDSOFTIME]",
 				"DescriptiveName": "eksdee"
 			}
 		},

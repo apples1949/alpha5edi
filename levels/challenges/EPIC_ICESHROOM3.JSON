@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "NOTE: All plants are removed from the conveyor in the final wave!",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_ICESHROOM3]",
 				"DescriptiveName": ""
 			}
 		},

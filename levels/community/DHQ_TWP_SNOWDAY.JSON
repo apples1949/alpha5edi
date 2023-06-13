@@ -332,7 +332,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Get ready for the snowball fight.",
+				"Description": "[DESCRIPTION_COMMUNITY_DHQ_TWP_SNOWDAY]",
 				"DescriptiveName": ""
 			}
 		},

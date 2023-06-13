@@ -161,7 +161,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seed bank\nAll seed packets have x1.5 recharge\nDisco Jetpack Zombies drop sun when they die",
+				"Description": "[DESCRIPTION_COMMUNITY_BREAD_FLYINGTROUBLES]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

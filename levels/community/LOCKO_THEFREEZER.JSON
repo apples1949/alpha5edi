@@ -54,7 +54,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Destroy all the iceblocks before the final wave (frozen plants count too)",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_THEFREEZER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

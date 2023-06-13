@@ -90,7 +90,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nProtect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_REE_FRIENDLYFIRE]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

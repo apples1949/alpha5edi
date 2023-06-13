@@ -93,7 +93,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 500 starting sun\nProtect the endangered plant",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_STRAWBURST2]",
 				"DescriptiveName": "[STARCHALLENGE_PRESET_PLANTS_NAME]"
 			}
 		},

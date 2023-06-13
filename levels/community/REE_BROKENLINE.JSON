@@ -60,7 +60,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_REE_BROKENLINE]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

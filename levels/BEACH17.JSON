@@ -69,7 +69,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Balloons arise from Lily Pads every wave\nSpawn and destroy 60 balloons!",
+				"Description": "[DESCRIPTION_BEACH17]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

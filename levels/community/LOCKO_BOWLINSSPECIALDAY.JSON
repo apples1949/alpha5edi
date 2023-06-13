@@ -53,7 +53,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plant",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_BOWLINSSPECIALDAY]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

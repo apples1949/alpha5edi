@@ -1814,7 +1814,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Chill under daylight is less effective. Rain decreases fire damage.",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_PRECIPITATION]",
 				"DescriptiveName": ""
 			}
 		},

@@ -109,7 +109,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nUse Plant Food on your Iceberg Lettuces or Sunflowers to make sun",
+				"Description": "[DESCRIPTION_COMMUNITY_BEEPBOOP_SUNLOCK]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

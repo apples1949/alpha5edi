@@ -96,7 +96,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Tents will spawn on every gold tile on the final wave, removing any plants above",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_GOLDENBALANCE]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

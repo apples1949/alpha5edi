@@ -70,7 +70,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_CAELUM_EYEOFTHESTORM]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Some plants are limited, use them wisely",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_PIECEBYPIECE]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

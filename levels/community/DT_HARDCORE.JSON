@@ -137,7 +137,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Destroy the arcade machine before the final wave. The trapped minecart will protect all zombies 2 tiles forward and backward!",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_HARDCORE]",
 				"DescriptiveName": ""
 			}
 		},

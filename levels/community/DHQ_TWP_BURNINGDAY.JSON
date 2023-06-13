@@ -161,7 +161,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Sun is dropping from the sky faster than normal but the zombies are stealing your sun. Also, chill is less effective and beware of the sun burn.",
+				"Description": "[DESCRIPTION_COMMUNITY_DHQ_TWP_BURNINGDAY]",
 				"DescriptiveName": ""
 			}
 		},

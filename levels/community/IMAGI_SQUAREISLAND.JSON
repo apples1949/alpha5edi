@@ -123,7 +123,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive on a 3x3 island!",
+				"Description": "[DESCRIPTION_COMMUNITY_IMAGI_SQUAREISLAND]",
 				"DescriptiveName": ""
 			}
 		},

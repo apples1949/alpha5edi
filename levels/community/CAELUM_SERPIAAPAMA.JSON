@@ -96,7 +96,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nProtect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_CAELUM_SERPIAAPAMA]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -406,7 +406,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "The rain will slowly make your lawn from column 4 to column 9 too soggy to plant on and greatly decrease fire damage.",
+				"Description": "[DESCRIPTION_COMMUNITY_DHQ_TWP_RAINFOREST]",
 				"DescriptiveName": ""
 			}
 		},

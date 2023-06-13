@@ -91,7 +91,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive a massive attack in the plasma field!\nThe boss is immune to stun!",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_CITRON6]",
 				"DescriptiveName": ""
 			}
 		},

@@ -190,7 +190,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plant Wall-nuts on all the marked tiles before the final wave",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_WALL_ALIGNMENT]",
 				"DescriptiveName": ""
 			}
 		},

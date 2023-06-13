@@ -173,7 +173,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seed bank\nProtect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_GIANG_LANDOWNER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

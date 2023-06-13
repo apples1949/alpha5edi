@@ -65,7 +65,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive as craters form on unoccupied tiles",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_FISSUREBLISTER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

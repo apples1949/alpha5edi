@@ -129,7 +129,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_STRAWBURST4]",
 				"DescriptiveName": "[STARCHALLENGE_PRESET_PLANTS_NAME]"
 			}
 		},

@@ -169,7 +169,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered Ghost Peppers with Plant Foods",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_HAUNTEDHIGHWAY]",
 				"DescriptiveName": "[STARCHALLENGE_PROTECT_THE_PLANT_NAME]"
 			}
 		},

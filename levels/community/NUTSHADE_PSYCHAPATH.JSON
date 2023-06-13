@@ -62,7 +62,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_NUTSHADE_PSYCHAPATH]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -101,7 +101,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nAll seed packets recharge 5 times as fast!",
+				"Description": "[DESCRIPTION_COMMUNITY_MEMEMAN_NUCLEARPOWER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -61,7 +61,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Zombies take 1/4 damage from fire plants. Stay frosty!",
+				"Description": "[DESCRIPTION_COMMUNITY_MALEX_FLIPPERFLOP]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

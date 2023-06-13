@@ -73,7 +73,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Lane 1 Sun-shroom buffs Zombie Toughness\nLane 5 Sun-shroom buffs Zombie Speed\nProtect at least 1 endangered plant",
+				"Description": "[DESCRIPTION_COMMUNITY_PONY_NIGHTRUNNING]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

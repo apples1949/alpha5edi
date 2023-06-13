@@ -79,7 +79,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive as zombies immune to fire damage create flames as they move! The flames prevent them from being chilled or frozen.",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_FLAMEWALKERS]",
 				"DescriptiveName": "FIXED HITBOXES YEAAAAAAAAAAAAAAAAAA"
 			}
 		},

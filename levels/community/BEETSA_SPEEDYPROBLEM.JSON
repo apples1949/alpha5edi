@@ -172,7 +172,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive as the trap tiles boost the zombies speed",
+				"Description": "[DESCRIPTION_COMMUNITY_BEETSA_SPEEDYPROBLEM]",
 				"DescriptiveName": "uwu"
 			}
 		},

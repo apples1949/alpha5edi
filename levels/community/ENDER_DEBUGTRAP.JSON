@@ -63,7 +63,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Keep at least 1 bug trap activated throughout the zombie attack",
+				"Description": "[DESCRIPTION_COMMUNITY_ENDER_DEBUGTRAP]",
 				"DescriptiveName": "part 3 lc pls"
 			}
 		},

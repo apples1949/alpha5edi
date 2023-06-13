@@ -52,7 +52,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_CITRON3]",
 				"DescriptiveName": "[STARCHALLENGE_PROTECT_THE_PLANT_NAME]"
 			}
 		},

@@ -95,7 +95,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "The Red Stingers can only withstand 3 microphone swings, look out for those Pelicans as well!",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_ROOTTENWEB]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

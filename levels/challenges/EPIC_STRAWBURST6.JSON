@@ -169,7 +169,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect at least 6 endangered Strawbursts",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_STRAWBURST6]",
 				"DescriptiveName": "[STARCHALLENGE_PRESET_PLANTS_NAME]"
 			}
 		},

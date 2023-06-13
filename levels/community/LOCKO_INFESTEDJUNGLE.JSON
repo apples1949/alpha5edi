@@ -175,7 +175,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while bug swarms happen randomly",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_INFESTEDJUNGLE]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

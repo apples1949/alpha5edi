@@ -48,7 +48,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive without using the Red Power Tiles",
+				"Description": "[DESCRIPTION_COMMUNITY_DT_POWERGRID]",
 				"DescriptiveName": "[STARCHALLENGE_PROTECT_THE_PLANT_NAME]"
 			}
 		},

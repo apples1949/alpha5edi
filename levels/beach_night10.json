@@ -64,7 +64,7 @@
             ],
             "objclass": "StarChallengeTargetScoreProps",
             "objdata": {
-                "Description": "Place Lily Pads for zombies to spawn and score at least 10,000 points!",
+                "Description": "[DESCRIPTION_BEACH_NIGHT10]",
                 "DescriptionFailure": "Not enough zombies spawned!",
                 "DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
                 "TargetScore": 10000

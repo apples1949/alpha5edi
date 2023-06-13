@@ -85,7 +85,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_COMMUNITY_CAELUM_RETURNTOSENDER]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

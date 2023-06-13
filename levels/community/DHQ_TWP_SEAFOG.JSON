@@ -147,7 +147,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Strange creatures are lurking in the fog.",
+				"Description": "[DESCRIPTION_COMMUNITY_DHQ_TWP_SEAFOG]",
 				"DescriptiveName": ""
 			}
 		},

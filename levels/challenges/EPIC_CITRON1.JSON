@@ -52,7 +52,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nAll seed packets recharge instantly!",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_CITRON1]",
 				"DescriptiveName": "[STARCHALLENGE_PRESET_PLANTS_NAME]"
 			}
 		},

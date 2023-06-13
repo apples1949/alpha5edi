@@ -213,7 +213,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Spend 3000 sun to break the statues before the final wave",
+				"Description": "[DESCRIPTION_BEACH3]",
 				"DescriptiveName": " "
 			}
 		},

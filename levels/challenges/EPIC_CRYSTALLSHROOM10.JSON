@@ -151,7 +151,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive a massive attack while your defense is slowly decaying from the ice trickeries.\nThe boss is immune to stun and all fire damage!",
+				"Description": "[DESCRIPTION_CHALLENGES_EPIC_CRYSTALLSHROOM10]",
 				"DescriptiveName": ""
 			}
 		},

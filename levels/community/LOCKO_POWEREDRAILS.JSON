@@ -125,7 +125,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Most plants are limited, use them wisely...",
+				"Description": "[DESCRIPTION_COMMUNITY_LOCKO_POWEREDRAILS]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

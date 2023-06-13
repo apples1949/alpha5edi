@@ -61,7 +61,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Every 6 waves your plants will be killed",
+				"Description": "[DESCRIPTION_COMMUNITY_BEEPBOOP_SUNRESERVES]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

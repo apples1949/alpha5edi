@@ -117,8 +117,8 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "All seed packets recharge 4 times as fast!\nSurvive without lawnmowers",
-				"DescriptiveName": "All seed packets recharge 4 times as fast!\nSurvive without lawnmowers"
+				"Description": "[DESCRIPTION_BEACH12]",
+				"DescriptiveName": "[DESCRIPTION_BEACH12]"
 			}
 		},
 		{
