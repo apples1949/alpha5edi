@@ -57,7 +57,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while the Fireball Hunters attack!\nThey cannot be stunned and they take half the damage from fire!",
+				"Description": "[DESCRIPTION_MINIGAMES_BOTANICAL1]",
 				"DescriptiveName": ""
 			}
 		},

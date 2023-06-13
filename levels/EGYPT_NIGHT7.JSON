@@ -94,7 +94,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Each big tombstone contains a Gargantuar. Break all of them before the final wave!",
+				"Description": "[DESCRIPTION_EGYPT_NIGHT7]",
 				"DescriptiveName": ""
 			}
 		},

@@ -289,7 +289,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Let the zombies trample at least 30 marked tiles",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_LOSTCITY13]",
 				"GridItemType": "zombiepotion_1",
 				"GridItemsToDestroy": 30
 			}

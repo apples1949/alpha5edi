@@ -65,7 +65,7 @@
             "objclass": "StarChallengeTargetScoreProps",
             "objdata": {
                 "Description": "[DESCRIPTION_BEACH_NIGHT10]",
-                "DescriptionFailure": "Not enough zombies spawned!",
+                "DescriptionFailure": "[DESCRIPTIONFAILURE1]",
                 "DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
                 "TargetScore": 10000
             }

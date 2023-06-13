@@ -129,7 +129,7 @@
 			"objdata": {
 				"TargetScore": 11500,
 				"Description": "Kill enough zombies in the marked area to reach 11,500 points!",
-				"DescriptionFailure": "Not enough zombies were killed in the marked area!"
+				"DescriptionFailure": "[DESCRIPTIONFAILURE3]"
 			}
 		},
 		{

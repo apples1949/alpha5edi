@@ -97,7 +97,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "NOTE: The flower line is safe when there is a plant in front\nYou cannot plant most shadow and ground plants in front of the flower line!",
+				"Description": "[DESCRIPTION_DINO2]",
 				"DescriptiveName": ""
 			}
 		},

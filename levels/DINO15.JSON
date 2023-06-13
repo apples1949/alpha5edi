@@ -194,8 +194,8 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nIceblocks defrost over time",
-				"DescriptiveName": "Survive with the given plants\nIceblocks defrost over time"
+				"Description": "[DESCRIPTION_DINO15]",
+				"DescriptiveName": "[DESCRIPTION_DINO15]"
 			}
 		},
 		{

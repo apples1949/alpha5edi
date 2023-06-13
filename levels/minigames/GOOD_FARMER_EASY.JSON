@@ -87,7 +87,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_MINIGAMES_GOOD_FARMER_EASY]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

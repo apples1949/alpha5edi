@@ -105,7 +105,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Destroy 12 Cannons before they explode!",
+				"Description": "[DESCRIPTION_PIRATE8]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

@@ -247,7 +247,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Tap on the gravestones to pay sun to break them\nThey do not block projectiles!",
+				"Description": "[DESCRIPTION_EGYPT_NIGHT13]",
 				"DescriptiveName": ""
 			}
 		},

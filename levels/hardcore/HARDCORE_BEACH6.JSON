@@ -58,7 +58,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with only 4000 sun",
+				"Description": "[DESCRIPTION_HARDCORE_HARDCORE_BEACH6]",
 				"DescriptiveName": ""
 			}
 		},
@@ -68,7 +68,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Destroy 20 surfboards on the ground",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_HARDCORE_BEACH6]",
 				"GridItemType": "surfboard",
 				"GridItemsToDestroy": 20
 			}

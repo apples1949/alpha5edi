@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive in the ghost town while ghosts come from Necromancies!",
+				"Description": "[DESCRIPTION_COMMUNITY_YERICKY_GHOSTTOWN]",
 				"DescriptiveName": ""
 			}
 		},

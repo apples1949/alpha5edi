@@ -119,7 +119,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Don't let ANY grid item linger on the lawn for too long (including plants' grid items)",
+				"Description": "[DESCRIPTION_EGYPT_NIGHT19]",
 				"DescriptiveName": ""
 			}
 		},

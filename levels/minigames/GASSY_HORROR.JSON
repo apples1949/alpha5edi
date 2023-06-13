@@ -173,7 +173,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the Endurian while he emits poisonous gas",
+				"Description": "[DESCRIPTION_MINIGAMES_GASSY_HORROR]",
 				"DescriptiveName": ""
 			}
 		},

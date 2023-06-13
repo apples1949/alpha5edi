@@ -92,8 +92,8 @@
 			],
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
-				"Description": "Kill enough non-imp zombies in the marked area to reach 23,000 points!",
-				"DescriptionFailure": "Not enough zombies were killed in the marked area!",
+				"Description": "[DESCRIPTION_HARDCORE_HARDCORE_COWBOY8]",
+				"DescriptionFailure": "[DESCRIPTIONFAILURE3]",
 				"DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
 				"TargetScore": 23000
 			}

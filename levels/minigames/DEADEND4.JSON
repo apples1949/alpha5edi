@@ -257,7 +257,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Play without the shovel.",
+				"Description": "[DESCRIPTION_MINIGAMES_DEADEND4]",
 				"DescriptiveName": ""
 			}
 		},

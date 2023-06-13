@@ -148,7 +148,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Escort the static Bug Zombies to your house to destroy at least 4 gravestones by planting underneath them\nThey have greater plant detection range!",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_COMMUNITY_DT_OBJECTIVE_ESCORT]",
 				"GridItemType": "gravestone_1",
 				"GridItemsToDestroy": 4
 			}

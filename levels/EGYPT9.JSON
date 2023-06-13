@@ -58,7 +58,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Destroy 23 gravestones before the final wave",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_EGYPT9]",
 				"GridItemType": "gravestone_egypt",
 				"GridItemsToDestroy": 23
 			}

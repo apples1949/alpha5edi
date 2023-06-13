@@ -245,7 +245,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Defeat all the zombies in under 4.5 minutes\nDefeat zombies to get sun\nZombies are teleported back to the beginning before they reach the house",
+				"Description": "[DESCRIPTION_MINIGAMES_SLEEPWALKERS_EASY]",
 				"DescriptiveName": ""
 			}
 		},

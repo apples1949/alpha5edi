@@ -48,7 +48,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seedbank\nGet a Banana Launcher to destroy the gravestone before the final wave",
+				"Description": "[DESCRIPTION_MINIGAMES_GOLDCAPTURE]",
 				"DescriptiveName": ""
 			}
 		},

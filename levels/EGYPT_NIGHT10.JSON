@@ -177,7 +177,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plant nuts on all the marked tiles before the final wave",
+				"Description": "[DESCRIPTION_EGYPT_NIGHT10]",
 				"DescriptiveName": "[STARCHALLENGE_PRESET_PLANTS_NAME]"
 			}
 		},

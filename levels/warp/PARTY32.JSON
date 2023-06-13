@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Warp Party!",
+				"Description": "混乱派对!",
 				"StartingSun": 50,
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",

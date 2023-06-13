@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Warp Party!",
+				"Description": "混乱派对!",
 				"StartingSun": 50,
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
@@ -348,7 +348,7 @@
 			"objdata": {
 				"GridItemType": "planttarget_iceblock",
 				"GridItemsToDestroy": 27,
-				"ChallengeDescription": "Destroy 27 Iceblocks"
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_WARP_PARTY38]"
 			}
 		},
 		{

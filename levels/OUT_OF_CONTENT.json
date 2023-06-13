@@ -82,7 +82,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "There are 10 levels, how far can you get?",
+				"Description": "[DESCRIPTION_OUT_OF_CONTENT]",
 				"DescriptiveName": " "
 			}
 		},

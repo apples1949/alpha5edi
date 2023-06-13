@@ -235,8 +235,8 @@
 			],
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
-				"Description": "Kill enough zombies in the marked area to reach 6,700 points!\nThe marked area and sliders will change every few waves!",
-				"DescriptionFailure": "Not enough zombies were killed in the marked area!",
+				"Description": "[DESCRIPTION_ICEAGE16]",
+				"DescriptionFailure": "[DESCRIPTIONFAILURE3]",
 				"DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
 				"TargetScore": 6700
 			}

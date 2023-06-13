@@ -294,7 +294,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Move your minecart to the middle lane in order to plant!",
+				"Description": "[DESCRIPTION_MINIGAMES_SHIPPER]",
 				"DescriptiveName": ""
 			}
 		},

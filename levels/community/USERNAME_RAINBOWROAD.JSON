@@ -122,7 +122,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Only plants of the corresponding color can be planted on Power Tiles of the same color.\nIt's a special seed bank btw",
+				"Description": "[DESCRIPTION_COMMUNITY_USERNAME_RAINBOWROAD]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

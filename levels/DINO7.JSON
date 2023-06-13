@@ -62,7 +62,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Defeat all zombies - don't let any escape!",
+				"Description": "[DESCRIPTION_DINO7]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

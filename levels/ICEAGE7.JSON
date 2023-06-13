@@ -110,7 +110,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Form and destroy 25 iceblocks",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_ICEAGE7]",
 				"GridItemType": "planttarget_iceblock",
 				"GridItemsToDestroy": 25
 			}

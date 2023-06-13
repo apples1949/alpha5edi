@@ -100,7 +100,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seed bank\nProtect the endangered plants",
+				"Description": "[DESCRIPTION_COMMUNITY_REE_STRAWBURSTPLAYGROUND]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

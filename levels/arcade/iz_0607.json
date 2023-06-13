@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "NOTE: Each Sun Tile gives 200 sun instead.",
+				"Description": "[DESCRIPTION_IZ_0607]",
 				"DescriptiveName": " "
 			}
 		},

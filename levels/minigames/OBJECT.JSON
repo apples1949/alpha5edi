@@ -106,7 +106,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the tombstones",
+				"Description": "[DESCRIPTION_MINIGAMES_OBJECT]",
 				"DescriptiveName": " "
 			}
 		},

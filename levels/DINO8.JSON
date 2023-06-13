@@ -400,8 +400,8 @@
 			],
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
-				"Description": "Kill enough zombies in the marked area to reach 7,500 points!",
-				"DescriptionFailure": "Not enough zombies were killed in the marked area!",
+				"Description": "[DESCRIPTION_DINO8]",
+				"DescriptionFailure": "[DESCRIPTIONFAILURE3]",
 				"DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
 				"TargetScore": 7500
 			}

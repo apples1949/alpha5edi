@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "NOTE: Each Sun Tile on the minecart gives 100 sun instead.",
+				"Description": "[DESCRIPTION_IZ_0605]",
 				"DescriptiveName": " "
 			}
 		},

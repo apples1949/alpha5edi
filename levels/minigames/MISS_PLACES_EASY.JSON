@@ -203,7 +203,7 @@
             ],
             "objclass": "StarChallengeBeatTheLevelProps",
             "objdata": {
-                "Description": "Survive with all the plants you can have\nYou get 200 sun on each tile planted",
+                "Description": "[DESCRIPTION_MINIGAMES_MISS_PLACES_EASY]",
                 "DescriptiveName": ""
             }
         },

@@ -141,7 +141,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered Snow Peas",
+				"Description": "[DESCRIPTION_LOSTCITY15]",
 				"DescriptiveName": "[STARCHALLENGE_PROTECT_THE_PLANT_NAME]"
 			}
 		},

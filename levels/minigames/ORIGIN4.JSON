@@ -409,7 +409,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with mostly plants from PvZ 1. All seed packets recharge twice as slow!",
+				"Description": "[DESCRIPTION_MINIGAMES_ORIGIN4]",
 				"DescriptiveName": ""
 			}
 		},

@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Warp Party!",
+				"Description": "混乱派对!",
 				"StartingSun": 600,
 				"ZombieLevel": 5,
 				"FirstRewardParam": "moneybag",

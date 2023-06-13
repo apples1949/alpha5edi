@@ -331,7 +331,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Destroy 30 sun gravestones before the final wave\nThey constantly spawn on Column 3 and 4!",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_HARDCORE_DARK9]",
 				"GridItemType": "gravestoneSunOnDestruction",
 				"GridItemsToDestroy": 30
 			}

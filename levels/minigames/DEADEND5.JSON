@@ -208,7 +208,7 @@
             "objclass": "StarChallengeTargetScoreProps",
             "objdata": {
                 "TargetScore": 6000,
-                "Description": "Kill enough zombies in the marked area to reach 6,000 points!\nUse the minecart to push zombies back!",
+                "Description": "[DESCRIPTION_MINIGAMES_DEADEND5]",
                 "DescriptionFailure": "[STARCHALLENGE_TARGET_SCORE_FAILURE]"
             }
         },

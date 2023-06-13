@@ -52,7 +52,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Let most Cleopatras summon backup Ras at least twice to kill 120 Ras!",
+				"Description": "[DESCRIPTION_EGYPT17]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

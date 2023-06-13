@@ -60,7 +60,7 @@
             ],
             "objclass": "StarChallengeBeatTheLevelProps",
             "objdata": {
-                "Description": "Survive with all the plants you can have\nDestroy all the Tall-nuts before the final wave\nPlay without the shovel",
+                "Description": "[DESCRIPTION_MINIGAMES_WALLBREAKER_EASY]",
                 "DescriptiveName": ""
             }
         },

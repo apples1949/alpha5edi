@@ -65,7 +65,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while the Spiky Hunters attack!\nThey cannot be stunned!",
+				"Description": "[DESCRIPTION_MINIGAMES_BOTANICAL3]",
 				"DescriptiveName": ""
 			}
 		},

@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Warp Party!",
+				"Description": "混乱派对!",
 				"StartingSun": 50,
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",
@@ -61,7 +61,7 @@
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
 				"Description": "Reach 4,000 points! You do not need to defend your house this time.",
-				"DescriptionFailure": "Not enough points!",
+				"DescriptionFailure": "[DESCRIPTIONFAILURE4]",
 				"DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
 				"TargetScore": 4000
 			}

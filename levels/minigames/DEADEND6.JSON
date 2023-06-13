@@ -200,7 +200,7 @@
             "objclass": "StarChallengeTargetScoreProps",
             "objdata": {
                 "TargetScore": 19500,
-                "Description": "Kill enough zombies in the marked area to reach 19,500 points!\nThe middle lane keeps pushing them back!",
+                "Description": "[DESCRIPTION_MINIGAMES_DEADEND6]",
                 "DescriptionFailure": "[STARCHALLENGE_TARGET_SCORE_FAILURE]"
             }
         },

@@ -166,7 +166,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seedbank\nDefeat Egypt zombies to get sun - they only spawn from Necromancies!",
+				"Description": "[DESCRIPTION_DARK_DAY15]",
 				"DescriptiveName": ""
 			}
 		},

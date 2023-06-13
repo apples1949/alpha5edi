@@ -73,7 +73,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Zomboss's Sun Snipers have come to destroy your lawn. Prepare for an onslaught of lasers!",
+				"Description": "[DESCRIPTION_COMMUNITY_YERICKY_SUNSNIPERS]",
 				"DescriptiveName": ""
 			}
 		},

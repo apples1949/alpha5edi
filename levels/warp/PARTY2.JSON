@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Warp Party!",
+				"Description": "混乱派对!",
 				"GridItemLevel": 30,
 				"StartingSun": 500,
 				"ResourceGroupNames": [

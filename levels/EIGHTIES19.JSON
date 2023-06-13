@@ -64,7 +64,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Football Zombies won't eat your plants nor your brain this time.\nKill at least 20 of them.",
+				"Description": "[DESCRIPTION_EIGHTIES19]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

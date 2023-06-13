@@ -61,7 +61,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Waves are triggered automatically every 10 seconds!\nSurvive with 60 seconds to prepare",
+				"Description": "[DESCRIPTION_COWBOY_NIGHT17]",
 				"DescriptiveName": ""
 			}
 		},

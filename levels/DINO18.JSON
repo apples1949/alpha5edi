@@ -156,8 +156,8 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plan your defense and defeat the zombies",
-				"DescriptiveName": "Plan your defense and defeat the zombies"
+				"Description": "[DESCRIPTION_DINO18]",
+				"DescriptiveName": "[DESCRIPTION_DINO18]"
 			}
 		},
 		{

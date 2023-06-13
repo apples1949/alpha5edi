@@ -68,7 +68,7 @@
 			],
 			"objclass": "DestroyGridItemsChallengeProps",
 			"objdata": {
-				"ChallengeDescription": "Destroy 13 surfboards on the ground",
+				"ChallengeDescription": "[CHALLENGEDEACRIPTION_BEACH6]",
 				"GridItemType": "surfboard",
 				"GridItemsToDestroy": 13
 			}

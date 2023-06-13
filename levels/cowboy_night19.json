@@ -110,8 +110,8 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Trap tiles are reversed!",
-				"DescriptiveName": "Trap tiles are reversed!"
+				"Description": "[DESCRIPTION_COWBOY_NIGHT19]",
+				"DescriptiveName": "[DESCRIPTION_COWBOY_NIGHT19]"
 			}
 		},
 		{

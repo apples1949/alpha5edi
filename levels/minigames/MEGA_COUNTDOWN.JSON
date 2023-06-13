@@ -135,7 +135,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "After 5 minutes, the Gargantuars will be able to move. Plan carefully!",
+				"Description": "[DESCRIPTION_MINIGAMES_MEGA_COUNTDOWN]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

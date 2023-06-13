@@ -146,7 +146,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[Survive with the given plants]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

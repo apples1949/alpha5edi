@@ -200,7 +200,7 @@
             ],
             "objclass": "StarChallengeBeatTheLevelProps",
             "objdata": {
-                "Description": "Survive with all the plants you can have\nProtect the endangered plant",
+                "Description": "[DESCRIPTION_MINIGAMES_NUTSHELL_EASY]",
                 "DescriptiveName": "[STARCHALLENGE_PROTECT_THE_PLANT_NAME]"
             }
         },

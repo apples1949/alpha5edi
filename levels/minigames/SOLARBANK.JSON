@@ -45,7 +45,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the chosen plants and conveyor\nPlants from the conveyor cost sun to plant!",
+				"Description": "[DESCRIPTION_MINIGAMES_SOLARBANK]",
 				"DescriptiveName": ""
 			}
 		},

@@ -132,7 +132,7 @@
             ],
             "objclass": "StarChallengeBeatTheLevelProps",
             "objdata": {
-                "Description": "Survive with all the plants you can have\nProtect the Brickhead Zombie on the top lane\nLet it trigger the trap at the final wave to win",
+                "Description": "[DESCRIPTION_MINIGAMES_MEATSHIELD_EASY]",
                 "DescriptiveName": ""
             }
         },

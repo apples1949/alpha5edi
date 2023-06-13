@@ -95,7 +95,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_MINIGAMES_SOLAR_QUEST]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

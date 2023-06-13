@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Warp Party!",
+				"Description": "混乱派对!",
 				"ZombieLevel": 10,
 				"StartingSun": 1000,
 				"ResourceGroupNames": [

@@ -107,7 +107,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Capture at least 20 Bull Riders with Toadstool.",
+				"Description": "[DESCRIPTION_COMMUNITY_VIN_VIP]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},
