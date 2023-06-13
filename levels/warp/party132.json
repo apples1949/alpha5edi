@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Not my first level :)",
+				"Description": "不是我的第一关 :)",
 				"ZombieLevel": 4,
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [
@@ -46,7 +46,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plant\nZombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY132]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

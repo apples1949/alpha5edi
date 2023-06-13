@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Borrowed from gp2 be like",
+				"Description": "从 gp2 那借来的",
 				"ResourceGroupNames": [
 					"PlantDandelion",
 					"DelayLoad_Background_Beach",

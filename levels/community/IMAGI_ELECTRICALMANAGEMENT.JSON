@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Good Luck",
+				"Description": "祝你好运",
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",
 					"DelayLoad_Background_Beach_Compressed"

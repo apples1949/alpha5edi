@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": ":warpparty:",
+				"Description": ":混乱派对:",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [

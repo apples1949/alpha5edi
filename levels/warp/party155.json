@@ -203,7 +203,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "The Spikeweeds cannot be moved onto column 6, 7, 8 and 9\nSurvive with the given plants and 800 starting sun",
+				"Description": "[DESCRIPTION_WARP_PARTY155]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

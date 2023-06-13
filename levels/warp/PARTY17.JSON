@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while explosive graves appears",
+				"Description": "[DESCRIPTION_WARP_PARTY17]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

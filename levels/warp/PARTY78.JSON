@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 250,
-				"Description": "KEVINNGW808's Level Pack",
+				"Description": "KEVINNGW808 的关卡包",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",
@@ -94,7 +94,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY78]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

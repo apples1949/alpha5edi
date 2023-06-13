@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "jack'o go brrr",
+				"Description": "杰克南瓜冲呀",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -145,7 +145,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants with a special seedbank\nUsing PFs on Jack'O Lantern can make the level easier",
+				"Description": "[DESCRIPTION_WARP_PARTY102]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

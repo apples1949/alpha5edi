@@ -144,7 +144,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plan your defense and defeat the zombies\nZombies are at level 4 (x1.3 HP, x1.2 DPS, x1.03 speed)\nGrid items are at level 7 (x1.7 HP)",
+				"Description": "[DESCRIPTION_WARP_PARTY36]",
 				"DescriptiveName": ""
 			}
 		},

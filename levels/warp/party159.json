@@ -74,7 +74,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plants will be constantly spawning, make sure you shovel them fast enough to not break the limit",
+				"Description": "[DESCRIPTION_WARP_PARTY159]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "pls dont abuse tier lock ",
+				"Description": "请不要滥用阶级锁",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [

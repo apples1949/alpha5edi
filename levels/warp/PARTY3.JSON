@@ -263,7 +263,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nSpend 2000 sun to break the statues before the final wave",
+				"Description": "[DESCRIPTION_WARP_PARTY3]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

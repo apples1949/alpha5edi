@@ -216,7 +216,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Clear out all the zombies to win this level.",
+				"Description": "[DESCRIPTION_WARP_PARTY55]",
 				"DescriptiveName": ""
 			}
 		},

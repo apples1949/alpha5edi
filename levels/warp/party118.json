@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Welcome to darkland!",
+				"Description": "欢迎来到暗土!",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -68,7 +68,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Don't let the zombies step on Spikeweeds for more than 120s\nProtect the endangered plants",
+				"Description": "[DESCRIPTION_WARP_PARTY118]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

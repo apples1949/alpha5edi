@@ -69,7 +69,7 @@
 						"eighties_8bit"
 					]
 				},
-				"Description": "Defeat 50 8-Bit Zombies. They can be summoned via shields every wave!",
+				"Description": "[DESCRIPTION_WARP_PARTY125]",
 				"NumZombiesToKill": 50
 			}
 		},

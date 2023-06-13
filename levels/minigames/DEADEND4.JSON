@@ -280,7 +280,7 @@
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
 				"TargetScore": 1300,
-				"Description": "Kill ALL zombies, on ONLY the marked tiles.",
+				"Description": "[DESCRIPTION_MINIGAMES_DEADEND4_2]",
 				"DescriptionFailure": "[STARCHALLENGE_TARGET_SCORE_FAILURE]"
 			}
 		},

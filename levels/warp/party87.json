@@ -64,7 +64,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Do not let any plant or zombie be on marked tiles",
+				"Description": "[DESCRIPTION_WARP_PARTY87]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

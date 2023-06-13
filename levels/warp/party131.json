@@ -93,7 +93,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Your planting capacity will be reduced by five every flag wave",
+				"Description": "[DESCRIPTION_WARP_PARTY131]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

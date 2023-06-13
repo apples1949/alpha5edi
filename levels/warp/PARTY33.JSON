@@ -135,7 +135,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Future zombies are immune to Caulipower!",
+				"Description": "[DESCRIPTION_WARP_PARTY33]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

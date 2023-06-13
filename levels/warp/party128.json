@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 200,
-				"Description": "Rip the golden icon",
+				"Description": "撕开黄金图标",
 				"FirstRewardParam": "moneybag",
 				"FixedPlantLevel": 54,
 				"NormalPresentTable": "egypt_normal_01",
@@ -66,7 +66,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "All plants are locked at tier III\nMinis are locked at maxed tier",
+				"Description": "[DESCRIPTION_WARP_PARTY128]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

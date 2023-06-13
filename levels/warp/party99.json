@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 2000,
-				"Description": "Don't use Bombe trust me",
+				"Description": "相信我不要用爆炸石榴",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -80,7 +80,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 2000 starting sun\nSandstorm makes the zombies faster\nSunburn makes the zombies immune to freeze and chill",
+				"Description": "[DESCRIPTION_WARP_PARTY99]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

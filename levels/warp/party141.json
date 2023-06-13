@@ -124,7 +124,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Beat the level before the Ra Zombie eats your brains!\nSurvive with a custom seedbank",
+				"Description": "[DESCRIPTION_WARP_PARTY141]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

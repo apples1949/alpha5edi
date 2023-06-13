@@ -57,7 +57,7 @@
 			],
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
-				"Description": "Reach 5,000 points! You do not need to defend your house this time.",
+				"Description": "[DESCRIPTION_WARP_PARTY48]",
 				"DescriptionFailure": "[DESCRIPTIONFAILURE4]",
 				"DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
 				"TargetScore": 5000

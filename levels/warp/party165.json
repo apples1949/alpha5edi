@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 200,
-				"Description": "This level was dedicated to {PLAYER}",
+				"Description": "这个关卡是献给 {PLAYER} 的",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -342,7 +342,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "All plants except for sun producers can only be planted in carts.",
+				"Description": "[DESCRIPTION_WARP_PARTY165]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

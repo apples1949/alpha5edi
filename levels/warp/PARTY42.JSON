@@ -50,7 +50,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Don't let the Nether Dodos get unfrozen",
+				"Description": "[DESCRIPTION_WARP_PARTY42]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

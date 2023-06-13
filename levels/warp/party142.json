@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 500,
-				"Description": "KEVINNGW808's Level Pack",
+				"Description": "KEVINNGW808 的关卡包",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -117,7 +117,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Beat the level in under 8 minutes\nAll seed packets have x1.5 recharge",
+				"Description": "[DESCRIPTION_WARP_PARTY142]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

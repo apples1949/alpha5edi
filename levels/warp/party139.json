@@ -53,7 +53,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Bulls can charge multiple times and damage plants greatly upon impact!",
+				"Description": "[DESCRIPTION_WARP_PARTY139]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

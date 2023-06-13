@@ -3,7 +3,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "seems familiar",
+				"Description": "似曾相识",
 				"GameOverDialogShowBrain": false,
 				"MainObjective": "[SURVIVE_ZOMBIE_ATTACK]",
 				"ResourceGroupNames": [
@@ -454,7 +454,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY63]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},
@@ -464,7 +464,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Reach the target score",
+				"Description": "[DESCRIPTION_WARP_PARTY63_2]",
 				"DescriptiveName": "[STARCHALLENGE_CANNON_MINIGAME_NAME]"
 			}
 		},

@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 150,
-				"Description": "KEVINNGW808's Level Pack",
+				"Description": "KEVINNGW808 的关卡包",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [

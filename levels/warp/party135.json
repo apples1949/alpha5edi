@@ -117,7 +117,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants\nSurvive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY135]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},
@@ -128,7 +128,7 @@
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
 				"TargetScore": 11500,
-				"Description": "Kill enough zombies in the marked area to reach 11,500 points!",
+				"Description": "[DESCRIPTION_WARP_PARTY135_2]",
 				"DescriptionFailure": "[DESCRIPTIONFAILURE3]"
 			}
 		},

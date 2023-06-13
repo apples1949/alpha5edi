@@ -50,7 +50,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 500 starting sun\nGrid items are at level 30 (x5.6 HP)",
+				"Description": "[DESCRIPTION_WARP_PARTY2]",
 				"DescriptiveName": ""
 			}
 		},

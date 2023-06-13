@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Custom Level",
+				"Description": "自制关卡",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -65,7 +65,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive the attack of the long blasters!",
+				"Description": "[DESCRIPTION_WARP_PARTY101]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

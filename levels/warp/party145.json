@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Freeze and Unfreeze are 2 steps of winning",
+				"Description": "冻结和解冻是获胜的两个步骤",
 				"LevelNumber": "69",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
@@ -93,7 +93,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "All seed packets have x0.75 recharge\nSurvive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY145]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

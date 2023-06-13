@@ -116,7 +116,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Defeat 70 Adventurer Zombies",
+				"Description": "[DESCRIPTION_WARP_PARTY5]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

@@ -7,7 +7,7 @@
 			"objdata": {
 				"StartingSun": 500,
 				"ZombieLevel": 4,
-				"Description": "Custom Level",
+				"Description": "自制关卡",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -79,7 +79,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 500 starting sun\nBeat the level in under 11 minutes\nZombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY143]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

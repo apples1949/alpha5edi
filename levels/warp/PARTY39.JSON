@@ -81,7 +81,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants\nZombies are at level 3 (x1.2 HP, x1.2 DPS, x1.02 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY39]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

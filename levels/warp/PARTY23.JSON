@@ -148,7 +148,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY23]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

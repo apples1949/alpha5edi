@@ -7,7 +7,7 @@
 			"objdata": {
 				"StartingSun": 50,
 				"ZombieLevel": 6,
-				"Description": "hello guys i like cheese",
+				"Description": "伙计们你们好我喜欢奶酪",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -75,7 +75,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Zombies are at level 6 (x1.5 HP, x1.5 DPS, x1.05 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY85]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

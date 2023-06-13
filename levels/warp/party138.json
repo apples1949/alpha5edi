@@ -145,7 +145,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plant Moonflowers on Boost Tiles and protect their shields before the first flag wave\nAll zombies are stronger during the eclipse\nSunburn will follow the eclipse\nSpend 5000 sun to break the statues before the final wave",
+				"Description": "[DESCRIPTION_WARP_PARTY138]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -132,7 +132,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 500 starting sun\nZombies are at level 3 (x1.2 HP, x1.2 DPS, x1.02 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY9]",
 				"DescriptiveName": ""
 			}
 		},

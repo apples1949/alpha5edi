@@ -161,7 +161,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plant",
+				"Description": "[DESCRIPTION_WARP_PARTY13]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},
@@ -171,7 +171,7 @@
 			],
 			"objclass": "StarChallengeTargetScoreProps",
 			"objdata": {
-				"Description": "Reach 5,000 points! MC spawns from sap every wave!",
+				"Description": "[DESCRIPTION_WARP_PARTY13_2]",
 				"DescriptionFailure": "[DESCRIPTIONFAILURE4]",
 				"DescriptiveName": "[STARCHALLENGE_TARGET_SCORE_NAME]",
 				"TargetScore": 5000

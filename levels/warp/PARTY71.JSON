@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 25,
-				"Description": "Made with 320 giga pixels",
+				"Description": "用320千兆像素制作",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -91,7 +91,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seed bank",
+				"Description": "[DESCRIPTION_WARP_PARTY71]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

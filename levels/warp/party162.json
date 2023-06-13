@@ -132,7 +132,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "500 sun will drop every wave\nBeat the level in under 2 minutes\nAll seed packets have no recharge",
+				"Description": "[DESCRIPTION_WARP_PARTY162]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

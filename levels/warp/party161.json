@@ -65,7 +65,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plant Spore-shrooms on all the marked tiles before the final wave",
+				"Description": "[DESCRIPTION_WARP_PARTY161]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

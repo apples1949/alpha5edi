@@ -85,7 +85,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "All zombies will be killed on final wave\nProtect the endangered plants\nBeat the level with only 3 seed slots",
+				"Description": "[DESCRIPTION_WARP_PARTY149]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

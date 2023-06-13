@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "{PLAYER}'s suffering adventure",
+				"Description": "{PLAYER} 的受苦冒险",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -80,7 +80,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Flag Zombies indicate that there will be \"Trains\" appearing in those lanes soon!\nThe \"Train\" will destroy most plants in its path.\nProtect the endangered plant",
+				"Description": "[DESCRIPTION_WARP_PARTY153]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

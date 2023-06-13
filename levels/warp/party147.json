@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 2000,
-				"Description": "go forward and back",
+				"Description": "来回移动",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -66,7 +66,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 2000 starting sun",
+				"Description": "[DESCRIPTION_WARP_PARTY147]",
 				"DescriptiveName": ""
 			}
 		},

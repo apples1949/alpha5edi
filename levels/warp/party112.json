@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 1000,
-				"Description": "R  O  A  S  T  E  D    S  H  O  V  E  L  S",
+				"Description": "铲 子 烧 烤",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -382,7 +382,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Kill Excavator Zombies using the splash damage of Fire Peas and Coconut Cannon. A timer will start in the final wave.",
+				"Description": "[DESCRIPTION_WARP_PARTY112]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

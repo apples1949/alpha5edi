@@ -75,7 +75,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive without the shovel",
+				"Description": "[DESCRIPTION_WARP_PARTY15]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -109,7 +109,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Each shot costs 25 sun\nBasic, Conehead, and Buckethead each requires 1, 2, and 3 shots respectively",
+				"Description": "[DESCRIPTION_WARP_PARTY72]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -109,7 +109,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive without sun producers\nEmpty barrels can give you extra sun",
+				"Description": "[DESCRIPTION_WARP_PARTY97]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

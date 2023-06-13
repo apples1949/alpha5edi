@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Everybody hates escort missions, I know",
+				"Description": "我知道每个人都讨厌护送任务",
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",
 					"DelayLoad_Background_Beach_Compressed"

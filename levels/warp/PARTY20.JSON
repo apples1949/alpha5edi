@@ -191,7 +191,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Grid items are at level 30 (x5.6 HP)",
+				"Description": "[DESCRIPTION_WARP_PARTY20]",
 				"DescriptiveName": ""
 			}
 		},

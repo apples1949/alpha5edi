@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Throwback!",
+				"Description": "回到过去!",
 				"DisablePlantBoosts": true,
 				"LevelPowerupSet": "LevelPowerupsDisabled",
 				"SuppressPlantfoodPurchase": true,

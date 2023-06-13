@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Society if Night Pirate Seas exist",
+				"Description": "如果海盗之夜存在的社会",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -89,7 +89,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_WARP_PARTY129]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

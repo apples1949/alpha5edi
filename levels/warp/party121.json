@@ -138,7 +138,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with a special seed bank\nZombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY121]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

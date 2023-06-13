@@ -84,7 +84,7 @@
 			],
 			"objclass": "CowboyMinigameProperties",
 			"objdata": {
-				"BeginString": "Hint: Save up some grid items for the waves after!"
+				"BeginString": "提示: 留一些障碍物以备后用!"
 			}
 		},
 		{

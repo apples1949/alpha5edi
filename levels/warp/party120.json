@@ -73,7 +73,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while heavy frost winds come rapidly",
+				"Description": "[DESCRIPTION_WARP_PARTY120]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

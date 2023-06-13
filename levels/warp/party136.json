@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Welcome to dark land!",
+				"Description": "欢迎来到暗土!",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -76,7 +76,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants",
+				"Description": "[DESCRIPTION_WARP_PARTY136]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

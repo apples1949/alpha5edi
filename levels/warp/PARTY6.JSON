@@ -59,7 +59,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Bombe's seeds will explode and destroy everything around them!",
+				"Description": "[DESCRIPTION_WARP_PARTY6]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

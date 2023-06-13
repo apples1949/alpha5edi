@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "How good is Spikeweed actually?",
+				"Description": "地刺到底有多好呢?",
 				"FirstRewardParam": "big_moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [

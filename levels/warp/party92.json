@@ -105,7 +105,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "It's sunset now, sun will drop slower and some shrooms will be awake.",
+				"Description": "[DESCRIPTION_WARP_PARTY92]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

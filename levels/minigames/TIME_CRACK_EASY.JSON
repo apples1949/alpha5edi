@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "Throwback!",
+				"Description": "回到过去!",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
 					"PlantFirePeashooter",
@@ -396,7 +396,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while temporal cracks appear. Patch them with ground plants to stop the cracks!",
+				"Description": "[DESCRIPTION_MINIGAMES_TIME_CRACK_EASY]",
 				"DescriptiveName": ""
 			}
 		},

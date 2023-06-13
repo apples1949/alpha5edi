@@ -64,7 +64,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 1500 starting sun\nEmber prevents zombies from being frozen or chilled",
+				"Description": "[DESCRIPTION_WARP_PARTY127]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

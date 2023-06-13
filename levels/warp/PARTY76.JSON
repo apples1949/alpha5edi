@@ -64,7 +64,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Big Imps have higher DPS and they are immune to fire, chill, and freeze",
+				"Description": "[DESCRIPTION_WARP_PARTY76]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

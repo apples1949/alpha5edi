@@ -144,7 +144,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Beat the level in under 4 minutes\nHint: Use Spikerocks to kill ALL zombies!",
+				"Description": "[DESCRIPTION_WARP_PARTY152]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

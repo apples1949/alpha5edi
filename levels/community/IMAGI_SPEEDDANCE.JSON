@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "I am speed",
+				"Description": "我就是速度",
 				"StartingSun": 100,
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [

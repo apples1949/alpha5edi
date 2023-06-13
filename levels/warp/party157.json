@@ -104,7 +104,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "You get a Lily Pad every 20 seconds!",
+				"Description": "[DESCRIPTION_WARP_PARTY157]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

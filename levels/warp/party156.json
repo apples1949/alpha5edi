@@ -81,7 +81,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plan your defense and defeat the zombies\nZombies have 30% damage resistance!",
+				"Description": "[DESCRIPTION_WARP_PARTY156]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

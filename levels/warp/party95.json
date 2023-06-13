@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 100,
-				"Description": "{PLAYER}'s trip to the sussy land",
+				"Description": "{PLAYER} 的可疑土地之旅",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",

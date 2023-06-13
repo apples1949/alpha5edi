@@ -94,7 +94,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "At flag waves, you'll get a chicken for each bombegranate seed on the lawn",
+				"Description": "[DESCRIPTION_WARP_PARTY57]",
 				"DescriptiveName": ""
 			}
 		},
@@ -104,7 +104,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Defeat 25 Chickens!",
+				"Description": "[DESCRIPTION_WARP_PARTY57_2]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

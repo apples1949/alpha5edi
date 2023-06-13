@@ -49,7 +49,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Zombies are at level 4 (x1.3 HP, x1.3 DPS, x1.03 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY4]",
 				"DescriptiveName": ""
 			}
 		},

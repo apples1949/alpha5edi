@@ -62,7 +62,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Zombies will spawn on Shakeboard Tiles",
+				"Description": "[DESCRIPTION_WARP_PARTY79]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

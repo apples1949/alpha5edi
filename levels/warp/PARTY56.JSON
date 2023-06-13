@@ -122,8 +122,8 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Don't let the zombies trample the runes!\nMarked tiles denote where the runes will appear next.",
-				"DescriptiveName": "Don't let the zombies trample the runes!\nMarked tiles denote where the runes will appear next."
+				"Description": "[DESCRIPTION_WARP_PARTY56]",
+				"DescriptiveName": "[DESCRIPTION_WARP_PARTY56]"
 			}
 		},
 		{

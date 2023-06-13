@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "no way {PLAYER} you found this",
+				"Description": "不可能吧 {PLAYER}, 你找到了这个",
 				"FirstRewardParam": "moneybag",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
@@ -71,7 +71,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Push all endangered plants to the first column\nProtect the endangered plants",
+				"Description": "[DESCRIPTION_WARP_PARTY166]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

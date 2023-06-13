@@ -61,7 +61,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Zombies are at level 7 (x1.7 HP, x1.6 DPS, x1.06 speed)\nGrid items are at level 5 (x1.4 HP)",
+				"Description": "[DESCRIPTION_WARP_PARTY28]",
 				"DescriptiveName": ""
 			}
 		},

@@ -51,7 +51,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Having too many of the same plants will stop them from appearing on the conveyor!",
+				"Description": "[DESCRIPTION_WARP_PARTY25]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

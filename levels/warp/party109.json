@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 2000,
-				"Description": "{PLAYER} attempts to be a good level maker",
+				"Description": "{PLAYER} 努力成为一名优秀的关卡制造者",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -86,7 +86,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 2000 starting sun\nAll zombies are speed-boosted!",
+				"Description": "[DESCRIPTION_WARP_PARTY109]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

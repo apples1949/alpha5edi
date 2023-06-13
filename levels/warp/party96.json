@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 0,
-				"Description": "Custom Level",
+				"Description": "自制关卡",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -87,7 +87,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY96]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

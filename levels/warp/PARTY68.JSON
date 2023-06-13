@@ -66,7 +66,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Most of the zombies will follow the path. You cannot plant on the path!",
+				"Description": "[DESCRIPTION_WARP_PARTY68]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

@@ -124,7 +124,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plants with a special seedbank",
+				"Description": "[DESCRIPTION_WARP_PARTY103]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

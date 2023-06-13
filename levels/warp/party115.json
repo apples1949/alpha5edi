@@ -270,7 +270,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Don't let the zombies trample the marked tiles",
+				"Description": "[DESCRIPTION_WARP_PARTY115]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

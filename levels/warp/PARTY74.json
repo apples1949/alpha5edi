@@ -108,7 +108,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plant the Primal Potato Mine on the marked tile to kill the Chickens\nChickens will spawn after the wave of Vegan Zombies",
+				"Description": "[DESCRIPTION_WARP_PARTY74]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

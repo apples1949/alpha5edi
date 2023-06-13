@@ -78,7 +78,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Those statues will activate every flag from cheapest to most expensive one, spend 8500 sun to destroy them",
+				"Description": "[DESCRIPTION_WARP_PARTY35]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

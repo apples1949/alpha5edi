@@ -85,7 +85,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "All plants have double recharge\nProtect the endangered plants\nSurvive with the given plants",
+				"Description": "[DESCRIPTION_WARP_PARTY164]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

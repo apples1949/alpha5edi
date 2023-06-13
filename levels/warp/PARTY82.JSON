@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 150,
-				"Description": "KEVINNGW808's Level Pack",
+				"Description": "KEVINNGW808 的关卡包",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -62,7 +62,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive a massive attack during Dark Ages' Sports Festival!\nTip: 60 seconds preparation time",
+				"Description": "[DESCRIPTION_WARP_PARTY82]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

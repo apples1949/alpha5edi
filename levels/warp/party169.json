@@ -63,7 +63,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Boombox Zombies are tougher and will permanently disable plants in a small area!",
+				"Description": "[DESCRIPTION_WARP_PARTY169]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

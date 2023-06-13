@@ -63,7 +63,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 600 starting sun\nProtect the endangered plants\nZombies are at level 5 (x1.4 HP, x1.4 DPS, x1.04 speed)",
+				"Description": "[DESCRIPTION_WARP_PARTY37]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

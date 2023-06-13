@@ -60,7 +60,7 @@
 			],
 			"objclass": "DefeatZombiesOfTypeChallengeProps",
 			"objdata": {
-				"Description": "Keep at least 8 potions for the final wave!",
+				"Description": "[DESCRIPTION_WARP_PARTY53]",
 				"TypesToKill": {
 					"ListType": "includelist",
 					"List": [

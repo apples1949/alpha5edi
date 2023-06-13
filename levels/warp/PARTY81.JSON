@@ -91,7 +91,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with 500 starting sun\nBeat the level in under 8 minutes",
+				"Description": "[DESCRIPTION_WARP_PARTY81]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

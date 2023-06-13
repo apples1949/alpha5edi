@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": -100,
-				"Description": "S  U  N  K  I  S  S  E  D",
+				"Description": "阳  光  照  射",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -269,7 +269,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Spend MORE than 1000 sun in total to break the statues before the final wave. Three of these statues are real while the rest are fake. Even if the costs are fake, perhaps the sun may show you the way?",
+				"Description": "[DESCRIPTION_WARP_PARTY67]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

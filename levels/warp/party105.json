@@ -79,7 +79,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plan your defense and defeat the zombies\nMore sun will be given later",
+				"Description": "[DESCRIPTION_WARP_PARTY105]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

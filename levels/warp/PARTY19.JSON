@@ -187,7 +187,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive while sunburn happens",
+				"Description": "[DESCRIPTION_WARP_PARTY19]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

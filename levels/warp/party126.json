@@ -5,7 +5,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Super Veri Funni Hunter",
+				"Description": "超级滑稽的猎人僵尸",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -84,7 +84,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "When Glow Snow comes, some Veteran Hunters will come as well!",
+				"Description": "[DESCRIPTION_WARP_PARTY126]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

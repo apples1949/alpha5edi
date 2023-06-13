@@ -107,7 +107,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Protect the endangered plant",
+				"Description": "[DESCRIPTION_WARP_PARTY80]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

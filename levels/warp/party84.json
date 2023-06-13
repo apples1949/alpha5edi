@@ -68,7 +68,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Plant Strawbursts on the marked tiles before the final wave",
+				"Description": "[DESCRIPTION_WARP_PARTY84]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

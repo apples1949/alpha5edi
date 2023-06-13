@@ -6,7 +6,7 @@
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "Small town, indeed",
+				"Description": "的确是小镇",
 				"FirstRewardParam": "moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
@@ -93,7 +93,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Survive with the given plants\nSpend 1000 sun to break the statues before the final wave",
+				"Description": "[DESCRIPTION_WARP_PARTY89]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

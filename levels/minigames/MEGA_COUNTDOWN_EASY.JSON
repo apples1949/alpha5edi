@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "def not borrowed from china",
+				"Description": "绝对没有借鉴中文版",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
 					"PlantShrinkingViolet",

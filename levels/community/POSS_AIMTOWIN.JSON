@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "if you use tier III snow or primal pea you suck",
+				"Description": "如果你用三阶原始或者寒冰豌豆那你真差劲",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [
 					"RTID(StandardIntro@LevelModules)",

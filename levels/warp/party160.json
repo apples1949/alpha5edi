@@ -210,7 +210,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "Bug tiles will start activating continuosly",
+				"Description": "[DESCRIPTION_WARP_PARTY160]",
 				"DescriptiveName": "Custom Objective"
 			}
 		},

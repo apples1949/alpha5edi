@@ -4,7 +4,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "U N D E R T A... I mean D E L T A R... ok fine",
+				"Description": "U N D E R T A... 我的意思是 D E L T A R... 好吧, 乐",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [
 					"RTID(StandardIntro@LevelModules)",
