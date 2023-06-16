@@ -2585,7 +2585,7 @@
 							"OverrideQuestTheme": "Egypt",
 							"UniqueID": "EPIC_QUEST_EGYPT_NIGHT",
 							"QuestName": "[QUEST_EPIC_QUEST_EGYPT_NIGHT_QUESTNAME]",
-							"Description": "[QUEST_EPIC_QUEST_EGYPT_NIGHT_DESCRIPTION]",
+							"Description": "",
 							"UniqueIDList": [
 								"EPIC_QUEST_EGYPT_NIGHT_STEP_1",
 								"EPIC_QUEST_EGYPT_NIGHT_STEP_2",
