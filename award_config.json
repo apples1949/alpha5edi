@@ -387,7 +387,7 @@
 					{
 						"Type": "birthday_juggler",
 						"Hypnotized": true,
-						"TossGridXDelta": -1.7000000000000002,
+						"TossGridXDelta": -1.7,
 						"TossGridYDelta": -1,
 						"SpawnGridXDelta": -0.5,
 						"SpawnGridZDelta": 1.5,
@@ -397,7 +397,7 @@
 					{
 						"Type": "birthday_juggler",
 						"Hypnotized": true,
-						"TossGridXDelta": -1.7000000000000002,
+						"TossGridXDelta": -1.7,
 						"TossGridYDelta": 1,
 						"SpawnGridXDelta": -0.5,
 						"SpawnGridZDelta": 1.5,

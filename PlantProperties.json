@@ -596,7 +596,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -641,7 +641,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -822,7 +822,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -923,7 +923,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -1856,7 +1856,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(AkeeDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 0,
@@ -1986,7 +1986,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.33000000000000007,
+						"Value": -0.33,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -2012,7 +2012,7 @@
 				"PacketCooldown": 5,
 				"PlantGridType": "ground",
 				"PlantFoodPlayCount": 1,
-				"MinimumSpeedScaleWhilePushing": 0.30000000000000004,
+				"MinimumSpeedScaleWhilePushing": 0.3,
 				"NumPushedZombiesForMinSpeed": 4,
 				"ExplodeAtXPosition": 750,
 				"Actions": [
@@ -2717,8 +2717,8 @@
 						"# Normal spike damage happens once per cooldown time": 0,
 						"Type": "special",
 						"Damage": 15,
-						"CooldownTimeMin": 0.7500000000000001,
-						"CooldownTimeMax": 0.7500000000000001,
+						"CooldownTimeMin": 0.75,
+						"CooldownTimeMax": 0.75,
 						"TriggerType": "rect",
 						"RectTriggerRange": {
 							"mX": -32,
@@ -2789,8 +2789,8 @@
 						"# Normal spike damage happens once per cooldown time": 0,
 						"Type": "special",
 						"Damage": 10,
-						"CooldownTimeMin": 0.37500000000000006,
-						"CooldownTimeMax": 0.37500000000000006,
+						"CooldownTimeMin": 0.375,
+						"CooldownTimeMax": 0.375,
 						"TriggerType": "rect",
 						"RectTriggerRange": {
 							"mX": -32,
@@ -3345,7 +3345,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(KernelDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -4090,7 +4090,7 @@
 				"Hitpoints": 300,
 				"PacketCooldown": 25,
 				"PlantGridType": "ground",
-				"PlantFoodDurationSeconds": 0.35000000000000003,
+				"PlantFoodDurationSeconds": 0.35,
 				"#comment": "2 ticks total",
 				"Powers": {
 					"List": [
@@ -4694,7 +4694,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(BloomerangDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1.5,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 35,
@@ -5122,7 +5122,7 @@
 					"x": 99,
 					"y": 115
 				},
-				"NewPlantFadeInTime": 0.30000000000000004,
+				"NewPlantFadeInTime": 0.3,
 				"ZenGardenSproutWeight": 0,
 				"ZenGardenBoostCost": 19,
 				"HitRectAdjust": {
@@ -5162,7 +5162,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.33000000000000007,
+						"Value": -0.33,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -5202,7 +5202,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(WinterMelonDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -5540,7 +5540,7 @@
 				"BeghouledCost": 1500,
 				"Hitpoints": 50,
 				"PacketCooldown": 20,
-				"PlantFoodDurationSeconds": 0.15000000000000002,
+				"PlantFoodDurationSeconds": 0.15,
 				"PlantGridType": "ground",
 				"ArtCenter": {
 					"x": 99,
@@ -5572,7 +5572,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -5611,7 +5611,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6700000000000002,
+						"Value": -0.67,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -5716,7 +5716,7 @@
 				"BeghouledCost": 500,
 				"Hitpoints": 50,
 				"PacketCooldown": 20,
-				"PlantFoodDurationSeconds": 0.15000000000000002,
+				"PlantFoodDurationSeconds": 0.15,
 				"PlantGridType": "ground",
 				"ArtCenter": {
 					"x": 99,
@@ -5782,7 +5782,7 @@
 				"BeghouledCost": 500,
 				"Hitpoints": 50,
 				"PacketCooldown": 10,
-				"PlantFoodDurationSeconds": 0.15000000000000002,
+				"PlantFoodDurationSeconds": 0.15,
 				"PlantGridType": "ground",
 				"ArtCenter": {
 					"x": 93,
@@ -6353,7 +6353,7 @@
 					"mHeight": 200
 				},
 				"DrawAttractRects": false,
-				"LaneChangeTime": 0.6000000000000001,
+				"LaneChangeTime": 0.6,
 				"TimeBetweenLaneChanges": 1,
 				"ZenGardenSproutWeight": 0,
 				"ZenGardenBoostCost": 19,
@@ -6393,8 +6393,8 @@
 						"Type": "projectile",
 						"Damage": 0,
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 0.30000000000000004,
-						"CooldownTimeMax": 0.30000000000000004,
+						"CooldownTimeMin": 0.3,
+						"CooldownTimeMax": 0.3,
 						"TriggerType": "rect",
 						"RectTriggerRange": {
 							"mX": -30,
@@ -6656,7 +6656,7 @@
 				"PlantFoodPlayCount": 1,
 				"PlantFoodActivationSound": "Play_Plant_CabbagePult_Nitro",
 				"PlantfoodPineconeCount": 20,
-				"AmountToAimLeftOfZombie": 0.33000000000000007,
+				"AmountToAimLeftOfZombie": 0.33,
 				"ArtCenter": {
 					"x": 108,
 					"y": 118
@@ -6678,7 +6678,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(SapflingDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -6746,7 +6746,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(PepperpultDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -6811,7 +6811,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(BloomingHeartsDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -6926,7 +6926,7 @@
 					}
 				},
 				"GrowthStageTwoDamageRadius": {
-					"RadiusInGridSquareWidths": 0.6000000000000001,
+					"RadiusInGridSquareWidths": 0.6,
 					"PulsePropagationTime": 0.5,
 					"PopAnimEffectStartDelay": 0,
 					"PopAnimEffectName": "POPANIM_EFFECTS_KIWIBEAST_ATTACK_PULSE",
@@ -6948,7 +6948,7 @@
 				},
 				"GrowthStageThreeDamageRadius": {
 					"RadiusInGridSquareWidths": 10,
-					"PulsePropagationTime": 0.7500000000000001,
+					"PulsePropagationTime": 0.75,
 					"PopAnimEffectStartDelay": 0.2,
 					"PopAnimEffectName": "POPANIM_EFFECTS_KIWIBEAST_ATTACK_PULSE",
 					"PopAnimHitEffectName": "POPANIM_EFFECTS_KIWIBEAST_TILE_HIT",
@@ -7423,8 +7423,8 @@
 						"# Normal spike damage happens once per cooldown time max": 0,
 						"Type": "special",
 						"Damage": 20,
-						"CooldownTimeMin": 0.6000000000000001,
-						"CooldownTimeMax": 0.6000000000000001,
+						"CooldownTimeMin": 0.6,
+						"CooldownTimeMax": 0.6,
 						"TriggerType": "rect",
 						"RectTriggerRange": {
 							"mX": -32,
@@ -7544,7 +7544,7 @@
 				"PacketCooldown": 5,
 				"PlantGridType": "ground",
 				"PlantFoodPlayCount": 1,
-				"MinimumSpeedScaleWhilePushing": 0.30000000000000004,
+				"MinimumSpeedScaleWhilePushing": 0.3,
 				"NumPushedZombiesForMinSpeed": 4,
 				"ExplodeAtXPosition": 750,
 				"Powers": {
@@ -7982,7 +7982,7 @@
 					"LobHeight": 300,
 					"LobHeightVariance": 1,
 					"TimeOfFlight": 1.2,
-					"TimeOfFlightVariance": 0.15000000000000002,
+					"TimeOfFlightVariance": 0.15,
 					"FireOnlyForward": false
 				},
 				"NormalLaunchProps": {
@@ -7997,7 +7997,7 @@
 						"Projectile": "RTID(SporeshroomDefault@ProjectileTypes)",
 						"ProjectileLaunchSound": "",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -8175,7 +8175,7 @@
 				"PacketCooldown": 20,
 				"PlantGridType": "ground",
 				"Height": "ground",
-				"NewPlantFadeInTime": 0.30000000000000004,
+				"NewPlantFadeInTime": 0.3,
 				"PercentageOfHealthForRaisedPlant": 0.5,
 				"CanLiveOnWaves": true,
 				"ArtCenter": {
@@ -8401,7 +8401,7 @@
 				"CharmBurstProps": {
 					"Shape": "row",
 					"Action": "charm",
-					"PropagationDelay": 0.07500000000000001,
+					"PropagationDelay": 0.075,
 					"PopAnimEffectName": "POPANIM_EFFECTS_PERFSHROOM_CLOUDS",
 					"ContinualAction": "true",
 					"EffectLoop": "true",
@@ -9330,7 +9330,7 @@
 					"y": 115
 				},
 				"HealCooldown": 10,
-				"TargetHPTriggerPercent": 0.7500000000000001,
+				"TargetHPTriggerPercent": 0.75,
 				"TargetHPHealAmount": 500,
 				"PFTargetHPHealPercent": 1,
 				"UnhealablePlants": {
@@ -9394,7 +9394,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(AppleMortarDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 1.7500000000000002,
+						"CooldownTimeMin": 1.75,
 						"CooldownTimeMax": 2,
 						"StunDuration": 0,
 						"SpawnOffset": {
@@ -10104,13 +10104,13 @@
 							"Layers": [
 								"holly_leaf_shield_damaged_02"
 							],
-							"StartAtHealthPercent": 0.6500000000000001
+							"StartAtHealthPercent": 0.65
 						},
 						{
 							"Layers": [
 								"holly_leaf_shield_damaged_03"
 							],
-							"StartAtHealthPercent": 0.30000000000000004
+							"StartAtHealthPercent": 0.3
 						}
 					]
 				},
@@ -10211,7 +10211,7 @@
 						},
 						{
 							"Animation": "damage2",
-							"StartAtHealthPercent": 0.6500000000000001
+							"StartAtHealthPercent": 0.65
 						},
 						{
 							"Animation": "damage3",
@@ -10277,7 +10277,7 @@
 						},
 						{
 							"Animation": "damage2",
-							"StartAtHealthPercent": 0.6500000000000001
+							"StartAtHealthPercent": 0.65
 						},
 						{
 							"Animation": "damage3",
@@ -10319,7 +10319,7 @@
 				"StartingCooldown": 30,
 				"PlantGridType": "ground",
 				"Height": "ground",
-				"PlantLifetime": 1.7500000000000002,
+				"PlantLifetime": 1.75,
 				"NumProjectiles": 1,
 				"Actions": [
 					{
@@ -11012,7 +11012,7 @@
 				"PoweredAttackSlowMinimumDuration": 0,
 				"PoweredAttackDecayPerZombieHit": 0,
 				"ShadowBoostedZombieSwallows": 1,
-				"PlantFoodBombTravelTime": 0.7500000000000001,
+				"PlantFoodBombTravelTime": 0.75,
 				"PlantFoodActivationSound": "",
 				"ZombieSwallowExcludeList": [
 					"hamster_ball",
@@ -11232,7 +11232,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(SlingPeaPlantfoodDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 1.7500000000000002,
+						"CooldownTimeMin": 1.75,
 						"CooldownTimeMax": 2,
 						"SpawnOffset": {
 							"x": 15,
@@ -11419,7 +11419,7 @@
 				"TimedExplosionProps": {
 					"TimeUntilExplosion": 5,
 					"ExplosionDamageBasedOffZombieMaxHpPercent": 100,
-					"ExplosionRadius": 5.183999999999999
+					"ExplosionRadius": 5.184
 				},
 				"ArtCenter": {
 					"x": 99,
@@ -11674,9 +11674,9 @@
 				"ElectricBurstBoltCount": 3,
 				"ElectricBurstBoltRange": 2,
 				"ElectricBurstNumBounces": 2,
-				"ElectricBurstBounceDamagePercent": 0.35000000000000003,
+				"ElectricBurstBounceDamagePercent": 0.35,
 				"ElectricBurstDecayDelay": 0.45,
-				"ElectricBurstBounceDelay": 0.15000000000000002
+				"ElectricBurstBounceDelay": 0.15
 			}
 		},
 		{
@@ -11711,7 +11711,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(BlastberryDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -11791,7 +11791,7 @@
 				"SlowDurationPF": 10,
 				"PhaseOneAttackRateOverrideValue": 1,
 				"PhaseTwoAttackRateOverrideValue": 1.5,
-				"PhaseThreeAttackRateOverrideValue": 1.7500000000000002,
+				"PhaseThreeAttackRateOverrideValue": 1.75,
 				"PhaseFourAttackRateOverrideValue": 2.15,
 				"BasicProjectileAttackRateOverrideValue": 1.25,
 				"PlantfoodProjectileAttackRateOverrideValue": 1.25,
@@ -11959,7 +11959,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				]
@@ -12024,7 +12024,7 @@
 								"ice_block_damage1"
 							],
 							"Animation": "animation2",
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
@@ -12032,7 +12032,7 @@
 								"ice_block_damage2"
 							],
 							"Animation": "animation3",
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -12174,7 +12174,7 @@
 						"Projectile": "RTID(DartichokeLeafDefault@ProjectileTypes)",
 						"ProjectileLaunchSound": "",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 1.7000000000000002,
+						"CooldownTimeMin": 1.7,
 						"CooldownTimeMax": 2,
 						"TriggerType": "rect_grid",
 						"RectTriggerRange": {
@@ -12193,7 +12193,7 @@
 						"Projectile": "RTID(DartichokeLeafPerfect@ProjectileTypes)",
 						"ProjectileLaunchSound": "",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 1.7000000000000002,
+						"CooldownTimeMin": 1.7,
 						"CooldownTimeMax": 2,
 						"SpawnOffset": {
 							"x": 35,
@@ -12205,7 +12205,7 @@
 						"Projectile": "RTID(DartichokeLeafPerfect@ProjectileTypes)",
 						"ProjectileLaunchSound": "",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 1.7000000000000002,
+						"CooldownTimeMin": 1.7,
 						"CooldownTimeMax": 2,
 						"TriggerType": "rect_grid",
 						"RectTriggerRange": {
@@ -12235,7 +12235,7 @@
 				},
 				"DartichokeOutOfAmmoSadSeconds": 3.25,
 				"DartichokeMaxAmmo": 6,
-				"DartichokeNormalBoostChance": 0.30000000000000004,
+				"DartichokeNormalBoostChance": 0.3,
 				"MainTargetPriority": {
 					"Buckets": [
 						{
@@ -12347,7 +12347,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(GumnutPlantfood@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -12683,17 +12683,17 @@
 				"CreatedBombTimer": 1.25,
 				"CreatedBombExplodeRadius": 1.5,
 				"CreatedBombBaseDamage": 40,
-				"CreatedBombPropagationMultiplier": 0.15000000000000002,
+				"CreatedBombPropagationMultiplier": 0.15,
 				"PlantfoodCreatedBombTimer": 3,
 				"PlantfoodCreatedBombExplodeRadius": 1.5,
 				"PlantfoodCreatedBombBaseDamage": 120,
-				"PlantfoodCreatedBombPropagationMultiplier": 0.15000000000000002,
+				"PlantfoodCreatedBombPropagationMultiplier": 0.15,
 				"Actions": [
 					{
 						"Type": "projectile",
 						"Projectile": "RTID(StickybombRiceDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 1.7500000000000002,
+						"CooldownTimeMin": 1.75,
 						"CooldownTimeMax": 2,
 						"StunDuration": 0,
 						"SpawnOffset": {
@@ -13027,7 +13027,7 @@
 					"LobHeight": 350,
 					"LobHeightVariance": 1,
 					"TimeOfFlight": 1.2,
-					"TimeOfFlightVariance": 0.15000000000000002
+					"TimeOfFlightVariance": 0.15
 				},
 				"NormalLaunchProps": {
 					"LobHeight": 350,
@@ -13044,7 +13044,7 @@
 						"Type": "projectile",
 						"Projectile": "RTID(TurkeyDefault@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"SpawnOffset": {
 							"x": 15,
@@ -14050,14 +14050,14 @@
 				"#comment": "This is an attempt to reduce the amount of individual variables for tuning between stages. Affects: Hitpoints, TigerHealing, TigerRegenTime, TigerHealth, TigerAttackDamage",
 				"GrowthTime": 25,
 				"TigerHealth": 525,
-				"GlobalGrowthMultiplier": 1.7500000000000002,
+				"GlobalGrowthMultiplier": 1.75,
 				"TigerPFHealth": 1608,
 				"PounceDamageMultiplier": 3,
 				"TigerTypeToSpawn": "tigergrass_tiger",
 				"NormalLaunchProps": {
 					"LobHeight": 0,
 					"LobHeightVariance": 5,
-					"TimeOfFlight": 0.30000000000000004,
+					"TimeOfFlight": 0.3,
 					"TimeOfFlightVariance": 0.05
 				},
 				"ArtCenter": {
@@ -14260,7 +14260,7 @@
 				"PlantFoodPlayCount": 1,
 				"PlantFoodActivationSound": "Play_Plant_CabbagePult_Nitro",
 				"PlantfoodPineconeCount": 20,
-				"AmountToAimLeftOfZombie": 0.33000000000000007,
+				"AmountToAimLeftOfZombie": 0.33,
 				"ButterLifetime": 5,
 				"PFButterLifetime": 10,
 				"ButterConditionDuration": 5,
@@ -14285,14 +14285,14 @@
 					"LobHeight": 350,
 					"LobHeightVariance": 1,
 					"TimeOfFlight": 1.2,
-					"TimeOfFlightVariance": 0.15000000000000002
+					"TimeOfFlightVariance": 0.15
 				},
 				"Actions": [
 					{
 						"Type": "projectile",
 						"Projectile": "RTID(ButtercupDefaultProjectile@ProjectileTypes)",
 						"InitialMinCooldownTime": 1,
-						"CooldownTimeMin": 2.8499999999999996,
+						"CooldownTimeMin": 2.85,
 						"CooldownTimeMax": 3,
 						"Damage": 100,
 						"TriggerType": "manual",
@@ -14439,7 +14439,7 @@
 					"x": 0,
 					"y": 6
 				},
-				"ZenGardenSmallScale": 0.6000000000000001,
+				"ZenGardenSmallScale": 0.6,
 				"ZenGardenLargeScale": 1.1,
 				"Actions": [
 					{
@@ -14536,7 +14536,7 @@
 				"LeapDamage": 0,
 				"ShakeBoardOnSplash": true,
 				"LeapProps": {
-					"FlightTime": 0.35000000000000003,
+					"FlightTime": 0.35,
 					"ApexHeight": 1050
 				},
 				"ZombieFlickExcludeList": {
@@ -16183,8 +16183,8 @@
 						"Projectile": "RTID(CrystallDefault@ProjectileTypes)",
 						"ProjectileLaunchSound": "",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 1.7500000000000002,
-						"CooldownTimeMax": 1.7500000000000002,
+						"CooldownTimeMin": 1.75,
+						"CooldownTimeMax": 1.75,
 						"SpawnOffset": {
 							"x": 30,
 							"y": -32
@@ -16195,8 +16195,8 @@
 						"Projectile": "RTID(CrystallPlantfood@ProjectileTypes)",
 						"ProjectileLaunchSound": "",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 1.7500000000000002,
-						"CooldownTimeMax": 1.7500000000000002,
+						"CooldownTimeMin": 1.75,
+						"CooldownTimeMax": 1.75,
 						"SpawnOffset": {
 							"x": 30,
 							"y": -32
@@ -16478,8 +16478,8 @@
 					{
 						"Type": "projectile",
 						"InitialMinCooldownTime": 0,
-						"CooldownTimeMin": 0.7500000000000001,
-						"CooldownTimeMax": 0.8500000000000001,
+						"CooldownTimeMin": 0.75,
+						"CooldownTimeMax": 0.85,
 						"SpawnOffset": {
 							"x": 35,
 							"y": -32
@@ -16528,7 +16528,7 @@
 				"Hitpoints": 50,
 				"PacketCooldown": 30,
 				"StartingCooldown": 0.5,
-				"PlantFoodDurationSeconds": 0.15000000000000002,
+				"PlantFoodDurationSeconds": 0.15,
 				"PlantGridType": "ground",
 				"ArtCenter": {
 					"x": 99,
@@ -16560,7 +16560,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],
@@ -16585,7 +16585,7 @@
 				"Hitpoints": 50,
 				"PacketCooldown": 30,
 				"StartingCooldown": 0.5,
-				"PlantFoodDurationSeconds": 0.15000000000000002,
+				"PlantFoodDurationSeconds": 0.15,
 				"PlantGridType": "ground",
 				"MasteryBoostChance": 100,
 				"ArtCenter": {
@@ -16618,7 +16618,7 @@
 				"Boosts": [
 					{
 						"PlantBoostProps": "RTID(BoostFastRecharge@PropertySheets)",
-						"Value": -0.6000000000000001,
+						"Value": -0.6,
 						"CooldownDurationSeconds": 28800
 					}
 				],

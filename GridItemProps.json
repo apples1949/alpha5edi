@@ -1300,7 +1300,7 @@
 								"speaker_damage1",
 								"speaker_blast_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
@@ -1308,7 +1308,7 @@
 								"speaker_damage2",
 								"speaker_blast_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1385,7 +1385,7 @@
 								"speaker_blast_damage1",
 								"speaker_flash_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
@@ -1394,7 +1394,7 @@
 								"speaker_blast_damage2",
 								"speaker_flash_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1533,13 +1533,13 @@
 							"Layers": [
 								"ice_block_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
 								"ice_block_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1620,13 +1620,13 @@
 							"Layers": [
 								"ice_block_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
 								"ice_block_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1707,13 +1707,13 @@
 							"Layers": [
 								"ice_block_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
 								"ice_block_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1783,7 +1783,7 @@
 							"Layers": [
 								"zombie_armor_statue_damage_01"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1852,13 +1852,13 @@
 							"Layers": [
 								"glacier_block_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
 								"glacier_block_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -1932,13 +1932,13 @@
 							"Layers": [
 								"glacier_block_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
 								"glacier_block_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -2297,14 +2297,14 @@
 								"arcade_cabinet_damage1",
 								"arcade_cabinet_active_damage1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
 								"arcade_cabinet_damage2",
 								"arcade_cabinet_active_damage2"
 							],
-							"StartAtHealthPercent": 0.6000000000000001
+							"StartAtHealthPercent": 0.6
 						},
 						{
 							"Layers": [
@@ -2427,7 +2427,7 @@
 				"ZombieSpawnPointOffset": 10,
 				"ZombieTypesToSpawn": [
 					{
-						"Weight": 0.7500000000000001,
+						"Weight": 0.75,
 						"ZombieTypeName": "roman"
 					},
 					{
@@ -2435,7 +2435,7 @@
 						"ZombieTypeName": "roman_shield_triad"
 					},
 					{
-						"Weight": 0.35000000000000003,
+						"Weight": 0.35,
 						"ZombieTypeName": "roman_armor3"
 					},
 					{
@@ -3743,7 +3743,7 @@
 							"plant"
 						],
 						"Damage": 10.0,
-						"SecondsBetweenEffects": 0.33000000000000007,
+						"SecondsBetweenEffects": 0.33,
 						"RangeInGridSquares": 1.5
 					}
 				],
@@ -3849,7 +3849,7 @@
 						"HitPopAnim": "POPANIM_EFFECTS_ZOMBIE_ROMAN_HEALER_EFFECT",
 						"HitAnimStartName": "start",
 						"HitAnimLoopName": "idle",
-						"HitAnimLoopTime": 0.7500000000000001,
+						"HitAnimLoopTime": 0.75,
 						"HitAnimEndName": "end",
 						"HitAffectOffset": {
 							"mX": 0,
@@ -4022,7 +4022,7 @@
 				},
 				"ProjectileTypeToSpawn": "RTID(BlackBug@ProjectileTypes)",
 				"TileBaseAnimation": "bouldertile",
-				"TimeBetweenTriggersInSeconds": 0.35000000000000003,
+				"TimeBetweenTriggersInSeconds": 0.35,
 				"TriggerRect": {
 					"mHeight": 0,
 					"mWidth": 4,
@@ -4168,13 +4168,13 @@
 						],
 						"Damage": 0,
 						"SecondsBetweenEffects": 0,
-						"RangeInGridSquares": 0.7000000000000001,
+						"RangeInGridSquares": 0.7,
 						"ZConditions": [
 							{
 								"Condition": "invincible",
 								"Duration": {
-									"Min": 0.30000000000000004,
-									"Max": 0.30000000000000004
+									"Min": 0.3,
+									"Max": 0.3
 								}
 							}
 						]
@@ -4944,7 +4944,7 @@
 							"Layers": [
 								"base_state1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
@@ -5821,7 +5821,7 @@
 							"Layers": [
 								"base_state2"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
@@ -5926,7 +5926,7 @@
 							"Layers": [
 								"base_state1"
 							],
-							"StartAtHealthPercent": 0.7500000000000001
+							"StartAtHealthPercent": 0.75
 						},
 						{
 							"Layers": [
@@ -6047,8 +6047,8 @@
 					"y": 117
 				},
 				"PopAnimRenderScale": {
-					"x": 0.7500000000000001,
-					"y": 0.7500000000000001
+					"x": 0.75,
+					"y": 0.75
 				}
 			}
 		},

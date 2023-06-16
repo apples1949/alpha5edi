@@ -145,7 +145,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 1.1400000000000001,
+					"Min": 1.14,
 					"Max": 1.23
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -218,7 +218,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 1.1400000000000001,
+					"Min": 1.14,
 					"Max": 1.23
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -292,7 +292,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -451,7 +451,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_SUN",
@@ -519,7 +519,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 1.1400000000000001,
+					"Min": 1.14,
 					"Max": 1.23
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -592,7 +592,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -1008,7 +1008,7 @@
 			"objdata": {
 				"BaseDamage": 10,
 				"SplashDamage": 5,
-				"SplashRadius": 0.6000000000000001,
+				"SplashRadius": 0.6,
 				"HasShadow": false,
 				"CollisionFlags": [
 					"griditems",
@@ -1257,7 +1257,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_SNOW_PEA",
@@ -1337,7 +1337,7 @@
 				],
 				"InitialScale": {
 					"Min": 0.55,
-					"Max": 0.5700000000000001
+					"Max": 0.57
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_SNOW_PEA",
 				"AttachedPAMOffset": {
@@ -1383,7 +1383,7 @@
 			"objdata": {
 				"BaseDamage": 80,
 				"SplashDamage": 5,
-				"SplashRadius": 0.6000000000000001,
+				"SplashRadius": 0.6,
 				"CollisionFlags": [
 					"griditems",
 					"ground_zombies",
@@ -1396,8 +1396,8 @@
 					{
 						"Condition": "freeze",
 						"Duration": {
-							"Min": 0.30000000000000004,
-							"Max": 0.30000000000000004
+							"Min": 0.3,
+							"Max": 0.3
 						}
 					},
 					{
@@ -1423,7 +1423,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_SNOW_PEA",
@@ -2943,7 +2943,7 @@
 				"BaseDamage": 160,
 				"SplashDamage": 0,
 				"BounceAngleInDegrees": 45,
-				"BounceOutwardTendency": 0.7500000000000001,
+				"BounceOutwardTendency": 0.75,
 				"HitsUntilFirstAward": 2,
 				"HitsUntilRepeatAward": 2,
 				"LootAwardOnHits": "SilverCoin",
@@ -3060,8 +3060,8 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 1.1500000000000001,
-					"Max": 1.1500000000000001
+					"Min": 1.15,
+					"Max": 1.15
 				},
 				"DiesOnImpact": false,
 				"AttachedPAM": "POPANIM_EFFECTS_BOWLINGBULB_PROJECTILE3",
@@ -3785,7 +3785,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.8600000000000001,
+					"Min": 0.86,
 					"Max": 0.93
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_CABBAGEPULT_PROJECTILE",
@@ -3958,7 +3958,7 @@
 					"Max": 1
 				},
 				"ProjectileRetargetingRadius": 400,
-				"PropertyReductionMultiplierPerBounce": 0.8500000000000001,
+				"PropertyReductionMultiplierPerBounce": 0.85,
 				"DamageReductionAmountPerBounce": 5,
 				"AttachedPAM": "POPANIM_EFFECTS_AKEE_PROJECTILE",
 				"AttachedPAMOffset": {
@@ -4056,7 +4056,7 @@
 					"Max": 1.35
 				},
 				"ProjectileRetargetingRadius": 800,
-				"PropertyReductionMultiplierPerBounce": 0.8500000000000001,
+				"PropertyReductionMultiplierPerBounce": 0.85,
 				"DamageReductionAmountPerBounce": 50,
 				"AttachedPAM": "POPANIM_EFFECTS_AKEE_PLANTFOOD_PROJECTILE",
 				"AttachedPAMOffset": {
@@ -4788,7 +4788,7 @@
 					"Max": 25
 				},
 				"InitialScale": {
-					"Min": 1.7000000000000002,
+					"Min": 1.7,
 					"Max": 1.8
 				},
 				"ImpactPAM": "POPANIM_EFFECTS_T_BANANA_EXPLOSION",
@@ -5312,7 +5312,7 @@
 				"ClassName": "XShotProjectile",
 				"BaseDamage": 8,
 				"SplashDamage": 2,
-				"SplashRadius": 0.15000000000000002,
+				"SplashRadius": 0.15,
 				"DamageFlags": [
 					"fire",
 					"ash_death",
@@ -5466,7 +5466,7 @@
 				"ClassName": "XShotProjectile",
 				"BaseDamage": 10,
 				"SplashDamage": 8,
-				"SplashRadius": 0.30000000000000004,
+				"SplashRadius": 0.3,
 				"DamageFlags": [
 					"fire",
 					"ash_death",
@@ -5585,7 +5585,7 @@
 					{
 						"Condition": "stun",
 						"Duration": {
-							"Min": 0.15000000000000002,
+							"Min": 0.15,
 							"Max": 0.2
 						}
 					}
@@ -5621,7 +5621,7 @@
 				],
 				"InitialScale": {
 					"Min": 1.1,
-					"Max": 1.1500000000000001
+					"Max": 1.15
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_BLOOMERANG_PROJECTILE",
 				"AttachedPAMOffset": {
@@ -5832,7 +5832,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_HOMING_THISTLE_PROJECTILE",
@@ -5904,7 +5904,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_HOMING_THISTLE_PROJECTILE",
@@ -6107,7 +6107,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"CollisionRect": {
@@ -6781,8 +6781,8 @@
 					"Max": 20
 				},
 				"InitialScale": {
-					"Min": 0.6000000000000001,
-					"Max": 0.6000000000000001
+					"Min": 0.6,
+					"Max": 0.6
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_PEPPERPULT_PROJECTILE_SMALL",
 				"AttachedPAMOffset": {
@@ -6845,7 +6845,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_STUNION_PF_BURPCLOUD_PROJECTILE",
@@ -6921,7 +6921,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.8500000000000001,
+					"Min": 0.85,
 					"Max": 0.9
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_DANDELION_PROJECTILE",
@@ -7008,7 +7008,7 @@
 				],
 				"InitialScale": {
 					"Min": 0.8,
-					"Max": 0.8500000000000001
+					"Max": 0.85
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_DANDELION_PROJECTILE",
 				"AttachedPAMOffset": {
@@ -7085,7 +7085,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.8500000000000001,
+					"Min": 0.85,
 					"Max": 0.9
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_DANDELION_PROJECTILE",
@@ -7350,10 +7350,10 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.6700000000000002,
-					"Max": 0.6700000000000002
+					"Min": 0.67,
+					"Max": 0.67
 				},
-				"BounceElasticity": 0.30000000000000004,
+				"BounceElasticity": 0.3,
 				"BounceThreshold": 0.005,
 				"RollingVelocity": {
 					"x": 0,
@@ -7461,7 +7461,7 @@
 			"objdata": {
 				"BaseDamage": 0,
 				"SplashDamage": 10000,
-				"SplashRadius": 0.30000000000000004,
+				"SplashRadius": 0.3,
 				"DiesOnImpact": true,
 				"ShakeBoardOnSplash": true,
 				"HasShadow": false,
@@ -7508,7 +7508,7 @@
 					"Max": 10
 				},
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DARTICHOKE_PROJECTILE",
@@ -9102,7 +9102,7 @@
 				"BaseDamage": 200,
 				"SplashDamage": 0,
 				"BounceAngleInDegrees": 45,
-				"BounceOutwardTendency": 0.7500000000000001,
+				"BounceOutwardTendency": 0.75,
 				"BouncesUntilSelfDestruct": 5,
 				"CollisionFlags": [
 					"griditems",
@@ -9194,7 +9194,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_NIGHTSHADE_PROJECTILE",
@@ -9257,7 +9257,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_NIGHTSHADE_PROJECTILE",
@@ -9606,7 +9606,7 @@
 					"Max": 20
 				},
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_DUSKLOBBER_PROJECTILE",
@@ -9968,7 +9968,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 1.1500000000000001,
+					"Min": 1.15,
 					"Max": 1.2
 				},
 				"InitialAngularVelocity": {
@@ -10198,7 +10198,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_CAULIPOWER_PROJECTILE",
@@ -10489,7 +10489,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_HOLLY_PROJECTILE",
@@ -10574,7 +10574,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_HOLLY_PROJECTILE",
@@ -10729,7 +10729,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_SHADOWPEASHOOTER_PROJECTILE",
@@ -10797,7 +10797,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_SHADOWPEASHOOTER_PLANTFOOD_PROJECTILE",
@@ -10861,7 +10861,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_SHADOWPEASHOOTER_PLANTFOOD_PROJECTILE",
@@ -10925,7 +10925,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_SHADOWPEASHOOTER_PLANTFOOD_PROJECTILE",
@@ -11375,7 +11375,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -11445,8 +11445,8 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.6500000000000001,
-					"Max": 0.6700000000000002
+					"Min": 0.65,
+					"Max": 0.67
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
 				"AttachedPAMOffset": {
@@ -11741,7 +11741,7 @@
 			"objdata": {
 				"BaseDamage": 5,
 				"SplashDamage": 5,
-				"SplashRadius": 0.7000000000000001,
+				"SplashRadius": 0.7,
 				"SplashRadiusBaseDamageCutoff": 0.05,
 				"DamageFlags": [
 					"shooter"
@@ -11798,7 +11798,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DAZEY_CHAIN_PROJECTILE",
@@ -11902,7 +11902,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DAZEY_CHAIN_PROJECTILE",
@@ -12006,7 +12006,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DAZEY_CHAIN_PROJECTILE",
@@ -12163,8 +12163,8 @@
 			"objdata": {
 				"ClassName": "BlastberryMainProjectile",
 				"ChildProjectileType": "BlastberrySecondaryProjectile",
-				"ChildProjectileXStart": -0.6000000000000001,
-				"ChildProjectileXSpacing": 0.6000000000000001,
+				"ChildProjectileXStart": -0.6,
+				"ChildProjectileXSpacing": 0.6,
 				"BaseDamage": 0,
 				"SplashDamage": 0,
 				"SplashRadius": 2.1,
@@ -12262,7 +12262,7 @@
 			"objdata": {
 				"ClassName": "BlastberryMainProjectile",
 				"ChildProjectileType": "BlastberrySecondaryProjectile",
-				"ChildProjectileXStart": -0.7000000000000001,
+				"ChildProjectileXStart": -0.7,
 				"ChildProjectileXSpacing": 0.5,
 				"BaseDamage": 200,
 				"SplashDamage": 100,
@@ -12358,7 +12358,7 @@
 				"ClassName": "BlastberrySecondaryProjectile",
 				"BaseDamage": 20,
 				"SplashDamage": 10,
-				"SplashRadius": 0.7500000000000001,
+				"SplashRadius": 0.75,
 				"CollisionFlags": [
 					"ground"
 				],
@@ -12481,7 +12481,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"CollisionRect": {
@@ -12559,7 +12559,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"CollisionRect": {
@@ -12718,7 +12718,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DARTICHOKE_PROJECTILE",
@@ -12796,7 +12796,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE",
@@ -13223,7 +13223,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.8500000000000001,
+					"Min": 0.85,
 					"Max": 0.9
 				},
 				"DiesOnImpact": false,
@@ -13324,7 +13324,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.8500000000000001,
+					"Min": 0.85,
 					"Max": 0.9
 				},
 				"DiesOnImpact": false,
@@ -13420,7 +13420,7 @@
 				],
 				"InitialScale": {
 					"Min": 0.8,
-					"Max": 0.8500000000000001
+					"Max": 0.85
 				},
 				"DiesOnImpact": false,
 				"AttachedPAM": "POPANIM_EFFECTS_TUMBLEWEED_PROJECTILE",
@@ -13512,7 +13512,7 @@
 				],
 				"InitialScale": {
 					"Min": 0.8,
-					"Max": 0.8500000000000001
+					"Max": 0.85
 				},
 				"DiesOnImpact": false,
 				"AttachedPAM": "POPANIM_EFFECTS_TUMBLEWEED_PROJECTILE_FIRE",
@@ -13890,7 +13890,7 @@
 				],
 				"WindAccel": 100,
 				"UpPercent": 0,
-				"StunDuration": 0.35000000000000003,
+				"StunDuration": 0.35,
 				"CanBlowAway": {
 					"ListType": "includelist",
 					"List": [
@@ -13915,7 +13915,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DRAFTODIL_PROJECTILE",
@@ -13995,7 +13995,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_DRAFTODIL_PROJECTILE",
@@ -14094,7 +14094,7 @@
 					"animation3"
 				],
 				"ImpactSoundEvent": "Play_IcebergLettuce_Freeze",
-				"ImpactSoundThrottleTimer": 0.07500000000000001,
+				"ImpactSoundThrottleTimer": 0.075,
 				"ImpactOffset": [
 					{
 						"Min": 50,
@@ -14360,7 +14360,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_PVINE_PROJECTILE",
@@ -14527,7 +14527,7 @@
 				"InitialExtraVelocitySeconds": 0.5,
 				"InitialExtraVelocityCurve": "ease_in_out",
 				"TimeBetweenDamagePulses": 0.2,
-				"LaneChangeTime": 0.6000000000000001,
+				"LaneChangeTime": 0.6,
 				"TimeBetweenLaneChanges": 5,
 				"CyclonePullSquareRange": 1.5,
 				"DamagePulseMultiple": 5,
@@ -14655,7 +14655,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_POWERVINE_PROJECTILE",
@@ -14990,7 +14990,7 @@
 				"DiesOnImpact": true,
 				"ImpactShowsAtZombieFeet": true,
 				"ImpactSoundEvent": "",
-				"ImpactSoundThrottleTimer": 0.07500000000000001,
+				"ImpactSoundThrottleTimer": 0.075,
 				"ImpactPAM": "",
 				"ImpactPAMAnimationToPlay": [
 					""
@@ -15546,7 +15546,7 @@
 				],
 				"InitialScale": {
 					"Min": 1.1,
-					"Max": 1.1500000000000001
+					"Max": 1.15
 				},
 				"DiesOnImpact": true,
 				"InitialPierceChance": 200,
@@ -15636,7 +15636,7 @@
 				],
 				"InitialScale": {
 					"Min": 1.1,
-					"Max": 1.1500000000000001
+					"Max": 1.15
 				},
 				"DiesOnImpact": false,
 				"InitialPierceChance": 200,
@@ -15856,8 +15856,8 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.7000000000000001,
-					"Max": 0.8500000000000001
+					"Min": 0.7,
+					"Max": 0.85
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_SPORESHROOM_PROJECTILE",
 				"AttachedPAMAnimationToPlay": [
@@ -16092,8 +16092,8 @@
 					{
 						"Condition": "invincible",
 						"Duration": {
-							"Min": 0.30000000000000004,
-							"Max": 0.30000000000000004
+							"Min": 0.3,
+							"Max": 0.3
 						}
 					}
 				],
@@ -16128,8 +16128,8 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.30000000000000004,
-					"Max": 0.35000000000000003
+					"Min": 0.3,
+					"Max": 0.35
 				},
 				"InitialAngularVelocity": {
 					"Min": 0.5,
@@ -16863,7 +16863,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"CollisionRect": {
@@ -16925,7 +16925,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.9500000000000001,
+					"Min": 0.95,
 					"Max": 1.05
 				},
 				"CollisionRect": {
@@ -17005,8 +17005,8 @@
 					"mAlpha": 255
 				},
 				"InitialScale": {
-					"Min": 0.6500000000000001,
-					"Max": 0.7000000000000001
+					"Min": 0.65,
+					"Max": 0.7
 				},
 				"SpawnPAM": "POPANIM_EFFECTS_DARTICHOKE_PROJECTILE_HIT",
 				"SpawnPAMAnimationToPlay": [
@@ -17031,7 +17031,7 @@
 					"mHeight": 30
 				},
 				"ImpactSoundEvent": "Play_Splat",
-				"ImpactSoundThrottleTimer": 0.07500000000000001,
+				"ImpactSoundThrottleTimer": 0.075,
 				"ImpactPAM": "POPANIM_EFFECTS_MAGNIFYING_GRASS_HIT",
 				"ImpactPAMAnimationToPlay": [
 					"animation"
@@ -17107,7 +17107,7 @@
 					"mAlpha": 255
 				},
 				"InitialScale": {
-					"Min": 1.1500000000000001,
+					"Min": 1.15,
 					"Max": 1.2
 				},
 				"SpawnPAM": "POPANIM_EFFECTS_DARTICHOKE_PROJECTILE_HIT",
@@ -17133,7 +17133,7 @@
 					"mHeight": 30
 				},
 				"ImpactSoundEvent": "Play_Splat",
-				"ImpactSoundThrottleTimer": 0.07500000000000001,
+				"ImpactSoundThrottleTimer": 0.075,
 				"ImpactPAM": "POPANIM_EFFECTS_MAGNIFYING_GRASS_HIT",
 				"ImpactPAMAnimationToPlay": [
 					"animation"
@@ -17267,7 +17267,7 @@
 				"BaseDamage": 0,
 				"SplashDamage": 0,
 				"BounceAngleInDegrees": 45,
-				"BounceOutwardTendency": 0.7500000000000001,
+				"BounceOutwardTendency": 0.75,
 				"HitsUntilFirstAward": 0,
 				"HitsUntilRepeatAward": 0,
 				"LootAwardOnHits": "LargeSun",
@@ -17404,7 +17404,7 @@
 				"DriftDecayXTargetVelocity": 0,
 				"BaseDamage": 50,
 				"SplashDamage": 50,
-				"SplashRadius": 0.6000000000000001,
+				"SplashRadius": 0.6,
 				"HasShadow": false,
 				"DamageFlags": [
 				],
@@ -17483,7 +17483,7 @@
 			"objdata": {
 				"BaseDamage": 50,
 				"SplashDamage": 50,
-				"SplashRadius": 0.6000000000000001,
+				"SplashRadius": 0.6,
 				"HasShadow": false,
 				"CollisionFlags": [
 					"griditems",
@@ -17599,7 +17599,7 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 1.1400000000000001,
+					"Min": 1.14,
 					"Max": 1.23
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_PEA_PROJECTILE",
@@ -17725,7 +17725,7 @@
 				"BaseDamage": 30,
 				"SplashDamage": 20,
 				"SplashRadius": 0.4,
-				"StunDuration": 0.6000000000000001,
+				"StunDuration": 0.6,
 				"KnockbackChance": 0,
 				"KnockbackTime": 0.01,
 				"KnockbackDistance": 0,
@@ -17785,7 +17785,7 @@
 				"BaseDamage": 0,
 				"StunDuration": 0,
 				"KnockbackChance": 1,
-				"KnockbackTime": 0.6000000000000001,
+				"KnockbackTime": 0.6,
 				"KnockbackDistance": 128,
 				"KnockbackHeight": 0.1,
 				"DiesOnImpact": false,
@@ -17917,14 +17917,14 @@
 					{
 						"Condition": "freeze",
 						"Duration": {
-							"Min": 0.7500000000000001,
-							"Max": 0.8500000000000001
+							"Min": 0.75,
+							"Max": 0.85
 						}
 					},
 					{
 						"Condition": "chill",
 						"Duration": {
-							"Min": 0.9500000000000001,
+							"Min": 0.95,
 							"Max": 1.05
 						}
 					}
@@ -18304,8 +18304,8 @@
 					}
 				],
 				"InitialScale": {
-					"Min": 0.7000000000000001,
-					"Max": 0.7000000000000001
+					"Min": 0.7,
+					"Max": 0.7
 				},
 				"DiesOnImpact": true,
 				"SpawnPAM": "POPANIM_EFFECTS_PLANT_DROWNING",
@@ -18599,7 +18599,7 @@
 				],
 				"InitialScale": {
 					"Min": 1.1,
-					"Max": 1.1500000000000001
+					"Max": 1.15
 				},
 				"AttachedPAM": "POPANIM_EFFECTS_T_BLOOMERANG_PROJECTILE",
 				"AttachedPAMOffset": {

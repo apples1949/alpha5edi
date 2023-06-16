@@ -255,7 +255,7 @@
 					"z": 45.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 					"z": 15.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 				"Weight": 5,
 				"RepeatMin": 1,
 				"RepeatMax": 2,
-				"WalkVerticalChance": 0.7500000000000001,
+				"WalkVerticalChance": 0.75,
 				"WalkPreferSquashChance": 1
 			}
 		},
@@ -499,7 +499,7 @@
 				"Weight": 0,
 				"RepeatMin": 1,
 				"RepeatMax": 2,
-				"WalkVerticalChance": 0.7500000000000001,
+				"WalkVerticalChance": 0.75,
 				"WalkPreferSquashChance": 1
 			}
 		},
@@ -751,7 +751,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 2,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -775,7 +775,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -799,7 +799,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 2,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -862,8 +862,8 @@
 					"egypt_gargantuar",
 					"pharaoh"
 				],
-				"SpawnChargeTime": 0.35000000000000003,
-				"SpawnCooldownTime": 0.35000000000000003,
+				"SpawnChargeTime": 0.35,
+				"SpawnCooldownTime": 0.35,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 50,
 					"Max": 50
@@ -914,7 +914,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1.5,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -938,7 +938,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 2,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -962,7 +962,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 2,
 				"FireTargetEmptyWeight": 0.5,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -1088,8 +1088,8 @@
 					"egypt_gargantuar",
 					"pharaoh"
 				],
-				"SpawnChargeTime": 0.35000000000000003,
-				"SpawnCooldownTime": 0.35000000000000003,
+				"SpawnChargeTime": 0.35,
+				"SpawnCooldownTime": 0.35,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 50,
 					"Max": 50
@@ -1140,7 +1140,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1.5,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -1164,7 +1164,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 2,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -1188,7 +1188,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 2,
 				"FireTargetEmptyWeight": 0.5,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -2160,7 +2160,7 @@
 				"FireTargetPlantWeight": 10,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 30,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_WildWest_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -2185,7 +2185,7 @@
 				"FireTargetPlantWeight": 25,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 15,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_WildWest_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -2210,7 +2210,7 @@
 				"FireTargetPlantWeight": 40,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 10,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_WildWest_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -3411,7 +3411,7 @@
 					"pirate_captain",
 					"barrelroller"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3438,7 +3438,7 @@
 					"pirate_armor1",
 					"pirate_armor2"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3465,7 +3465,7 @@
 					"barrelroller",
 					"pirate_captain"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3493,7 +3493,7 @@
 					"pirate_armor2",
 					"pirate_armor4"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3518,7 +3518,7 @@
 				"SpawnZombieTypes": [
 					"pirate_gargantuar"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3544,7 +3544,7 @@
 					"modern_newspaper",
 					"tomb_raiser"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 2,
@@ -3584,7 +3584,7 @@
 				"RepeatMax": 0,
 				"RushTime": 1.6,
 				"RushDamageToInterrupt": 500000.0,
-				"RushLeadupTime": 0.35000000000000003,
+				"RushLeadupTime": 0.35,
 				"RushLeadupStartRate": 1.0,
 				"RushLeadupEndRate": 1.0,
 				"RushLeadupBackup": 60,
@@ -3644,7 +3644,7 @@
 				"Weight": 15,
 				"RepeatMin": 0,
 				"RepeatMax": 1,
-				"ImpLaunchDelay": 0.7500000000000001,
+				"ImpLaunchDelay": 0.75,
 				"ImpLaunchInterruptDamageAmount": 300000.0,
 				"ImpLaunchCount": 15,
 				"ImpType": "pirate_imp",
@@ -3709,7 +3709,7 @@
 					"pirate_captain",
 					"barrelroller"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3736,7 +3736,7 @@
 					"pirate_armor1",
 					"pirate_armor2"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3763,7 +3763,7 @@
 					"pirate_armor2",
 					"pirate_armor4"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3788,7 +3788,7 @@
 				"SpawnZombieTypes": [
 					"pirate_gargantuar"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
 				"SpawnCooldownTime": 0.25,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 1,
@@ -3828,7 +3828,7 @@
 				"RepeatMax": 0,
 				"RushTime": 1.6,
 				"RushDamageToInterrupt": 500000.0,
-				"RushLeadupTime": 0.35000000000000003,
+				"RushLeadupTime": 0.35,
 				"RushLeadupStartRate": 1.0,
 				"RushLeadupEndRate": 1.0,
 				"RushLeadupBackup": 60,
@@ -3888,7 +3888,7 @@
 				"Weight": 15,
 				"RepeatMin": 0,
 				"RepeatMax": 1,
-				"ImpLaunchDelay": 0.7500000000000001,
+				"ImpLaunchDelay": 0.75,
 				"ImpLaunchInterruptDamageAmount": 300000.0,
 				"ImpLaunchCount": 15,
 				"ImpType": "pirate_imp",
@@ -4111,7 +4111,7 @@
 					"Max": 2
 				},
 				"MinColumn": 3,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4134,7 +4134,7 @@
 					"Max": 3
 				},
 				"MinColumn": 3,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4157,7 +4157,7 @@
 					"Max": 6
 				},
 				"MinColumn": 2,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4180,7 +4180,7 @@
 					"Max": 6
 				},
 				"MinColumn": 1,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4375,7 +4375,7 @@
 					"Max": 1
 				},
 				"MinColumn": 0,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4398,7 +4398,7 @@
 					"Max": 3
 				},
 				"MinColumn": 0,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4421,7 +4421,7 @@
 					"Max": 3
 				},
 				"MinColumn": 0,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4444,7 +4444,7 @@
 					"Max": 1
 				},
 				"MinColumn": 0,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4639,7 +4639,7 @@
 					"Max": 0
 				},
 				"MinColumn": 0,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4662,7 +4662,7 @@
 					"Max": 3
 				},
 				"MinColumn": 2,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4685,7 +4685,7 @@
 					"Max": 3
 				},
 				"MinColumn": 2,
-				"TargetMagnetshroomChance": 0.7500000000000001
+				"TargetMagnetshroomChance": 0.75
 			}
 		},
 		{
@@ -4713,7 +4713,7 @@
 				"Weight": 3,
 				"RepeatMin": 0,
 				"RepeatMax": 0,
-				"WalkVerticalChance": 0.7500000000000001,
+				"WalkVerticalChance": 0.75,
 				"WalkPreferSquashChance": 1
 			}
 		},
@@ -4726,7 +4726,7 @@
 				"Weight": 3,
 				"RepeatMin": 1,
 				"RepeatMax": 2,
-				"WalkVerticalChance": 0.7500000000000001,
+				"WalkVerticalChance": 0.75,
 				"WalkPreferSquashChance": 1
 			}
 		},
@@ -5027,7 +5027,7 @@
 				"FireTargetPlantWeight": 6,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5052,7 +5052,7 @@
 				"FireTargetPlantWeight": 3,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5077,7 +5077,7 @@
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5102,7 +5102,7 @@
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5127,7 +5127,7 @@
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5320,8 +5320,8 @@
 					"future_jetpack",
 					"future_protector"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5348,8 +5348,8 @@
 					"future_jetpack",
 					"future_jetpack_veteran"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5374,8 +5374,8 @@
 					"football_mech",
 					"future_gargantuar"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5404,8 +5404,8 @@
 					"future_protector",
 					"mech_cone"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5511,7 +5511,7 @@
 				"FireTargetPlantWeight": 6,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5536,7 +5536,7 @@
 				"FireTargetPlantWeight": 3,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5561,7 +5561,7 @@
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5621,9 +5621,9 @@
 				"Weight": 5,
 				"RepeatMin": 0,
 				"RepeatMax": 0,
-				"RushTime": 0.7500000000000001,
+				"RushTime": 0.75,
 				"RushDamageToInterrupt": 1000000.0,
-				"RushLeadupTime": 0.15000000000000002,
+				"RushLeadupTime": 0.15,
 				"RushLeadupStartRate": 1.0,
 				"RushLeadupEndRate": 1.0,
 				"RushLeadupBackup": 60,
@@ -5754,8 +5754,8 @@
 					"future_jetpack",
 					"future_protector"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5782,8 +5782,8 @@
 					"future_jetpack",
 					"future_jetpack_veteran"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5808,8 +5808,8 @@
 					"football_mech",
 					"future_gargantuar"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5838,8 +5838,8 @@
 					"future_protector",
 					"mech_cone"
 				],
-				"SpawnChargeTime": 0.15000000000000002,
-				"SpawnCooldownTime": 0.15000000000000002,
+				"SpawnChargeTime": 0.15,
+				"SpawnCooldownTime": 0.15,
 				"SpawnWavesBetweenPlantFood": {
 					"Min": 5,
 					"Max": 5
@@ -5945,7 +5945,7 @@
 				"FireTargetPlantWeight": 6,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5970,7 +5970,7 @@
 				"FireTargetPlantWeight": 3,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -5995,7 +5995,7 @@
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Future_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -6055,9 +6055,9 @@
 				"Weight": 5,
 				"RepeatMin": 0,
 				"RepeatMax": 0,
-				"RushTime": 0.7500000000000001,
+				"RushTime": 0.75,
 				"RushDamageToInterrupt": 1000000.0,
-				"RushLeadupTime": 0.15000000000000002,
+				"RushLeadupTime": 0.15,
 				"RushLeadupStartRate": 1.0,
 				"RushLeadupEndRate": 1.0,
 				"RushLeadupBackup": 60,
@@ -6610,7 +6610,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6635,7 +6635,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6660,7 +6660,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6685,7 +6685,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6758,7 +6758,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6783,7 +6783,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6808,7 +6808,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6833,7 +6833,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6906,7 +6906,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6931,7 +6931,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -6956,7 +6956,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7029,7 +7029,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7054,7 +7054,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7079,7 +7079,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7152,7 +7152,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7177,7 +7177,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7202,7 +7202,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -7227,7 +7227,7 @@
 				"FireTargetPlantWeight": 5,
 				"FireTargetEmptyWeight": 1,
 				"FireTargetRailsWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "",
 				"FireRocketCount": {
@@ -9647,7 +9647,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 2,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -9671,7 +9671,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -10680,7 +10680,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -10706,7 +10706,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 1,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -10732,7 +10732,7 @@
 				"FireTargetTilesWeight": 0,
 				"FireTargetPlantWeight": 1,
 				"FireTargetEmptyWeight": 0.8,
-				"FireRocketHitTime": 0.7500000000000001,
+				"FireRocketHitTime": 0.75,
 				"FireRocketSpeed": 500,
 				"FireRocketDropSound": "Play_Zomb_Egypt_Zomboss_Attack_Projectile_Impact_Whistle",
 				"FireRocketCount": {
@@ -12037,7 +12037,7 @@
 					{
 						"Type": "pirate",
 						"Hypnotized": false,
-						"SpawnGridXDelta": 0.6200000000000001,
+						"SpawnGridXDelta": 0.62,
 						"TossDuration": 0.01,
 						"TossApexHeight": 0.01
 					}
@@ -12081,7 +12081,7 @@
 					"z": -190.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		},
 		{
@@ -12160,7 +12160,7 @@
 					{
 						"Type": "pirate_armor1",
 						"Hypnotized": false,
-						"SpawnGridXDelta": 0.6200000000000001,
+						"SpawnGridXDelta": 0.62,
 						"TossDuration": 0.01,
 						"TossApexHeight": 0.01
 					}
@@ -12204,7 +12204,7 @@
 					"z": -195.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		},
 		{
@@ -12283,7 +12283,7 @@
 					{
 						"Type": "pirate_armor2",
 						"Hypnotized": false,
-						"SpawnGridXDelta": 0.6200000000000001,
+						"SpawnGridXDelta": 0.62,
 						"TossDuration": 0.01,
 						"TossApexHeight": 0.01
 					}
@@ -12327,7 +12327,7 @@
 					"z": -200.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		},
 		{
@@ -12406,7 +12406,7 @@
 					{
 						"Type": "pirate_armor4",
 						"Hypnotized": false,
-						"SpawnGridXDelta": 0.6200000000000001,
+						"SpawnGridXDelta": 0.62,
 						"TossDuration": 0.01,
 						"TossApexHeight": 0.01
 					}
@@ -12450,7 +12450,7 @@
 					"z": -205.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		},
 		{
@@ -12533,7 +12533,7 @@
 					"z": 10.0
 				},
 				"ApexHeight": 100,
-				"TimeUntilHit": 0.7500000000000001
+				"TimeUntilHit": 0.75
 			}
 		}
 	]

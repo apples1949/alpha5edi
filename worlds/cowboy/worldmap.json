@@ -23,7 +23,7 @@
 						"m_parallaxLayer": 0,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 11214.968799999999,
+							"x": 11214.9688,
 							"y": -113
 						},
 						"m_scaleX": 1,
@@ -41,8 +41,8 @@
 							"x": 11400,
 							"y": 32
 						},
-						"m_scaleX": 0.8300000000000001,
-						"m_scaleY": 0.8300000000000001,
+						"m_scaleX": 0.83,
+						"m_scaleY": 0.83,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -68,7 +68,7 @@
 						"m_parallaxLayer": 9,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 11572.509766000001,
+							"x": 11572.509766,
 							"y": 103
 						},
 						"m_scaleX": 0.8,
@@ -86,8 +86,8 @@
 							"x": 11312.353516,
 							"y": 56
 						},
-						"m_scaleX": 0.7000000000000001,
-						"m_scaleY": 0.7000000000000001,
+						"m_scaleX": 0.7,
+						"m_scaleY": 0.7,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -98,11 +98,11 @@
 						"m_parallaxLayer": 9,
 						"m_drawLayer": 3,
 						"m_position": {
-							"x": 10921.884766000001,
+							"x": 10921.884766,
 							"y": 171
 						},
-						"m_scaleX": 0.7000000000000001,
-						"m_scaleY": 0.7000000000000001,
+						"m_scaleX": 0.7,
+						"m_scaleY": 0.7,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -113,7 +113,7 @@
 						"m_parallaxLayer": 9,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 11831.572266000001,
+							"x": 11831.572266,
 							"y": 114
 						},
 						"m_scaleX": 1,
@@ -128,7 +128,7 @@
 						"m_parallaxLayer": 5,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 11227.609400000001,
+							"x": 11227.6094,
 							"y": 156
 						},
 						"m_scaleX": 0.2,
@@ -143,11 +143,11 @@
 						"m_parallaxLayer": 5,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 12314.328099999999,
+							"x": 12314.3281,
 							"y": 188
 						},
-						"m_scaleX": 0.30000000000000004,
-						"m_scaleY": 0.30000000000000004,
+						"m_scaleX": 0.3,
+						"m_scaleY": 0.3,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -158,7 +158,7 @@
 						"m_parallaxLayer": 7,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 12063.184570000001,
+							"x": 12063.18457,
 							"y": 146
 						},
 						"m_scaleX": 0.2,
@@ -176,8 +176,8 @@
 							"x": 12974.118164,
 							"y": 189
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -206,8 +206,8 @@
 							"x": 13733.337891,
 							"y": 225
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -218,11 +218,11 @@
 						"m_parallaxLayer": 6,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 13047.975585999999,
+							"x": 13047.975586,
 							"y": 137
 						},
-						"m_scaleX": 0.30000000000000004,
-						"m_scaleY": 0.30000000000000004,
+						"m_scaleX": 0.3,
+						"m_scaleY": 0.3,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -233,7 +233,7 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 12991.305663999998,
+							"x": 12991.305664,
 							"y": 131
 						},
 						"m_scaleX": 0.5,
@@ -248,7 +248,7 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 4,
 						"m_position": {
-							"x": 12936.149414000001,
+							"x": 12936.149414,
 							"y": 193
 						},
 						"m_scaleX": 0.5,
@@ -293,7 +293,7 @@
 						"m_parallaxLayer": 7,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 11578.106445000001,
+							"x": 11578.106445,
 							"y": 242
 						},
 						"m_scaleX": 0.4,
@@ -308,7 +308,7 @@
 						"m_parallaxLayer": 7,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 11558.575194999998,
+							"x": 11558.575195,
 							"y": 228
 						},
 						"m_scaleX": 0.4,
@@ -326,8 +326,8 @@
 							"x": 11572.637695,
 							"y": 234
 						},
-						"m_scaleX": 0.30000000000000004,
-						"m_scaleY": 0.30000000000000004,
+						"m_scaleX": 0.3,
+						"m_scaleY": 0.3,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": true,
 						"m_rotationRate": 0
@@ -356,8 +356,8 @@
 							"x": 11224.0938,
 							"y": 163
 						},
-						"m_scaleX": 0.30000000000000004,
-						"m_scaleY": 0.30000000000000004,
+						"m_scaleX": 0.3,
+						"m_scaleY": 0.3,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -368,7 +368,7 @@
 						"m_parallaxLayer": 5,
 						"m_drawLayer": 2,
 						"m_position": {
-							"x": 11237.374999999998,
+							"x": 11237.375,
 							"y": 160
 						},
 						"m_scaleX": 0.4,
@@ -401,8 +401,8 @@
 							"x": 13731.930664,
 							"y": 260
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -413,11 +413,11 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 3,
 						"m_position": {
-							"x": 13721.774414000001,
+							"x": 13721.774414,
 							"y": 238
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -428,11 +428,11 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 3,
 						"m_position": {
-							"x": 13652.243164000001,
+							"x": 13652.243164,
 							"y": 235
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -443,11 +443,11 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 3,
 						"m_position": {
-							"x": 13681.149414000001,
+							"x": 13681.149414,
 							"y": 237
 						},
-						"m_scaleX": 0.7000000000000001,
-						"m_scaleY": 0.7000000000000001,
+						"m_scaleX": 0.7,
+						"m_scaleY": 0.7,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": true,
 						"m_rotationRate": 0
@@ -458,7 +458,7 @@
 						"m_parallaxLayer": 6,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 13024.380858999999,
+							"x": 13024.380859,
 							"y": 135
 						},
 						"m_scaleX": 0.5,
@@ -476,8 +476,8 @@
 							"x": 13032.193359,
 							"y": 147
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -491,8 +491,8 @@
 							"x": 13069.693359,
 							"y": 146
 						},
-						"m_scaleX": 0.7000000000000001,
-						"m_scaleY": 0.7000000000000001,
+						"m_scaleX": 0.7,
+						"m_scaleY": 0.7,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -503,7 +503,7 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 3,
 						"m_position": {
-							"x": 12910.368163999998,
+							"x": 12910.368164,
 							"y": 198
 						},
 						"m_scaleX": 0.4,
@@ -521,8 +521,8 @@
 							"x": 12930.680664,
 							"y": 182
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -548,7 +548,7 @@
 						"m_parallaxLayer": 4,
 						"m_drawLayer": 3,
 						"m_position": {
-							"x": 13029.586913999998,
+							"x": 13029.586914,
 							"y": 232
 						},
 						"m_scaleX": 0.4,
@@ -566,8 +566,8 @@
 							"x": 13013.493164,
 							"y": 217
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -593,7 +593,7 @@
 						"m_parallaxLayer": 7,
 						"m_drawLayer": 2,
 						"m_position": {
-							"x": 12056.075194999998,
+							"x": 12056.075195,
 							"y": 73
 						},
 						"m_scaleX": 0.4,
@@ -611,8 +611,8 @@
 							"x": 12311.2031,
 							"y": 138
 						},
-						"m_scaleX": 0.6000000000000001,
-						"m_scaleY": 0.6000000000000001,
+						"m_scaleX": 0.6,
+						"m_scaleY": 0.6,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -638,7 +638,7 @@
 						"m_parallaxLayer": 10,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 11340.375976999998,
+							"x": 11340.375977,
 							"y": 143
 						},
 						"m_scaleX": 1,
@@ -653,7 +653,7 @@
 						"m_parallaxLayer": 10,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 11277.874999999998,
+							"x": 11277.875,
 							"y": 414
 						},
 						"m_scaleX": 1,
@@ -668,7 +668,7 @@
 						"m_parallaxLayer": 10,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 10852.094727000002,
+							"x": 10852.094727,
 							"y": 440
 						},
 						"m_scaleX": 1,
@@ -683,7 +683,7 @@
 						"m_parallaxLayer": 10,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 10656.782227000002,
+							"x": 10656.782227,
 							"y": 377
 						},
 						"m_scaleX": 1,
@@ -698,7 +698,7 @@
 						"m_parallaxLayer": 10,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 10788.032227000002,
+							"x": 10788.032227,
 							"y": 250
 						},
 						"m_scaleX": 1,
@@ -728,7 +728,7 @@
 						"m_parallaxLayer": 10,
 						"m_drawLayer": 0,
 						"m_position": {
-							"x": 10642.719727000002,
+							"x": 10642.719727,
 							"y": 179
 						},
 						"m_scaleX": 1,

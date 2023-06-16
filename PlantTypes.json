@@ -85,7 +85,7 @@
 				"AnimRigClass": "PlantAnimRig_Tallnut",
 				"PopAnim": "POPANIM_PLANT_TALLNUT",
 				"SeedChooserBigHorizontalOffset": -0.05,
-				"SeedChooserBigVerticalOffset": 0.6000000000000001,
+				"SeedChooserBigVerticalOffset": 0.6,
 				"SeedChooserBigScale": 1.25,
 				"HomeWorld": "modern",
 				"AlmanacBackdropName": "modern"
@@ -498,7 +498,7 @@
 				"PopAnim": "POPANIM_PLANT_SPRINGBEAN",
 				"SeedChooserBigVerticalOffset": 0.55,
 				"SeedChooserBigScale": 1.25,
-				"ShadowScale": 0.6000000000000001,
+				"ShadowScale": 0.6,
 				"ShadowOffset": {
 					"x": -5,
 					"y": 5
@@ -1297,7 +1297,7 @@
 				"AnimRigClass": "PlantAnimRig_Chomper",
 				"PopAnim": "POPANIM_PLANT_CHOMPER",
 				"SeedChooserBigHorizontalOffset": 0.02,
-				"SeedChooserBigVerticalOffset": 0.6000000000000001,
+				"SeedChooserBigVerticalOffset": 0.6,
 				"SeedChooserBigScale": 1.25,
 				"HomeWorld": "modern",
 				"AlmanacBackdropName": "modern",
@@ -1772,7 +1772,7 @@
 				"SeedChooserBigHorizontalOffset": -0.05,
 				"SeedChooserBigVerticalOffset": 0.55,
 				"SeedChooserBigScale": 1.25,
-				"ShadowScale": 0.7000000000000001,
+				"ShadowScale": 0.7,
 				"HomeWorld": "modern",
 				"AlmanacBackdropName": "modern",
 				"Families": [
@@ -4577,7 +4577,7 @@
 				"Properties": "RTID(MiniPeashooterDefault@PlantProperties)",
 				"AnimRigClass": "PlantAnimRig",
 				"PopAnim": "POPANIM_PLANT_PEASHOOTER_MINI",
-				"SeedChooserBigVerticalOffset": 0.30000000000000004,
+				"SeedChooserBigVerticalOffset": 0.3,
 				"ShadowScale": 0.4,
 				"ShadowOffset": {
 					"x": 19,
@@ -4605,7 +4605,7 @@
 				"Properties": "RTID(MiniSunflowerDefault@PlantProperties)",
 				"AnimRigClass": "PlantAnimRig_Sunflower",
 				"PopAnim": "POPANIM_PLANT_SUNFLOWER_MINI",
-				"SeedChooserBigVerticalOffset": 0.30000000000000004,
+				"SeedChooserBigVerticalOffset": 0.3,
 				"ShadowScale": 0.4,
 				"ShadowOffset": {
 					"x": 19,
@@ -4660,7 +4660,7 @@
 				"Properties": "RTID(MiniSnowPeaDefault@PlantProperties)",
 				"AnimRigClass": "PlantAnimRig",
 				"PopAnim": "POPANIM_PLANT_SNOWPEA_MINI",
-				"SeedChooserBigVerticalOffset": 0.30000000000000004,
+				"SeedChooserBigVerticalOffset": 0.3,
 				"ShadowScale": 0.4,
 				"ShadowOffset": {
 					"x": 19,
@@ -5057,7 +5057,7 @@
 				"AnimRigClass": "PlantAnimRig_Tallnut",
 				"PopAnim": "POPANIM_PLANT_TALLNUT",
 				"SeedChooserBigHorizontalOffset": -0.05,
-				"SeedChooserBigVerticalOffset": 0.6000000000000001,
+				"SeedChooserBigVerticalOffset": 0.6,
 				"SeedChooserBigScale": 1.25,
 				"HomeWorld": "modern",
 				"AlmanacBackdropName": "modern",
@@ -5159,7 +5159,7 @@
 				"AnimRigClass": "PlantAnimRig_Chomper",
 				"PopAnim": "POPANIM_PLANT_CHOMPER",
 				"SeedChooserBigHorizontalOffset": 0.02,
-				"SeedChooserBigVerticalOffset": 0.6000000000000001,
+				"SeedChooserBigVerticalOffset": 0.6,
 				"SeedChooserBigScale": 1.25,
 				"HomeWorld": "modern",
 				"AlmanacBackdropName": "modern",

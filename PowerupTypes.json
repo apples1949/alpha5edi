@@ -94,7 +94,7 @@
 				"MetricName": "Flamethrower",
 				"TotalTime": 2,
 				"TimePerUse": 0.0001,
-				"FlamethrowerRadiusInGridSquareWidths": 1.7500000000000002,
+				"FlamethrowerRadiusInGridSquareWidths": 1.75,
 				"FlamethrowerNormalDPS": 600,
 				"//": "Sets which griditems the flamethrower treats as iceblocks",
 				"FlamethrowerWarmingDPS": 300,

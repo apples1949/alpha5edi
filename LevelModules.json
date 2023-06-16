@@ -8392,7 +8392,7 @@
 				"CoinHorizontalMovement": 60,
 				"CoinRiseHeight": 100,
 				"CoinRiseTime": 0.4,
-				"CoinCollectTime": 0.30000000000000004,
+				"CoinCollectTime": 0.3,
 				"AdditionalEndingDelay": 2.0,
 				"HugeCoinInitialScale": 0.5,
 				"HugeCoinFullScale": 1.2,
@@ -8418,7 +8418,7 @@
 				"CoinHorizontalMovement": 60,
 				"CoinRiseHeight": 100,
 				"CoinRiseTime": 0.4,
-				"CoinCollectTime": 0.30000000000000004,
+				"CoinCollectTime": 0.3,
 				"BoardFadeTime": 1.5,
 				"AdditionalEndingDelay": 2.0,
 				"HugeCoinInitialScale": 0.5,
@@ -8445,7 +8445,7 @@
 				"CoinHorizontalMovement": 60,
 				"CoinRiseHeight": 100,
 				"CoinRiseTime": 0.4,
-				"CoinCollectTime": 0.30000000000000004,
+				"CoinCollectTime": 0.3,
 				"AdditionalEndingDelay": 2.0,
 				"HugeCoinInitialScale": 0.5,
 				"HugeCoinFullScale": 1.2,
@@ -8675,7 +8675,7 @@
 						"Type": "SmallSun",
 						"Min": 1,
 						"Max": 1,
-						"Period": 0.30000000000000004,
+						"Period": 0.3,
 						"LevelLootKey": "whack"
 					},
 					{
@@ -8720,7 +8720,7 @@
 				"ZombieCountdownFirstWaveConveyorSecs": 5.0,
 				"ZombieCountdownHugeWaveDelay": 7.5,
 				"MinNextWaveHealthPercentage": 0.5,
-				"MaxNextWaveHealthPercentage": 0.6500000000000001
+				"MaxNextWaveHealthPercentage": 0.65
 			}
 		},
 		{
@@ -9026,7 +9026,7 @@
 				"BeneficialGravestonesPerSpawnEventMax": {
 					"YIntercept": 3
 				},
-				"ChanceThatBeneficialGravestoneIsPlantfoodNotSun": 0.15000000000000002,
+				"ChanceThatBeneficialGravestoneIsPlantfoodNotSun": 0.15,
 				"GravestoneSpawnColumnMin": {
 					"SlopeCoefficient": -0.2,
 					"YIntercept": 7,

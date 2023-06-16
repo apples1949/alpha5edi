@@ -26,8 +26,8 @@
 							"x": 643,
 							"y": 55
 						},
-						"m_scaleX": 1.1500000000000001,
-						"m_scaleY": 1.1500000000000001,
+						"m_scaleX": 1.15,
+						"m_scaleY": 1.15,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -41,8 +41,8 @@
 							"x": 2483,
 							"y": 55
 						},
-						"m_scaleX": 1.1500000000000001,
-						"m_scaleY": 1.1500000000000001,
+						"m_scaleX": 1.15,
+						"m_scaleY": 1.15,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0
@@ -53,11 +53,11 @@
 						"m_parallaxLayer": 0,
 						"m_drawLayer": 1,
 						"m_position": {
-							"x": 4199.5,
+							"x": 4199,
 							"y": 55
 						},
-						"m_scaleX": 1.1500000000000001,
-						"m_scaleY": 1.1500000000000001,
+						"m_scaleX": 1.15,
+						"m_scaleY": 1.15,
 						"m_rotationAngle": 0,
 						"m_isArtFlipped": false,
 						"m_rotationRate": 0

@@ -96,7 +96,7 @@
 				"ScoreValueZombieLostHelmBase": 50,
 				"MultiplierAddWeightGravestoneDestroyed": 0.2,
 				"GravestoneDestroyed": 200,
-				"MultiplierAddWeightZombieKill": 0.30000000000000004,
+				"MultiplierAddWeightZombieKill": 0.3,
 				"ScoreValueZombieKillBase": 100,
 				"ScoreValueZombieKillPer300Health": 100,
 				"ScorePctZombieLawnmower": 0.0,
@@ -186,14 +186,14 @@
 				"MultiplierPlantDiedPenaltyMinimum": 1,
 				"MultiplierMaximum": 1,
 				"ScoreValueZombieLostHelmPctPerLevel": 0.001,
-				"ScoreValueZombieKillPctPerLevel": 0.30000000000000004,
+				"ScoreValueZombieKillPctPerLevel": 0.3,
 				"ScorePctZombieLawnmower": 0,
 				"ScoreDisplayModifiers": [
 					{
 						"ScoreMultiplierMinimum": 1.0,
 						"ScoreAwardDisplayTime": 2.0,
 						"ScoreFadeOutTime": 0.2,
-						"ScoreScale": 0.7000000000000001,
+						"ScoreScale": 0.7,
 						"ScoreEndScale": 1.0,
 						"ScoreZOffset": 95,
 						"ScoreYVelocity": -10,
@@ -272,7 +272,7 @@
 				"ScoreValueZombieHelmPer300Health": 100,
 				"MultiplierAddWeightGravestoneDestroyed": 0.2,
 				"GravestoneDestroyed": 200,
-				"MultiplierAddWeightZombieKill": 0.30000000000000004,
+				"MultiplierAddWeightZombieKill": 0.3,
 				"ScoreValueZombieKillBase": 100,
 				"ScoreValueZombieKillPer300Health": 100,
 				"MultiplierPlantDiedPenaltyFraction": 0.34,
@@ -294,7 +294,7 @@
 				"ScoreDisplayModifiers": [
 					{
 						"ScoreMultiplierMinimum": 1.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.5,
 						"ScoreEndScale": 1.0,
@@ -309,9 +309,9 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 2.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
-						"ScoreScale": 0.7000000000000001,
+						"ScoreScale": 0.7,
 						"ScoreEndScale": 1.2,
 						"ScoreZOffset": 105,
 						"ScoreYVelocity": -12,
@@ -324,7 +324,7 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 3.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.9,
 						"ScoreEndScale": 1.5,
@@ -339,10 +339,10 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 5.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 1.2,
-						"ScoreEndScale": 1.7000000000000002,
+						"ScoreEndScale": 1.7,
 						"ScoreZOffset": 125,
 						"ScoreYVelocity": -20,
 						"ScoreColor": {
@@ -363,9 +363,9 @@
 			"objdata": {
 				"TypeName": "Amac",
 				"MultiplierBaseDelayToDecay": 5,
-				"MultiplierBaseReductionByMultiple": 0.15000000000000002,
+				"MultiplierBaseReductionByMultiple": 0.15,
 				"MultiplierNextDelayToDecay": 3,
-				"MultiplierNextReductionByMultiple": 0.15000000000000002,
+				"MultiplierNextReductionByMultiple": 0.15,
 				"MultiplierVisibleDecayPeriod": 1.5,
 				"MultiplierDelayToDecayMinimum": 1.55,
 				"MultiplierAddWeightZombieLostHelm": 1,
@@ -536,7 +536,7 @@
 				"ScoreValueZombieHelmPer300Health": 100,
 				"MultiplierAddWeightGravestoneDestroyed": 0.2,
 				"GravestoneDestroyed": 200,
-				"MultiplierAddWeightZombieKill": 0.30000000000000004,
+				"MultiplierAddWeightZombieKill": 0.3,
 				"ScoreValueZombieKillBase": 100,
 				"ScoreValueZombieKillPer300Health": 100,
 				"MultiplierPlantDiedPenaltyFraction": 0.34,
@@ -554,7 +554,7 @@
 				"ScoreDisplayModifiers": [
 					{
 						"ScoreMultiplierMinimum": 1.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.5,
 						"ScoreEndScale": 1.0,
@@ -569,9 +569,9 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 2.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
-						"ScoreScale": 0.7000000000000001,
+						"ScoreScale": 0.7,
 						"ScoreEndScale": 1.2,
 						"ScoreZOffset": 105,
 						"ScoreYVelocity": -12,
@@ -584,7 +584,7 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 3.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.9,
 						"ScoreEndScale": 1.5,
@@ -599,10 +599,10 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 5.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 1.2,
-						"ScoreEndScale": 1.7000000000000002,
+						"ScoreEndScale": 1.7,
 						"ScoreZOffset": 125,
 						"ScoreYVelocity": -20,
 						"ScoreColor": {
@@ -625,7 +625,7 @@
 				"TypeName": "DifficultyTest",
 				"LevelFactorBaseDelayToDecay": 1,
 				"LevelFactorDecayContinuesToNextFactor": true,
-				"LevelFactorDecayProgressAmount": 0.30000000000000004,
+				"LevelFactorDecayProgressAmount": 0.3,
 				"LevelFactorBaseReductionByMultiple": 0.1,
 				"LevelFactorNextDelayToDecay": 2,
 				"LevelFactorNextReductionByMultiple": 0.1,
@@ -636,14 +636,14 @@
 				"LevelFactorAddPctReductionPerLevel": 0.1,
 				"LevelFactorAddWeightZombieLostHelm": 0,
 				"LevelFactorAddWeightGravestoneDestroyed": 0,
-				"LevelFactorAddWeightZombieKill": 0.30000000000000004,
+				"LevelFactorAddWeightZombieKill": 0.3,
 				"LevelFactorAddWeightZombieKillLifetimeStepDecrease": 0.01,
 				"LevelFactorAddWeightZombieKillLifetimeStepSeconds": 5,
 				"LevelFactorAddWeightZombieKillPctIncreasePerLevel": 0.1,
-				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0.6000000000000001,
+				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0.6,
 				"LevelFactorLawnmowerDiedPenaltyMinimum": 1,
 				"LevelFactorAddWeightZombossStageEnd": 0,
-				"LevelFactorPlantDiedPenaltyFraction": 0.30000000000000004,
+				"LevelFactorPlantDiedPenaltyFraction": 0.3,
 				"LevelFactorPlantDiedPenaltyMinimum": 0.1,
 				"PlantDiedOverrides": [
 					{
@@ -718,7 +718,7 @@
 				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0.2,
 				"LevelFactorLawnmowerDiedPenaltyMinimum": 1,
 				"LevelFactorAddWeightZombossStageEnd": 0,
-				"LevelFactorPlantDiedPenaltyFraction": 0.30000000000000004,
+				"LevelFactorPlantDiedPenaltyFraction": 0.3,
 				"LevelFactorPlantDiedPenaltyMinimum": 1,
 				"LevelFactorFriendlyZombieDiedPenaltyFraction": 0,
 				"LevelFactorFriendlyZombieDiedPenaltyMinimum": 0,
@@ -789,7 +789,7 @@
 				"MultiplierBaseDelayToDecay": 5,
 				"MultiplierBaseReductionByMultiple": 0.25,
 				"MultiplierNextDelayToDecay": 3,
-				"MultiplierNextReductionByMultiple": 0.15000000000000002,
+				"MultiplierNextReductionByMultiple": 0.15,
 				"MultiplierVisibleDecayPeriod": 1,
 				"MultiplierDelayToDecayMinimum": 1,
 				"MultiplierAddWeightZombieLostHelm": 0,
@@ -815,7 +815,7 @@
 				"ScoreDisplayModifiers": [
 					{
 						"ScoreMultiplierMinimum": 1.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.5,
 						"ScoreEndScale": 1.0,
@@ -830,9 +830,9 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 2.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
-						"ScoreScale": 0.7000000000000001,
+						"ScoreScale": 0.7,
 						"ScoreEndScale": 1.2,
 						"ScoreZOffset": 105,
 						"ScoreYVelocity": -12,
@@ -845,7 +845,7 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 3.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.9,
 						"ScoreEndScale": 1.5,
@@ -860,10 +860,10 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 5.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 1.2,
-						"ScoreEndScale": 1.7000000000000002,
+						"ScoreEndScale": 1.7,
 						"ScoreZOffset": 125,
 						"ScoreYVelocity": -20,
 						"ScoreColor": {
@@ -914,7 +914,7 @@
 				"ScoreDisplayModifiers": [
 					{
 						"ScoreMultiplierMinimum": 1.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.5,
 						"ScoreEndScale": 1.0,
@@ -929,9 +929,9 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 2.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
-						"ScoreScale": 0.7000000000000001,
+						"ScoreScale": 0.7,
 						"ScoreEndScale": 1.2,
 						"ScoreZOffset": 105,
 						"ScoreYVelocity": -12,
@@ -944,7 +944,7 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 3.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 0.9,
 						"ScoreEndScale": 1.5,
@@ -959,10 +959,10 @@
 					},
 					{
 						"ScoreMultiplierMinimum": 5.0,
-						"ScoreAwardDisplayTime": 0.7000000000000001,
+						"ScoreAwardDisplayTime": 0.7,
 						"ScoreFadeOutTime": 0.25,
 						"ScoreScale": 1.2,
-						"ScoreEndScale": 1.7000000000000002,
+						"ScoreEndScale": 1.7,
 						"ScoreZOffset": 125,
 						"ScoreYVelocity": -20,
 						"ScoreColor": {

@@ -198,8 +198,8 @@
 					"zombie_armor_cone_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_impact_plastic"
 			}
@@ -224,8 +224,8 @@
 					"zombie_armor_bucket_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_impact_shieldhit"
 			}
@@ -249,8 +249,8 @@
 					"zombie_armor_brick_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ParticleLayerOverride": [
 					"zombie_armor_brick_damage_02",
@@ -302,8 +302,8 @@
 					"zombie_egypt_sarcophagus_damage2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_Zomb_Egypt_Pharaoh_Impact_Hit",
 				"DropSoundEvent": "Play_Zomb_Egypt_Pharaoh_Impact_Break"
@@ -329,8 +329,8 @@
 					"allstar_head_helmet_particle_damaged2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_impact_plastic"
 			}
@@ -475,8 +475,8 @@
 					"zombie_poncho_armor1_damage2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ParticleLayerOverride": [
 					"particle_plate",
@@ -507,8 +507,8 @@
 					"zombie_armor_crown_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
@@ -559,8 +559,8 @@
 					"zombie_shoulder_armor_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
@@ -901,8 +901,8 @@
 					"zombie_armor_skull_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "",
 				"DropSoundEvent": ""
@@ -928,8 +928,8 @@
 					"zombie_roman_helmet_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_impact_shieldhit",
 				"DropSoundEvent": ""
@@ -991,7 +991,7 @@
 				],
 				"ArmorLayerHealth": [
 					0.8,
-					0.6000000000000001,
+					0.6,
 					0.4,
 					0.2
 				],
@@ -1101,8 +1101,8 @@
 					"_zombie_newspaper_dmg2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"FireLayer": "_zombie_newspaper_flame",
 				"ImpactSoundEvent": "Play_Zomb_Modern_Newspaper_Paper_Impact",
@@ -1127,8 +1127,8 @@
 					"_zombie_newspaper_dmg2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"FireLayer": "_zombie_newspaper_flame",
 				"ImpactSoundEvent": "Play_Zomb_Modern_Newspaper_Paper_Impact",
@@ -1203,8 +1203,8 @@
 					"zombie_custom_pharaoh_dt_damage2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_Zomb_WildWest_Poncho_Impact_Metal",
 				"DropSoundEvent": "Play_Zomb_Egypt_Pharaoh_Impact_Break"
@@ -1300,10 +1300,10 @@
 					"zombie_armor_brick_damage_05"
 				],
 				"ArmorLayerHealth": [
-					0.8300000000000001,
-					0.6700000000000002,
+					0.83,
+					0.67,
 					0.5,
-					0.33000000000000007,
+					0.33,
 					0.16
 				],
 				"ParticleLayerOverride": [
@@ -1334,8 +1334,8 @@
 					"zombie_armor_cone_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_impact_plastic"
 			}
@@ -1360,8 +1360,8 @@
 					"zombie_armor_bucket_damage_02"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"ImpactSoundEvent": "Play_impact_shieldhit"
 			}
@@ -1385,8 +1385,8 @@
 					"zombie_laptop_dmg2"
 				],
 				"ArmorLayerHealth": [
-					0.6700000000000002,
-					0.33000000000000007
+					0.67,
+					0.33
 				],
 				"FireLayer": "",
 				"ImpactSoundEvent": "Play_Zomb_Modern_Newspaper_Paper_Impact",
@@ -1413,8 +1413,8 @@
 					"imp_armor_helm_damage_01"
 				],
 				"ArmorLayerHealth": [
-					0.6660000000000001,
-					0.3330000000000001
+					0.666,
+					0.333
 				],
 				"ParticleLayerOverride": [
 					"helm"
