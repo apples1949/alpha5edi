@@ -31,7 +31,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-136: Wheat Combat - darkchan",
+				"Name": "WP-136: 麦穗交锋 - darkchan",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

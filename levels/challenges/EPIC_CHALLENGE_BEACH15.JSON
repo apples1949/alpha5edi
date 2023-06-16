@@ -20,7 +20,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Fishy Business",
+				"Name": "渔业商机",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

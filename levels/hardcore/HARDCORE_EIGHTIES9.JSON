@@ -29,7 +29,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "10-9X: Passive Offensive",
+				"Name": "10-9X: 被动进攻",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

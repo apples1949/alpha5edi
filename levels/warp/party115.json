@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-115: Cold Racers - Locke",
+				"Name": "WP-115: 酷寒竞速者 - Locke",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

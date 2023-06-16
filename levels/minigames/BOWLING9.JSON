@@ -36,7 +36,7 @@
 					"RTID(BowlingMinigame@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Bowling Party 9: Deathline",
+				"Name": "保龄球派对 9: 死线",
 				"MusicType": "Minigame_A",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}

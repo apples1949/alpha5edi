@@ -28,7 +28,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "12-6: Pestisles",
+				"Name": "12-6: 瘟疫",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

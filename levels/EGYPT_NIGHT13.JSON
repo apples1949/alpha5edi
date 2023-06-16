@@ -28,7 +28,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "AE-13: Paid Settlement",
+				"Name": "AE-13: 花钱买地",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

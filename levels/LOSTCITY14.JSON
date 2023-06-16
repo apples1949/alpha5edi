@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "12-4: Pocket Siege",
+				"Name": "12-4: 口袋围攻",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

@@ -22,7 +22,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Battle No-Brain",
+				"Name": "无脑之战",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

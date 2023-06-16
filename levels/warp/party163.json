@@ -29,7 +29,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-163: Orangerier - bottle",
+				"Name": "WP-163: 橙上加橙 - bottle",
 				"StageModule": "RTID(DinoStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

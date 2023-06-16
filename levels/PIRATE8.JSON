@@ -28,7 +28,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "4-8: Difficult Spikes",
+				"Name": "4-8: 坚硬的刺",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

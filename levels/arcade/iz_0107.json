@@ -26,7 +26,7 @@
 					"RTID(LastStand@.)",
 					"RTID(CoolDown@.)"
 				],
-				"Name": "Z1-7: March Strike",
+				"Name": "Z1-7: 齐步袭击",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

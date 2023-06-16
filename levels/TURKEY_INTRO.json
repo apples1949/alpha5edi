@@ -18,7 +18,7 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Go hunt Turkeys in the Training World!",
+				"Name": "去练习世界捕杀火鸡吧!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"StageModule": "RTID(ModernStage@LevelModules)"

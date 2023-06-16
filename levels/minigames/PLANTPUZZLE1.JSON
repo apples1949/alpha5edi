@@ -26,7 +26,7 @@
 					"RTID(FreeCooldown@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Plant Puzzle 1",
+				"Name": "移花接木 1",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

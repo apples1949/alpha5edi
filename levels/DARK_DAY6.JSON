@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "DA-6: Day Mocracy",
+				"Name": "DA-6: 民主之日",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

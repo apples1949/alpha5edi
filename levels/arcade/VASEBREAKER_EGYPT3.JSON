@@ -5,7 +5,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Name": "V1-3: Blast Protection",
+				"Name": "V1-3: 防爆装置",
 				"IsVasebreaker": true,
 				"AddBonusStartingSun": false,
 				"LevelPowerupSet": "LevelPowerupsVasebreaker",

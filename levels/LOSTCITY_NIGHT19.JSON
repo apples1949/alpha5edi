@@ -30,7 +30,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "LC-19: Pay Wall",
+				"Name": "LC-19: 付费障碍",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
-				"Name": "7-3X: Sub Urgents",
+				"Name": "7-3X: 水下告急",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Gargantuar Feast",
+				"Name": "生存: 巨人盛宴",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}

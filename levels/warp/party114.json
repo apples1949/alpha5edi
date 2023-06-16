@@ -24,7 +24,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-114: Frosty Rows - yfyfyfyfyfy",
+				"Name": "WP-114: 冻列 - yfyfyfyfyfy",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

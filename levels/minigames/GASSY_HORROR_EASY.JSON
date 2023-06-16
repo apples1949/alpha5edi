@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Gassy Horror (easy) - DT",
+				"Name": "毒气恐惧 (简单) - DT",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

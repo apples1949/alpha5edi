@@ -23,7 +23,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WP-60: Life Theatre - DT",
+				"Name": "WP-60: 生命剧场 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

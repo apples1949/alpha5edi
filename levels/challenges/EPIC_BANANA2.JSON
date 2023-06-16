@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "BNN-2: Premium Detonator",
+				"Name": "BNN-2: 高昂炸药",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

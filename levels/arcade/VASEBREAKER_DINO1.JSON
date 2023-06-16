@@ -5,7 +5,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Name": "V8-1: Lucky Vase",
+				"Name": "V8-1: 幸运之罐",
 				"IsVasebreaker": true,
 				"AddBonusStartingSun": false,
 				"LevelPowerupSet": "LevelPowerupsVasebreaker",

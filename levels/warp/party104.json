@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-104: Wallmakers - Oblong",
+				"Name": "WP-104: 高墙铸造者 - Oblong",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

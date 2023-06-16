@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "SPB-4: Suprise Drops",
+				"Name": "SPB-4: 惊喜迫降",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

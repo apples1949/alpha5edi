@@ -29,7 +29,7 @@
 					"RTID(CoolDown@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "CRS-7: Burning Sensation",
+				"Name": "CRS-7: 灼烧感",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z3-2: Plant Base Burger",
+				"Name": "Z3-2: 植物基地汉堡",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

@@ -24,7 +24,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "7-7: Squid Uprising",
+				"Name": "7-7: 章鱼暴动",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

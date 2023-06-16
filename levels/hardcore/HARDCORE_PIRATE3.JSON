@@ -31,7 +31,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "4-3X: The Inner Imps",
+				"Name": "4-3X: 内藏小鬼",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

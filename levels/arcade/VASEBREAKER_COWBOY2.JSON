@@ -5,7 +5,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Name": "V6-2: Rail Race",
+				"Name": "V6-2: 轨道竞速",
 				"IsVasebreaker": true,
 				"AddBonusStartingSun": false,
 				"LevelPowerupSet": "LevelPowerupsVasebreaker",

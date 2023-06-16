@@ -24,7 +24,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "10-4X: Blind Audition",
+				"Name": "10-4X: 致盲试音",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

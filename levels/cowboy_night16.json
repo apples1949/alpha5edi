@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "WW-16: The Mega Bites",
+				"Name": "WW-16: 超级啃咬",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

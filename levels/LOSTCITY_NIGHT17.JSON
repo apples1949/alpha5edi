@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "LC-17: The Parassault",
+				"Name": "LC-17: 伞兵袭击",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "AE-1: The Ancient Night",
+				"Name": "AE-1: 远古之夜",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

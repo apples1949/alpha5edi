@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Knighty Night",
+				"Name": "骑士之夜",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

@@ -27,7 +27,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "A Crack in Time - DT",
+				"Name": "时空裂缝 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

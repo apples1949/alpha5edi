@@ -28,7 +28,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)",
 					"RTID(PiratePlanks@CurrentLevel)"
 				],
-				"Name": "Invisi-ghoul: Nerve Spikes",
+				"Name": "隐形食脑者: 神经刺痛",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

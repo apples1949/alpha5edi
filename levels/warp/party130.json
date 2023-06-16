@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-130: Frozen Day - darkchan",
+				"Name": "WP-130: 天寒地冻 - darkchan",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

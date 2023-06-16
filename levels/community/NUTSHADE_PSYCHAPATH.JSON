@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Psycha Path - Nutshade",
+				"Name": "断魂小路 - Nutshade",
 				"StageModule": "RTID(DinoStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

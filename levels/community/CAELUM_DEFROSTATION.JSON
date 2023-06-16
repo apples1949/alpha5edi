@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Defrostation - Caelum",
+				"Name": "急速解冻 - Caelum",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

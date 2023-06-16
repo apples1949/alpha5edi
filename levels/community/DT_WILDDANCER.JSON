@@ -21,7 +21,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Wild Dancers - DT",
+				"Name": "狂野舞者 - DT",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}

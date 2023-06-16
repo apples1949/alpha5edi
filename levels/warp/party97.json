@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-97: Sun Packing - Locke",
+				"Name": "WP-97: 阳光包裹 - Locke",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

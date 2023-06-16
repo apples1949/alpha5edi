@@ -26,7 +26,7 @@
 					"RTID(ConveyorBelt@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "18-1: Perfume Performance",
+				"Name": "18-1: 香水演出",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

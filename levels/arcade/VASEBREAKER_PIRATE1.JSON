@@ -5,7 +5,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Name": "V4-1: Off-ground",
+				"Name": "V4-1: 海上漂浮",
 				"IsVasebreaker": true,
 				"AddBonusStartingSun": false,
 				"LevelPowerupSet": "LevelPowerupsVasebreaker",

@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "3-8X: Prop Plant",
+				"Name": "3-8X: 主力植物",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

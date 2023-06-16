@@ -28,7 +28,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "SDL-4: Cross Spread",
+				"Name": "SDL-4: 交叉扩散",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

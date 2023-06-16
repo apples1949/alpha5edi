@@ -32,7 +32,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "13-9: Sheep Paralysis",
+				"Name": "13-9: 绵羊麻痹术",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

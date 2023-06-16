@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-139: Primal Bull-y - Kimmy Turner",
+				"Name": "WP-139: 原始霸凌 - Kimmy Turner",
 				"StageModule": "RTID(DinoStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

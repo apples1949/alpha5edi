@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Spicy Ice - Locke",
+				"Name": "火辣冰雕 - Locke",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

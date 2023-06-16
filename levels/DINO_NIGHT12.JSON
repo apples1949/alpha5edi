@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "JM-12: Con-gression",
+				"Name": "JM-12: 中场移动",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Welcome to the Miscellaneous Island!",
+				"Name": "欢迎来到混杂岛屿!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"SuppressAwardScreen": true,

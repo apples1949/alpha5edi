@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "AE-7: Big Decision",
+				"Name": "AE-7: 重大抉择",
 				"StageModule": "RTID(EgyptNightStage@CurrentLevel)"
 			}
 		},

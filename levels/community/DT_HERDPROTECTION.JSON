@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "Herd Protection - DT",
+				"Name": "牧群保护 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

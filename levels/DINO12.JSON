@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "18-2: Hive Bribe",
+				"Name": "18-2: 群体贿赂",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

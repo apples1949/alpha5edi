@@ -24,7 +24,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z4-1: Thrones Of Thorn",
+				"Name": "Z4-1: 荆棘宝座",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Sleepwalkers (easy) - DT",
+				"Name": "睡梦行者 (简单) - DT",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

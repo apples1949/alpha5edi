@@ -24,7 +24,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z4-3: Dynamite Nimble",
+				"Name": "Z4-3: 敏捷炸药",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

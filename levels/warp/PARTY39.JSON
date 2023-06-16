@@ -26,7 +26,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WP-39: Land On Pea",
+				"Name": "WP-39: 落在豌豆上",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}

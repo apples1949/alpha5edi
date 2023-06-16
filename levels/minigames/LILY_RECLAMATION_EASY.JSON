@@ -1,5 +1,5 @@
 {
-	"#comment": "BWB Lily pad PF level thing (easy)",
+	"#comment": "BWB Lily pad PF level thing (简单)",
 	"objects": [
 		{
 			"objclass": "LevelDefinition",
@@ -19,7 +19,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Lily Reclamation (easy) - EnderallyGolem",
+				"Name": "莲叶扩张 (简单) - EnderallyGolem",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

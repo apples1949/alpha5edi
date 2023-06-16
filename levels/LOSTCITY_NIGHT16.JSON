@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "LC-16: Solardarity",
+				"Name": "LC-16: 阳光额度",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

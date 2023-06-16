@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Sun Strike - Malex2005",
+				"Name": "阳光罢工 - Malex2005",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

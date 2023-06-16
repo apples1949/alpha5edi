@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "17-1: Reef Ocean",
+				"Name": "17-1: 礁海",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

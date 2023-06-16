@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Hypno-tech",
+				"Name": "魅惑科技",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

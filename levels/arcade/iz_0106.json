@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z1-6: Mind of the Mines",
+				"Name": "Z1-6: 当心地雷",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

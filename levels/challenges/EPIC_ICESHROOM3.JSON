@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "ICS-3: Flashbang",
+				"Name": "ICS-3: 闪光弹",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

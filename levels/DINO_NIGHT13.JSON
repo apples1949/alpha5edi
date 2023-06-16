@@ -28,7 +28,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "JM-13: Fly Catcher",
+				"Name": "JM-13: 对空捕手",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

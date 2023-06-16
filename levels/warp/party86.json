@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-86: Sunny Reflexes - Locke",
+				"Name": "WP-86: 阳光反射 - Locke",
 				"StageModule": "RTID(EgyptStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

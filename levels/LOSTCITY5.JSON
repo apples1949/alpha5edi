@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "2-5: The Counter",
+				"Name": "2-5: 计数者",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

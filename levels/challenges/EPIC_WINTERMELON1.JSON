@@ -25,7 +25,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "WML-1: The Melon Brothers",
+				"Name": "WML-1: 西瓜兄弟",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

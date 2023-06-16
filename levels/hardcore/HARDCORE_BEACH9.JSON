@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "7-9X: Slip Hazard",
+				"Name": "7-9X: 疏漏之危",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

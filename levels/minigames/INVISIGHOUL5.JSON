@@ -26,7 +26,7 @@
 					"RTID(InvisiGhoul@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "Invisi-ghoul: Ghost Race",
+				"Name": "隐形食脑者: 亡灵赛跑",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

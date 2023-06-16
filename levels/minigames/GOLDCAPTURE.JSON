@@ -24,7 +24,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Gold Capture",
+				"Name": "黄金捕获",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

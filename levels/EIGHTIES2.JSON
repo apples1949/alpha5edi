@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "10-2: Left Insurance",
+				"Name": "10-2: 左部保障",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

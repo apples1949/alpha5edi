@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Moving Movers - Malex2005",
+				"Name": "可动滑块 - Malex2005",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

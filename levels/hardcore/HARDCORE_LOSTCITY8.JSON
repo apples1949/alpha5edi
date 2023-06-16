@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "2-8X: Rain Forest",
+				"Name": "2-8X: 雨林",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

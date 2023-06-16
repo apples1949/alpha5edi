@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "16-3: Wild Runner",
+				"Name": "16-3: 西部逃亡",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

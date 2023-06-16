@@ -5,7 +5,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Name": "V9-1: Plasma Shield",
+				"Name": "V9-1: 电磁屏障",
 				"IsVasebreaker": true,
 				"AddBonusStartingSun": false,
 				"LevelPowerupSet": "LevelPowerupsVasebreaker",

@@ -19,7 +19,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Far-flung Future - DT",
+				"Name": "远抛未来 - DT",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

@@ -20,7 +20,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Piano Hardstyle",
+				"Name": "硬派钢琴",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

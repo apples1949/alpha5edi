@@ -26,7 +26,7 @@
 					"RTID(PowerTiles@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Mini 8: Minsweeper",
+				"Name": "Mini 8: 小小清理者",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

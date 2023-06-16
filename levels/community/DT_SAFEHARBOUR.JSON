@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Safe Harbour - DT",
+				"Name": "安全港湾 - DT",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

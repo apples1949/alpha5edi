@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "Split Decision",
+				"Name": "瞻前顾后",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

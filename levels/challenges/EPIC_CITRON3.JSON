@@ -28,7 +28,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "CTR-3: Big Boy Blaster",
+				"Name": "CTR-3: 大家伙爆破工",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

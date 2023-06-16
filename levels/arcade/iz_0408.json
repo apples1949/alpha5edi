@@ -27,7 +27,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z4-8: Butter Airlines",
+				"Name": "Z4-8: 黄油航线",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

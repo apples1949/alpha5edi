@@ -25,7 +25,7 @@
 					"RTID(CowboyRails@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z6-5: Stomp Matter",
+				"Name": "Z6-5: 踩踏事件",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

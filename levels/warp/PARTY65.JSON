@@ -26,7 +26,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-65: Squid Game - darkchan",
+				"Name": "WP-65: 鱿鱼游戏 - darkchan",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "5-5: Ice Entries",
+				"Name": "5-5: 冰霜莅临",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

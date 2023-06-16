@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Heat Wave - DHQ & Ender",
+				"Name": "燥热波浪 - DHQ & Ender",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

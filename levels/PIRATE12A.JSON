@@ -33,7 +33,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "14-2: Close Ensure",
+				"Name": "14-2: 近守",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

@@ -16,7 +16,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Overleft V: Explorers' League - DT",
+				"Name": "隔山打牛 V: 探险联盟 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

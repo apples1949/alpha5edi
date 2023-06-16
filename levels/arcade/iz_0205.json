@@ -24,7 +24,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z2-5: Match Against Stumps",
+				"Name": "Z2-5: 树桩比拼",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

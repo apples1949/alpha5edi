@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-68: Ice Path - PeaS",
+				"Name": "WP-68: 冰路 - PeaS",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

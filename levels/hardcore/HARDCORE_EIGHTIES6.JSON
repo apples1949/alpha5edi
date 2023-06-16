@@ -27,7 +27,7 @@
 					"RTID(LevelScoring@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "10-6X: High Pea Layers",
+				"Name": "10-6X: 多层豌豆",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

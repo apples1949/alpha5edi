@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Elemental Counter",
+				"Name": "元素计数者",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

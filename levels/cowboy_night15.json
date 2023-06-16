@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WW-15: Splash Slash",
+				"Name": "WW-15: 溅射利器",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

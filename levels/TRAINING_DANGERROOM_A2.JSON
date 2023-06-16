@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(LevelDifficultyScaling@CurrentLevel)"
 				],
-				"Name": "Undying Nightmare - Level {LEVEL_NUMBER}",
+				"Name": "无尽梦魇 - 第 {LEVEL_NUMBER} 关",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(RiftStage@LevelModules)"

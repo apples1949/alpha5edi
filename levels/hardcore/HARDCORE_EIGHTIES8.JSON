@@ -31,7 +31,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "10-8X: Bit By Bit",
+				"Name": "10-8X: 一比一特",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Dead End: Square Dancers",
+				"Name": "穷途末路: 方阵舞者",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

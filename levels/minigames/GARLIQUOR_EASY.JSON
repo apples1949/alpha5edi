@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Garliquor (easy)",
+				"Name": "恶臭大蒜 (简单)",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

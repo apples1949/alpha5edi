@@ -28,7 +28,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Mega Countdown (easy) - DT",
+				"Name": "终极倒数 (简单) - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

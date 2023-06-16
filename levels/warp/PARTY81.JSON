@@ -42,7 +42,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-81: The Peasants' Revenge - Kimmy Turner",
+				"Name": "WP-81: 农民复仇 - Kimmy Turner",
 				"StageModule": "RTID(EgyptStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

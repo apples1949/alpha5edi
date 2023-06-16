@@ -30,7 +30,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-148: Sky Strike - Giang",
+				"Name": "WP-148: 空袭 - Giang",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

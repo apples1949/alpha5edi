@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "4-2X: Sea Ghouls",
+				"Name": "4-2X: 海上僵尸",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

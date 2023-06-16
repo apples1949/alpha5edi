@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "4-6: Great Land Flee",
+				"Name": "4-6: 登陆奔赴",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

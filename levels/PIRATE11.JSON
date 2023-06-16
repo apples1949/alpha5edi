@@ -31,7 +31,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "14-1: Masked Pirates",
+				"Name": "14-1: 面具海盗",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

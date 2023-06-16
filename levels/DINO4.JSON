@@ -27,7 +27,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "8-4: Punch Spits",
+				"Name": "8-4: 喷射重击",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

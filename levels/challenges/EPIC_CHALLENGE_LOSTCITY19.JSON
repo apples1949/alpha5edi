@@ -19,7 +19,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "Plague of the Forest",
+				"Name": "丛林瘟疫",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

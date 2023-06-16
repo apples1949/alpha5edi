@@ -34,7 +34,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "STR-6: Firing Orders",
+				"Name": "STR-6: 发射命令",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

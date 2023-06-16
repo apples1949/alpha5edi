@@ -17,7 +17,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Far Future",
+				"Name": "生存: 遥远未来",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}

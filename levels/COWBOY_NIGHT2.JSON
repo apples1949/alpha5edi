@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WW-2: Dual Player",
+				"Name": "WW-2: 二重奏",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

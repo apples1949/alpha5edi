@@ -24,7 +24,7 @@
 					"RTID(Tide@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "7-8: Banana Bonanza",
+				"Name": "7-8: 香蕉旺季",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

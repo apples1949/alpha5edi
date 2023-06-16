@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-101: Backliners - Oblong",
+				"Name": "WP-101: 后防线 - Oblong",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

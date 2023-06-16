@@ -24,7 +24,7 @@
 					"RTID(CoolDown@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z6-3: Peas Court",
+				"Name": "Z6-3: 豌豆庭院",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

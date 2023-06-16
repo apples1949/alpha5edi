@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-27: BIG Trouble Maker - Locke",
+				"Name": "WP-27: 巨型麻烦制造者 - Locke",
 				"StageModule": "RTID(DinoStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

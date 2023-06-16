@@ -25,7 +25,7 @@
 					"RTID(CowboyMinigame@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "CTR-2: Radiator Rails",
+				"Name": "CTR-2: 轨道辐射炮",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

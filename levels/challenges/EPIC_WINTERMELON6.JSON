@@ -29,7 +29,7 @@
 					"RTID(LastStand@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WML-6: Ultimate Supporter",
+				"Name": "WML-6: 终极后援",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

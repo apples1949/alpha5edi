@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "LC-15: High Moon Focals",
+				"Name": "LC-15: 高月焦点",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

@@ -19,7 +19,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Why are you still here?",
+				"Name": "你为什么还在这?",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

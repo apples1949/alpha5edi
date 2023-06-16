@@ -32,7 +32,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Dead End: Living End",
+				"Name": "穷途末路: 生不如死",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-15: Botanical Cheats - Locke",
+				"Name": "WP-15: 植物欺诈 - Locke",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "",
-				"Name": "20-4: Air Spill",
+				"Name": "20-4: 气罐",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

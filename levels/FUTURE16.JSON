@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "19-6: Grid of Trouble",
+				"Name": "19-6: 麻烦之格",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

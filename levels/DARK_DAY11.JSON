@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "DA-11: Wakeward",
+				"Name": "DA-11: 唤醒",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

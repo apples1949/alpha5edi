@@ -34,7 +34,7 @@
 					"RTID(GraveSpawn8@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "AE-3: Tomb Digger",
+				"Name": "AE-3: 掘墓人",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

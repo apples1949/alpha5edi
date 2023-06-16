@@ -25,7 +25,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Plant Puzzle 7",
+				"Name": "移花接木 7",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

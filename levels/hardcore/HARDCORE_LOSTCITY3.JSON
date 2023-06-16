@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "2-3X: Moss Load",
+				"Name": "2-3X: 地衣装载",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

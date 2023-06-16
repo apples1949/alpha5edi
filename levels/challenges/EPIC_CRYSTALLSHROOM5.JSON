@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "CRS-5: The Magnifficent",
+				"Name": "CRS-5: 华丽棱镜",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

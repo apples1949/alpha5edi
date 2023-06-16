@@ -31,7 +31,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-128: The Ultimate Tier - darkchan",
+				"Name": "WP-128: 至高阶段 - darkchan",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

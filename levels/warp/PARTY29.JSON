@@ -25,7 +25,7 @@
 					"RTID(CoolDown@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-29: Blockbursters",
+				"Name": "WP-29: 障碍爆破",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}

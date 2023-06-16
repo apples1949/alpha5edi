@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z2-1: Screen Shovel",
+				"Name": "Z2-1: 阻隔之铲",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

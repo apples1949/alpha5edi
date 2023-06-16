@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-151: Beware of Chomp! - Giang",
+				"Name": "WP-151: 当心食人花! - Giang",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

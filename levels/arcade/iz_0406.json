@@ -25,7 +25,7 @@
 					"RTID(LastStand@.)",
 					"RTID(CoolDown@.)"
 				],
-				"Name": "Z4-6: Couple Fights",
+				"Name": "Z4-6: 联合双打",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

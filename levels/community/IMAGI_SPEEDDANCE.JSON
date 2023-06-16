@@ -16,7 +16,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Speed Dance - Imagination",
+				"Name": "极速舞蹈 - Imagination",
 				"NormalPresentTable": "cowboy_normal_01",
 				"ShinyPresentTable": "cowboy_shiny_01",
 				"StageModule": "RTID(WestStage@LevelModules)",

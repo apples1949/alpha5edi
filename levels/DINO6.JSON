@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "8-6: Bullypea",
+				"Name": "8-6: 暴力豌豆",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

@@ -36,7 +36,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "5-10X: Shuffleboard",
+				"Name": "5-10X: 换位踏板",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

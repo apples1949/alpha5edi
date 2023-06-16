@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "3-6: Wandering Spell",
+				"Name": "3-6: 流浪巫师",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

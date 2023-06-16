@@ -22,7 +22,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "WW-11: Western Badland",
+				"Name": "WW-11: 西部恶地",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

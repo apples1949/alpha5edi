@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "Wind Shield",
+				"Name": "防风罩",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

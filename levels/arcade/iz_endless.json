@@ -22,7 +22,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(LevelScoring@.)"
 				],
-				"Name": "I, Zombie Endless",
+				"Name": "我是僵尸无尽",
 				"StageModule": "RTID(ModernNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

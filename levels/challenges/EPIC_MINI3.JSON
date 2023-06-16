@@ -26,7 +26,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Mini 3: Decent Sun Descendant",
+				"Name": "Mini 3: 像样的阳光后裔",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

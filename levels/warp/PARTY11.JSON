@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "WP-11: Inevitable Wall",
+				"Name": "WP-11: 不可逾越之墙",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

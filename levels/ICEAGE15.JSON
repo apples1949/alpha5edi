@@ -29,7 +29,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "15-5: Ice Scensor",
+				"Name": "15-5: 冰块传感器",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

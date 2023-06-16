@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Welcome to the Minigames!",
+				"Name": "欢迎来到迷你游戏!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"SuppressAwardScreen": true,

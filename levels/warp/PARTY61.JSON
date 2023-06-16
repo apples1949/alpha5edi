@@ -22,7 +22,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(LastStand@CurrentLevel)"
 				],
-				"Name": "WP-61: Animanyacs",
+				"Name": "WP-61: 动物学家",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

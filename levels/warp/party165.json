@@ -30,7 +30,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(Rails@CurrentLevel)"
 				],
-				"Name": "WP-165: Safety First - Pietro",
+				"Name": "WP-165: 安全第一 - Pietro",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

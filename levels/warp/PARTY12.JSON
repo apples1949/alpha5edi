@@ -23,7 +23,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(LevelScoring@CurrentLevel)"
 				],
-				"Name": "WP-12: Deck The Falls",
+				"Name": "WP-12: 击下甲板",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}

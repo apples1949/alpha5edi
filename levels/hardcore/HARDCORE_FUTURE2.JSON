@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "9-2X: Heavy Roadblocker",
+				"Name": "9-2X: 巨型路障",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

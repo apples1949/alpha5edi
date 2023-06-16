@@ -23,7 +23,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-43: Grasskeepers On Duty",
+				"Name": "WP-43: 在职草地守护者",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(ModernNightStage@LevelModules)"
 			}

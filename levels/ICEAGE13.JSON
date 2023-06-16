@@ -29,7 +29,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "15-3: Thaw Arena",
+				"Name": "15-3: 解冻竞技场",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

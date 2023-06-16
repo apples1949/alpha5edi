@@ -31,7 +31,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "STR-4: Blind Launcher",
+				"Name": "STR-4: 盲目发射",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

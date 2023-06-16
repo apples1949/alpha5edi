@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-79: Cryoseism - Kimmy Turner",
+				"Name": "WP-79: 冰震 - Kimmy Turner",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

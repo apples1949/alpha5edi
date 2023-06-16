@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "8-5: Pest Spreader",
+				"Name": "8-5: 小鬼发射者",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

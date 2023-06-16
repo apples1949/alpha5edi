@@ -26,7 +26,7 @@
 					"RTID(InvisiGhoul@CurrentLevel)",
 					"RTID(CowboyRails@CurrentLevel)"
 				],
-				"Name": "Invisi-ghoul: Wild Shot",
+				"Name": "隐形食脑者: 荒野枪手",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

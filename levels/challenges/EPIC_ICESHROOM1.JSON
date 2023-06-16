@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "ICS-1: Ice Concentrate",
+				"Name": "ICS-1: 浓缩之冰",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

@@ -26,7 +26,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-95: The Flood - FreeZe",
+				"Name": "WP-95: 洪水 - FreeZe",
 				"StageModule": "RTID(LostCityStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

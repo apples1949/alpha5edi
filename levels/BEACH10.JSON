@@ -32,7 +32,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "7-10: Fear of the Deep Sea",
+				"Name": "7-10: 深海之惧",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

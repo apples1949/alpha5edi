@@ -23,7 +23,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "6-1: Western Wasteland",
+				"Name": "6-1: 西部荒地",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

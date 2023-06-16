@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "LC-6: Sun Hunt",
+				"Name": "LC-6: 阳光猎取",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

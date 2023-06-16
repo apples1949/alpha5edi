@@ -23,7 +23,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WW-17: Minute Mines",
+				"Name": "WW-17: 分秒必争",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-94: Windy Landscape - Locke",
+				"Name": "WP-94: 狂风景观 - Locke",
 				"StageModule": "RTID(DarkDayStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

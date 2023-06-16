@@ -32,7 +32,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-166: The First Order - Pyrodosic",
+				"Name": "WP-166: 第一秩序 - Pyrodosic",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

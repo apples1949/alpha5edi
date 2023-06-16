@@ -28,7 +28,7 @@
 					"RTID(GraveSpawn2@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "3-9X: Stonecutter",
+				"Name": "3-9X: 碎石机",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

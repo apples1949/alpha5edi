@@ -31,7 +31,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-135: Three Musketeers - Kimmy Turner",
+				"Name": "WP-135: 三个火枪手 - Kimmy Turner",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

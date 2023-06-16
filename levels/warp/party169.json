@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-169: Musical Paralysis - tafer",
+				"Name": "WP-169: 音乐麻痹 - tafer",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

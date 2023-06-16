@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "1-8: The Giant Chamber",
+				"Name": "1-8: 巨型陵墓",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

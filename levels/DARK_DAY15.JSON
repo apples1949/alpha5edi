@@ -32,7 +32,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "DA-15: Sun Harvest",
+				"Name": "DA-15: 阳光收割",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

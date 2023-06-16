@@ -28,7 +28,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Extreme Seaside Sports - Malex2005",
+				"Name": "极限海边运动 - Malex2005",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

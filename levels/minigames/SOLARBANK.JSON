@@ -21,7 +21,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Solar Bank",
+				"Name": "阳光银行",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

@@ -23,7 +23,7 @@
 					"RTID(Tide@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "17-3: High Seas Skirmish",
+				"Name": "17-3: 公海战役",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

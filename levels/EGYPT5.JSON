@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "1-5: Flush and Burnt",
+				"Name": "1-5: 焚烧冲锋",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

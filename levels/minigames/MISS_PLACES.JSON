@@ -18,7 +18,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Miss Places",
+				"Name": "遗忘地块",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

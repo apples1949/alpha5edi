@@ -18,7 +18,7 @@
 					"RTID(LastStand@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "The Stocks",
+				"Name": "库存储备",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

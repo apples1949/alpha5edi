@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Garliquor",
+				"Name": "恶臭大蒜",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

@@ -22,7 +22,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "6-4X: Dance Tracker",
+				"Name": "6-4X: 舞步跟随",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

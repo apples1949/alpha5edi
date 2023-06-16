@@ -27,7 +27,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "1-6: Mind Field",
+				"Name": "1-6: 雷区",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "BWB-13: Line Drawer",
+				"Name": "BWB-13: 行道推移者",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

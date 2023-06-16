@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(InvisiGhoul@CurrentLevel)"
 				],
-				"Name": "Invisi-ghoul",
+				"Name": "隐形食脑者",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

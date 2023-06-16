@@ -30,7 +30,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "2-9: The Landing Sign",
+				"Name": "2-9: 着陆信号",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

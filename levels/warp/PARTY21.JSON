@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-21: Blind Faith - Locke",
+				"Name": "WP-21: 盲目信仰  - Locke",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

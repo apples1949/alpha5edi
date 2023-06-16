@@ -30,7 +30,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "8-9: Distraction Strategy",
+				"Name": "8-9: 分散策略",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

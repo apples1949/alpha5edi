@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Fata Zomgana - EnderallyGolem",
+				"Name": "幻影危机 - EnderallyGolem",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

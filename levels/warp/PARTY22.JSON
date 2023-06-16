@@ -23,7 +23,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "WP-22: Back Massacre",
+				"Name": "WP-22: 背后屠杀",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}

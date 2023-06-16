@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Super Melon Bros - Yericky",
+				"Name": "超级西瓜兄弟 - Yericky",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

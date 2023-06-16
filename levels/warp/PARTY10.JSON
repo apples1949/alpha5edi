@@ -24,7 +24,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-10: Gravebuster Reclamation - Locke",
+				"Name": "WP-10: 墓地开垦 - Locke",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

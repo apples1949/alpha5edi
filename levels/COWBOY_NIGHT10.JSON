@@ -30,7 +30,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WW-10: The Farm Ranger",
+				"Name": "WW-10: 农场看守人",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

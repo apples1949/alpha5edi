@@ -27,7 +27,7 @@
 					"RTID(SeedBank@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Plant Puzzle 2",
+				"Name": "移花接木 2",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

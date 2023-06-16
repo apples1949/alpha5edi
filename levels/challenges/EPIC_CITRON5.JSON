@@ -28,7 +28,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "CTR-5: Overcharge",
+				"Name": "CTR-5: 超额装载",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

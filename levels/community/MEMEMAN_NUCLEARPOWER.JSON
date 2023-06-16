@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Nuclear Power - MemeMan",
+				"Name": "核平力量 - MemeMan",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

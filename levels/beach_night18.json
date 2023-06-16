@@ -25,7 +25,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "BWB-18: Bait and Switch",
+				"Name": "BWB-18: 诱饵和转移",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

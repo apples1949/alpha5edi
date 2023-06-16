@@ -33,7 +33,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Dead End: Back In Time",
+				"Name": "穷途末路: 及时击退",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

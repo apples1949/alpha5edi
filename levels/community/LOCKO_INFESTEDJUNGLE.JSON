@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Infested Jungle - Locke",
+				"Name": "瘟疫丛林 - Locke",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

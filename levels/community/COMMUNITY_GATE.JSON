@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Welcome to the Community Levels!",
+				"Name": "欢迎来到社区关卡!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"SuppressAwardScreen": true,

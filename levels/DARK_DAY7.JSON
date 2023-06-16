@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "DA-7: Endrian Wall",
+				"Name": "DA-7: 坚韧之墙",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

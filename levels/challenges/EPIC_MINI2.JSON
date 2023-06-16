@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Mini 2: Mini Machine Gun",
+				"Name": "Mini 2: 迷你机枪",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

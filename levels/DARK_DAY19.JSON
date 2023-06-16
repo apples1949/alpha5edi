@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "DA-19: Land Canon",
+				"Name": "DA-19: 登陆炮台",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

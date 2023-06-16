@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "10-7: Retro's Pawns",
+				"Name": "10-7: 复古兵卒",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

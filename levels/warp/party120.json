@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-120: Frost Storm - darkchan",
+				"Name": "WP-120: 急冻狂风 - darkchan",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-129: Road Spikes - Kimmy Turner",
+				"Name": "WP-129: 路刺 - Kimmy Turner",
 				"StageModule": "RTID(PirateStage@CurrentLevel)",
 				"MusicType": "MiniGame_B"
 			}

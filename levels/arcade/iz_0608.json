@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z6-8: Double Frenzy",
+				"Name": "Z6-8: 双重迷乱",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

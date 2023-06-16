@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Welcome to Hell.",
+				"Name": "欢迎来到地狱.",
 				"FirstRewardParam": "moneybag",
 				"ReplayRewardType": "none",
 				"StageModule": "RTID(ModernStage@LevelModules)"

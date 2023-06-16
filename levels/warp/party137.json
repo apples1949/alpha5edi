@@ -25,7 +25,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-137: Search for the Lost Treasure - Kimmy Turner",
+				"Name": "WP-137: 寻觅失落宝藏 - Kimmy Turner",
 				"StageModule": "RTID(LostCityStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

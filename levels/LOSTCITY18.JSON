@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(LevelScoring@CurrentLevel)"
 				],
-				"Name": "12-8: Vital Venture",
+				"Name": "12-8: 巨大风险",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WP-1: Hard Pass",
+				"Name": "WP-1: 艰难险阻",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}

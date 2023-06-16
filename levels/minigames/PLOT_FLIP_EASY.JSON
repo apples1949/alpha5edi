@@ -17,7 +17,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "Minigame_B",
-				"Name": "Plot Flip (easy)",
+				"Name": "布局翻转 (简单)",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

@@ -26,7 +26,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z1-5: Tickle Tackle",
+				"Name": "Z1-5: 刮痧战术",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

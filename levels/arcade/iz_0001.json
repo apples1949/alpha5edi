@@ -25,7 +25,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z0-1: I, Zombie Tutor",
+				"Name": "Z0-1: 我是僵尸教程",
 				"StageModule": "RTID(ModernNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

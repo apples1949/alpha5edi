@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "11-6: Extreme Exploration",
+				"Name": "11-6: 极限探险",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

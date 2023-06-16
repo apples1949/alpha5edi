@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Elite Squad - Locke",
+				"Name": "精英部队 - Locke",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}

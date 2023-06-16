@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WW-6: Trapped Minecart",
+				"Name": "WW-6: 陷阱矿车",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

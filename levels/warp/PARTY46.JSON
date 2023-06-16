@@ -24,7 +24,7 @@
 					"RTID(LastStand@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-46: Fast Food Founder",
+				"Name": "WP-46: 快餐创立者",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

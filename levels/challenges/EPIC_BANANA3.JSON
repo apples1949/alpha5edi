@@ -28,7 +28,7 @@
 					"RTID(PowerTiles@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "BNN-3: Stack Attack",
+				"Name": "BNN-3: 层层围攻",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

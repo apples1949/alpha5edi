@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "JM-14: Ragscalling",
+				"Name": "JM-14: 地壳碎裂",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

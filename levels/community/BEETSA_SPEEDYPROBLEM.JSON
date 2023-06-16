@@ -19,7 +19,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Speedy Problem - beetsa",
+				"Name": "速度问题 - beetsa",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

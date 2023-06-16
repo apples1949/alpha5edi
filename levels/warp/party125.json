@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-125: Augment Field - PJ",
+				"Name": "WP-125: 补充场所 - PJ",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

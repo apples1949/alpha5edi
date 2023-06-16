@@ -30,7 +30,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-147: Turn Arounds - bottle",
+				"Name": "WP-147: 迂回路转 - bottle",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

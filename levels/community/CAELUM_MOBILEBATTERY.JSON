@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Mobile Battery - Caelum",
+				"Name": "可动炮台 - Caelum",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

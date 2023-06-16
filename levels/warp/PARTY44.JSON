@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-44: Green Hearts",
+				"Name": "WP-44: 翠绿之心",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}

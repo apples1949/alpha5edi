@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-127: Amber Embers - PJ",
+				"Name": "WP-127: 琥珀余烬 - PJ",
 				"StageModule": "RTID(DinoStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

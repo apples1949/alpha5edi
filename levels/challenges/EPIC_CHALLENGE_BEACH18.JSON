@@ -21,7 +21,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Dart Game",
+				"Name": "飞镖游戏",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

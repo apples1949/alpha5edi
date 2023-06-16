@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-14: Multiplying Factor - Locke",
+				"Name": "WP-14: 放大系数 - Locke",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

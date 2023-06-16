@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Wall Alignment - DT",
+				"Name": "墙体摆放 - DT",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

@@ -26,7 +26,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z1-8: Fire Dessert",
+				"Name": "Z1-8: 火焰甜点",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

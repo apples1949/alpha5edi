@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "SNB-1: Sun-fection",
+				"Name": "SNB-1: 阳光感染",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

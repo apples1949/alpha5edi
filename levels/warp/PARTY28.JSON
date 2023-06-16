@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-28: Highway Camper",
+				"Name": "WP-28: 高速路露营者",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}

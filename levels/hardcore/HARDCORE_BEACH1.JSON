@@ -24,7 +24,7 @@
 					"RTID(Tide@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "7-1X: Sandy Shores",
+				"Name": "7-1X: 傍海沙滩",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

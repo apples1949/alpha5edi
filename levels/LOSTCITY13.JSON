@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "12-3: Debugger",
+				"Name": "12-3: 迫降专家",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

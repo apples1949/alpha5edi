@@ -38,7 +38,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "9-10X: Tech Terror",
+				"Name": "9-10X: 科技恐惧",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

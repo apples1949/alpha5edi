@@ -31,7 +31,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "CRS-9: Touch Issue",
+				"Name": "CRS-9: 接触问题",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

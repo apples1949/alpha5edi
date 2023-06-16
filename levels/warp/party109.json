@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-109: Blockade Buster - Jetziel Vega",
+				"Name": "WP-109: 封锁突破 - Jetziel Vega",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

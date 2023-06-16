@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Lost in Time - Caelum",
+				"Name": "时光迷失 - Caelum",
 				"StageModule": "RTID(LostCityStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

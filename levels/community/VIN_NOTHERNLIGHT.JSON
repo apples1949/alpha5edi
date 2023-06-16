@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Northern Night - Vin",
+				"Name": "北极之夜 - Vin",
 				"StageModule": "RTID(IceageStage@CurrentLevel)",
 				"MusicType": "MiniGame_A"
 			}

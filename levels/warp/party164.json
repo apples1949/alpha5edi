@@ -32,7 +32,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-164: Fire Balance - Pyrodosic",
+				"Name": "WP-164: 火焰平衡 - Pyrodosic",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

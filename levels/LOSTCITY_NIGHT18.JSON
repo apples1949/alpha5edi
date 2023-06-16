@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "LC-18: Skull Collector",
+				"Name": "LC-18: 头骨收藏家",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

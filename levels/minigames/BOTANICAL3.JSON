@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "Botanical Battle III: Thorny Retrobution - DT",
+				"Name": "植物反击 III: 荆棘回击 - DT",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

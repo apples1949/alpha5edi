@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Friendly Fire - Reeee",
+				"Name": "友伤 - Reeee",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

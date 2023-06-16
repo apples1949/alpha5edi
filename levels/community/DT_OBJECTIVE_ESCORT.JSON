@@ -21,7 +21,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Objective: Escort - DT",
+				"Name": "任务: 护送 - DT",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}

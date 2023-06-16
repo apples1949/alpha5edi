@@ -25,7 +25,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "LC-1: Moonlight Jungle",
+				"Name": "LC-1: 月光丛林",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

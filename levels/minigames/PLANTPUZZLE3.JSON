@@ -24,7 +24,7 @@
 					"RTID(SeedBank@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Plant Puzzle 3",
+				"Name": "移花接木 3",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

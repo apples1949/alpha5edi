@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(LastStand@CurrentLevel)"
 				],
-				"Name": "WP-156: Raiding Day - darkchan",
+				"Name": "WP-156: 袭击日 - darkchan",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Emergency Button - Locke",
+				"Name": "紧急按钮 - Locke",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}

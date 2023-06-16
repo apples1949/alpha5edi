@@ -31,7 +31,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "11-10: Rise of Egypt",
+				"Name": "11-10: 埃及复兴",
 				"StageModule": "RTID(EgyptStage@CurrentLevel)"
 			}
 		},

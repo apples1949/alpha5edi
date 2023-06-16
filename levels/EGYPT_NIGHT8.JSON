@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "AE-8: Midnight Burrows",
+				"Name": "AE-8: 午夜洞穴",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "10-8: Bit By Bit",
+				"Name": "10-8: 一比一特",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

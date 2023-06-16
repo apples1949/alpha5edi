@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z6-6: Brain Cell",
+				"Name": "Z6-6: 脑细胞",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

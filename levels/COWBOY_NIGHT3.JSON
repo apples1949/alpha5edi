@@ -22,7 +22,7 @@
 					"RTID(CowboyRails@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WW-3: Passive Counter",
+				"Name": "WW-3: 被动计数者",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

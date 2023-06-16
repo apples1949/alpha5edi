@@ -17,7 +17,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "WP-54: Backyard Concert - DT",
+				"Name": "WP-54: 后院音乐会 - DT",
 				"StageModule": "RTID(ModernStage@.)"
 			}
 		},

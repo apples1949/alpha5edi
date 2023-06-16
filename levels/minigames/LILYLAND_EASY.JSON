@@ -24,7 +24,7 @@
 					"RTID(BowlingMinigame@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Lily of the Balley (easy)",
+				"Name": "莲上芭蕾 (简单)",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}

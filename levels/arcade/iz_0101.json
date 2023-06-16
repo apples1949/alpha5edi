@@ -25,7 +25,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z1-1: Boomer's Rant",
+				"Name": "Z1-1: 回旋镖之怒",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

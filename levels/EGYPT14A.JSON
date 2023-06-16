@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "11-4: Front Shadow",
+				"Name": "11-4: 直面阴影",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

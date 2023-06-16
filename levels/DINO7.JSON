@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "8-7: Spam Catch",
+				"Name": "8-7: 逃兵拦截",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

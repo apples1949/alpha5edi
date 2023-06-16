@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Cryosiege - EnderallyGolem",
+				"Name": "冰晶封锁 - EnderallyGolem",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

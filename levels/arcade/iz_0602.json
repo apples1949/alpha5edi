@@ -24,7 +24,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(CowboyRails@.)"
 				],
-				"Name": "Z6-2: Slide and Cross",
+				"Name": "Z6-2: 滑动交错",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

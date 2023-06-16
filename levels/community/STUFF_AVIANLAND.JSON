@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Avian Land - stuff/embarking",
+				"Name": "鸟禽登船 - stuff/embarking",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

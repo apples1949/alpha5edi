@@ -18,7 +18,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Parrotrousle (easy) - DT",
+				"Name": "鹦鹉动乱 (简单) - DT",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

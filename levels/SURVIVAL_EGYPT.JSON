@@ -17,7 +17,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Ancient Egypt",
+				"Name": "生存: 上古埃及",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}

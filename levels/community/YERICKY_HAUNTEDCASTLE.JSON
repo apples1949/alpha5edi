@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Haunted Castle - Yericky",
+				"Name": "闹鬼城堡 - Yericky",
 				"StageModule": "RTID(DarkDayStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

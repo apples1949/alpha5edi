@@ -24,7 +24,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z2-2: Bouncy Temple",
+				"Name": "Z2-2: 弹性神殿",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

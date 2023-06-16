@@ -43,7 +43,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-152: Frontline Ambush - MisMan",
+				"Name": "WP-152: 前线伏击 - MisMan",
 				"StageModule": "RTID(FutureStage@CurrentLevel)"
 			}
 		},

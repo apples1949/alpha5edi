@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Loaded and Locked - BeepBoop",
+				"Name": "装填锁定 - BeepBoop",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

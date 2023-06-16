@@ -44,7 +44,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-162: Beach Blitz - Chezz",
+				"Name": "WP-162: 沙滩闪电战 - Chezz",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

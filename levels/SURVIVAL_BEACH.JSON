@@ -19,7 +19,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Big Wave Beach",
+				"Name": "生存: 巨浪沙滩",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}

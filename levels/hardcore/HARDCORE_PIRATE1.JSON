@@ -27,7 +27,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "4-1X: Green Plank",
+				"Name": "4-1X: 绿化甲板",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

@@ -24,7 +24,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-83: Midnight Ambush - Kimmy Turner",
+				"Name": "WP-83: 深夜埋伏 - Kimmy Turner",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

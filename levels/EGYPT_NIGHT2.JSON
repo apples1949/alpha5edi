@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "AE-2: Signs Of Camels",
+				"Name": "AE-2: 骆驼标记",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

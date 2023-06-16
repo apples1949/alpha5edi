@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "9-4: Gap Blaster",
+				"Name": "9-4: 间断脉冲波",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

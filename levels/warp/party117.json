@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-117: Big Balloon Blast - PJ",
+				"Name": "WP-117: 巨型气球爆破 - PJ",
 				"StageModule": "RTID(DarkDayStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

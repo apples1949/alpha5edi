@@ -22,7 +22,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "16-2: Lightning Creatures",
+				"Name": "16-2: 电闪生灵",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

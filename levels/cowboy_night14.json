@@ -31,7 +31,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "WW-14: Footlose",
+				"Name": "WW-14: 失足",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-15: Lily Bastion",
+				"Name": "BWB-15: 莲叶堡垒",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

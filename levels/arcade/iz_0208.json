@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z2-8: Left To Bloom",
+				"Name": "Z2-8: 任其绽放",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

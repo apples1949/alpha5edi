@@ -24,7 +24,7 @@
 					"RTID(CoolDown@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z2-6: Poke First Then Run",
+				"Name": "Z2-6: 先戳再跑",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

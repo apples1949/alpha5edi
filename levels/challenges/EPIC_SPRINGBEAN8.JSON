@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "SPB-8: Force Bounce",
+				"Name": "SPB-8: 强制弹跳",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

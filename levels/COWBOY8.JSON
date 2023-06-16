@@ -29,7 +29,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "6-8: Dead End",
+				"Name": "6-8: 穷途末路",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

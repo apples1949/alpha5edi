@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "5-7X: Frost Farm",
+				"Name": "5-7X: 霜冻农场",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

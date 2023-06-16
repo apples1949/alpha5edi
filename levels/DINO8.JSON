@@ -30,7 +30,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "8-8: Death Switch",
+				"Name": "8-8: 死亡换位",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

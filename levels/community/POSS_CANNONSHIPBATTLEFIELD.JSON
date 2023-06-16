@@ -17,7 +17,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Cannonship Battlefield - Poss",
+				"Name": "船炮战场 - Poss",
 				"NormalPresentTable": "pirate_normal_01",
 				"ShinyPresentTable": "pirate_shiny_01",
 				"StageModule": "RTID(PirateStage@LevelModules)"

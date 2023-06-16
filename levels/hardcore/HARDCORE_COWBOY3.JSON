@@ -25,7 +25,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "6-3X: Mine Trip",
+				"Name": "6-3X: 地雷陷阱",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

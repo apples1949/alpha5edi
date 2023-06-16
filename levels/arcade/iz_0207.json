@@ -26,7 +26,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(GI@.)"
 				],
-				"Name": "Z2-7: Return Policy",
+				"Name": "Z2-7: 退货政策",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

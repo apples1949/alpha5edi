@@ -21,7 +21,7 @@
 					"RTID(DarkMowers@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)"
 				],
-				"Name": "WP-47: Quick Protection - DT",
+				"Name": "WP-47: 极速保护 - DT",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

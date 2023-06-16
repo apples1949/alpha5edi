@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WW-4: Bull Doze",
+				"Name": "WW-4: 瞌睡公牛",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

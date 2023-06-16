@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Eye of the Storm - Caelum",
+				"Name": "风暴之眼 - Caelum",
 				"StageModule": "RTID(EgyptStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

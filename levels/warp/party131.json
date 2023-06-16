@@ -29,7 +29,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-131: Elimination Game - Kimmy Turner",
+				"Name": "WP-131: 淘汰游戏 - Kimmy Turner",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

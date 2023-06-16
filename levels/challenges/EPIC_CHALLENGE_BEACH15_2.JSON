@@ -18,7 +18,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Fishy Floor Encore",
+				"Name": "鱼地再战",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

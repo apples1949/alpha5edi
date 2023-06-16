@@ -16,7 +16,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Get your rewards here!",
+				"Name": "在此领取你的奖励!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"SuppressAwardScreen": true,

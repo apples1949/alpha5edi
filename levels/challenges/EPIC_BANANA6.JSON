@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "BNN-6: Split Catcher",
+				"Name": "BNN-6: 场外捕杀者",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

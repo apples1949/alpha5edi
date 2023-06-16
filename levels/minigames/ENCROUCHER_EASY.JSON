@@ -19,7 +19,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "The Encroucher (easy)",
+				"Name": "入侵者(简单)",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

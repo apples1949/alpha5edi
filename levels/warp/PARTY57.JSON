@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WP-57: Seed Collection",
+				"Name": "WP-57: 种子收集",
 				"StageModule": "RTID(ModernNightStage@LevelModules)"
 			}
 		},

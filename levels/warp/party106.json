@@ -25,7 +25,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-106: Lending Hand - Pyrodosic",
+				"Name": "WP-106: 帮一手 - Pyrodosic",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

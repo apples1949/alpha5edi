@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "DA-12: Timed Bloom",
+				"Name": "DA-12: 接镖之花",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

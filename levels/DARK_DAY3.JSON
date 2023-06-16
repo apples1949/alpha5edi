@@ -29,7 +29,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "DA-3: Bitshop Battle",
+				"Name": "DA-3: 主教之战",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

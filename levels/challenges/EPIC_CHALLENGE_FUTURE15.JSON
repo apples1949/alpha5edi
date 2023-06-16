@@ -26,7 +26,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Chain Block",
+				"Name": "起重机",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

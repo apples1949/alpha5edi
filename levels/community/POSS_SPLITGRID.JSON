@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Split Grid - Poss",
+				"Name": "分裂方格 - Poss",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

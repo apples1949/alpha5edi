@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(TechnicalZombieOverride@LevelModules)"
 				],
-				"Name": "DA-2: Peasant Hoods",
+				"Name": "DA-2: 农民兜帽",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

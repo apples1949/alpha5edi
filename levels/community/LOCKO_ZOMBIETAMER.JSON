@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Zombie Tamer - Locke",
+				"Name": "驯尸高手 - Locke",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

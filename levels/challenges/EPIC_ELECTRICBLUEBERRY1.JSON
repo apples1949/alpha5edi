@@ -22,7 +22,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "EBL-1: Smoke Strokes",
+				"Name": "EBL-1: 乌云雷击",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

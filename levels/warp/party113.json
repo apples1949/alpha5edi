@@ -26,7 +26,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-113: Flame Spreader - Kimmy Turner",
+				"Name": "WP-113: 火焰传播者 - Kimmy Turner",
 				"StageModule": "RTID(DinoNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

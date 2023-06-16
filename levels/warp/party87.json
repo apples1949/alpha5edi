@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-87: The Deathzone - Kimmy Turner",
+				"Name": "WP-87: 死亡区块 - Kimmy Turner",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

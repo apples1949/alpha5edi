@@ -28,7 +28,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "4-7X: Air Tanks",
+				"Name": "4-7X: 气罐",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

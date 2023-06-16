@@ -25,7 +25,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-80: Ultimate Frisbee - Kimmy Turner",
+				"Name": "WP-80: 终极飞盘 - Kimmy Turner",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

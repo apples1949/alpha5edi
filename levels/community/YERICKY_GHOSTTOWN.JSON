@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Ghost Town - Yericky",
+				"Name": "闹鬼城镇 - Yericky",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

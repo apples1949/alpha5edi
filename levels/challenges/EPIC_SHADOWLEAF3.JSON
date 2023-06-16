@@ -24,7 +24,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "SDL-3: Moon Behalf",
+				"Name": "SDL-3: 月光代表",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

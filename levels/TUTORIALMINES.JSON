@@ -23,7 +23,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "0-2: Tutorial",
+				"Name": "0-2: 教程",
 				"ReplayRewardParam": "endlevelreward",
 				"ReplayRewardType": "collectable",
 				"StageModule": "RTID(TutorialStage@LevelModules)",

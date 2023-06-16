@@ -22,7 +22,7 @@
 					"RTID(PiratePlanks@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "In The Nutshell (easy)",
+				"Name": "坚而言之 (简单)",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

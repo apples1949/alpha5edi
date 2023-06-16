@@ -19,7 +19,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Seeds Of Time - Imagination",
+				"Name": "时光种子 - Imagination",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(EightiesStage@LevelModules)"

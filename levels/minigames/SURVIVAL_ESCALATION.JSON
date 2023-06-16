@@ -20,7 +20,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "Survival: Escalation",
+				"Name": "生存: 阳光积攒",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(TickdownStage@LevelModules)"
 			}

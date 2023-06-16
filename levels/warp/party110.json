@@ -25,7 +25,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-110: Blustery Blow - Spear Goblin",
+				"Name": "WP-110: 狂风呼啸 - Spear Goblin",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

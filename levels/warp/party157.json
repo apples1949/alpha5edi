@@ -30,7 +30,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-157: Neptunian Suprise - Giang",
+				"Name": "WP-157: 海神惊喜 - Giang",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "9-8: Portal Combat",
+				"Name": "9-8: 传送门之战",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

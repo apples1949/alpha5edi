@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "LC-20: Trap Triggerers",
+				"Name": "LC-20: 陷阱触发者",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

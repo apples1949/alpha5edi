@@ -19,7 +19,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "The Dancing Queens - Creeps",
+				"Name": "舞蹈皇后 - Creeps",
 				"ResourceGroupNames": [
 					"DelayLoad_Background_Beach",
 					"DelayLoad_Background_Beach_Compressed",

@@ -24,7 +24,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-36: Paper Empire",
+				"Name": "WP-36: 报纸帝国",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}

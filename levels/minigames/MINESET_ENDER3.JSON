@@ -30,7 +30,7 @@
 					"RTID(IZP@CurrentLevel)",
 					"RTID(GICrater@CurrentLevel)"
 				],
-				"Name": "Minesetter",
+				"Name": "布雷者",
 				"StageModule": "RTID(ModernStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

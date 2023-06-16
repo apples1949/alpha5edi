@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Square Island - Imagination",
+				"Name": "方形大陆 - Imagination",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

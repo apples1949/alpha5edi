@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WML-5: Grave Inspector",
+				"Name": "WML-5: 扫墓者",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

@@ -23,7 +23,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-1: Walloway",
+				"Name": "BWB-1: 瓦洛韦",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

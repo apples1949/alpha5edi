@@ -38,7 +38,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "18-5: Heal Overdose",
+				"Name": "18-5: 过量治疗",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

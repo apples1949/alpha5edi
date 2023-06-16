@@ -30,7 +30,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "JM-10: Dino Distributor",
+				"Name": "JM-10: 恐龙分散者",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

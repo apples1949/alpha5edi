@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Honey Trap - Caelum",
+				"Name": "甜蜜陷阱 - Caelum",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

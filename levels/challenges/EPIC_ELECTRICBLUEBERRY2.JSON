@@ -22,7 +22,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "EBL-2: Sniper Network",
+				"Name": "EBL-2: 狙击电网",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

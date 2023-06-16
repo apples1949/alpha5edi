@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "WP-26: Intentional Wave Skipper",
+				"Name": "WP-26: 故意跳波者",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

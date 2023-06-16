@@ -27,7 +27,7 @@
 					"RTID(PowerTiles@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "19-1: Food Chain",
+				"Name": "19-1: 食物链",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

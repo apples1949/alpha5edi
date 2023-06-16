@@ -30,7 +30,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "5-2X: Freezervation",
+				"Name": "5-2X: 冰封",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WW-8: Wheat Shower",
+				"Name": "WW-8: 小麦抛洒",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

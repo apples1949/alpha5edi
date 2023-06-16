@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Truly Metal - Creeps",
+				"Name": "正宗金属  - Creeps",
 				"StageModule": "RTID(DarkStage@CurrentLevel)"
 			}
 		},

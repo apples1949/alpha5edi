@@ -28,7 +28,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "CRS-2: Time Consumer",
+				"Name": "CRS-2: 时间消耗",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "AE-10: Patch & Pass",
+				"Name": "AE-10: 堵与通",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

@@ -24,7 +24,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z4-2: The Unexpectator",
+				"Name": "Z4-2: 不速之客",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

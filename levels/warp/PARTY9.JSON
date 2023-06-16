@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "WP-9: Fishball",
+				"Name": "WP-9: 鱼丸",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "6-2X: Backbite",
+				"Name": "6-2X: 背后偷袭",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

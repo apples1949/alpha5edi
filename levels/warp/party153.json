@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-153: Busy Station - Zuccky",
+				"Name": "WP-153: 繁忙车站 - Zuccky",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

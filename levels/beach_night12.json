@@ -23,7 +23,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-12: Way of Water",
+				"Name": "BWB-12: 水之道",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

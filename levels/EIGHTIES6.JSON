@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "10-6: High Pea Layers",
+				"Name": "10-6: 多层豌豆",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

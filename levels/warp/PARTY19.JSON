@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-19: Piano Breakdown - Locke",
+				"Name": "WP-19: 钢琴崩溃 - Locke",
 				"StageModule": "RTID(WestStage@CurrentLevel)"
 			}
 		},

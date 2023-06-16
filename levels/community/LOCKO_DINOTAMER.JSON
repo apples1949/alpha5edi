@@ -24,7 +24,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Dino Tamer - Locke",
+				"Name": "驯龙高手 - Locke",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}

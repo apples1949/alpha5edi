@@ -37,7 +37,7 @@
 					"RTID(GraveSpawner1@CurrentLevel)",
 					"RTID(GraveSpawner2@CurrentLevel)"
 				],
-				"Name": "Bowling Party 2: Gravestones",
+				"Name": "保龄球派对 2: 墓碑",
 				"MusicType": "Minigame_B",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}

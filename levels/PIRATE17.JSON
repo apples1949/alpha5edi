@@ -35,7 +35,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "14-7: Twenty Second Flashback",
+				"Name": "14-7: 二十秒闪回",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

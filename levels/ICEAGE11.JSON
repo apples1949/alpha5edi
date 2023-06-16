@@ -29,7 +29,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "15-1: Mold Switch",
+				"Name": "15-1: 霉菌转移",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

@@ -33,7 +33,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(BowlingMinigame@CurrentLevel)"
 				],
-				"Name": "Bowling Party 5: Sandstorm",
+				"Name": "保龄球派对 5: 沙尘暴",
 				"MusicType": "Minigame_B",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}

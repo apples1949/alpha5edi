@@ -23,7 +23,7 @@
 					"RTID(IceageMowers@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)"
 				],
-				"Name": "WP-58: Screen Wiper - DT",
+				"Name": "WP-58: 屏幕清理大师 - DT",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

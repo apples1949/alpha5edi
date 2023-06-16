@@ -31,7 +31,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-122: Stacking Waves - darkchan",
+				"Name": "WP-122: 波数叠加 - darkchan",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

@@ -24,7 +24,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "LC-7: Former Night",
+				"Name": "LC-7: 前夜",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

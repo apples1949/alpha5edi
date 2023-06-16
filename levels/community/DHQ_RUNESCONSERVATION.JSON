@@ -17,7 +17,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Runes Conservation - DHQ",
+				"Name": "符文保护 - DHQ",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(ModernStage@LevelModules)"

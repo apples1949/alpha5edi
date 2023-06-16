@@ -30,7 +30,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "WP-112: The Gatekeeper - !ereHyddeS",
+				"Name": "WP-112: 守门人 - !ereHyddeS",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

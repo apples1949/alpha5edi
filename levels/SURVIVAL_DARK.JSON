@@ -16,7 +16,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Dark Ages",
+				"Name": "生存: 黑暗时代",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}

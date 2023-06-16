@@ -20,7 +20,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)",
 					"RTID(CoolDown@CurrentLevel)"
 				],
-				"Name": "Survival: Column Chaos",
+				"Name": "生存: 柱状混乱",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(JoustStage@LevelModules)"
 			}

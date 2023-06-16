@@ -25,7 +25,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "JM-18: Backfright",
+				"Name": "JM-18: 后方恐惧",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

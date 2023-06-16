@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Lost Night - Yericky",
+				"Name": "失落之夜 - Yericky",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

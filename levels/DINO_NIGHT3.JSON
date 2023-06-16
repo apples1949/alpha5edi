@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "JM-3: Thorn Way",
+				"Name": "JM-3: 荆棘之路",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

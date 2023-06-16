@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "16-1: Western Wonderland",
+				"Name": "16-1: 西部仙境",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

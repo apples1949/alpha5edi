@@ -22,7 +22,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "All Loud Attack - EnderallyGolem",
+				"Name": "混响袭击 - EnderallyGolem",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

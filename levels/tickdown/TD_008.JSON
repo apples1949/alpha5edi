@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "TICKDOWN Mode!",
+				"Name": "倒计时模式!",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(TickdownStage@LevelModules)"
 			}

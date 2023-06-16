@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Mold Trap - DT",
+				"Name": "霉菌陷阱 - DT",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

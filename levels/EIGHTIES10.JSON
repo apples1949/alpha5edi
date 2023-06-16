@@ -31,7 +31,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "10-10: The Neon Nightclub",
+				"Name": "10-10: 八零帝国",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

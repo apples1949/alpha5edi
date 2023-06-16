@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Land Owner - Giang",
+				"Name": "大地领主 - Giang",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

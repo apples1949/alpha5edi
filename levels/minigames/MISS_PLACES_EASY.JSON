@@ -19,7 +19,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Miss Places (easy)",
+				"Name": "遗忘地块 (简单)",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

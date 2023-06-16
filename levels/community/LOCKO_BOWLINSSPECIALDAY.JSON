@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Bowlins Special Day - Locke",
+				"Name": "保龄球特殊日 - Locke",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

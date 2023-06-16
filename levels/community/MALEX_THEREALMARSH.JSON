@@ -24,7 +24,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The REAL Marsh - Malex2005",
+				"Name": "正宗沼泽 - Malex2005",
 				"StageModule": "RTID(DinoNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

@@ -16,7 +16,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Overleft III: Mage Day",
+				"Name": "隔山打牛 III: 大日子",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

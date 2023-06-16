@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "In The Nutshell",
+				"Name": "坚而言之",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

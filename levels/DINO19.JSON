@@ -31,7 +31,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "",
-				"Name": "18-9: Stop Brackets",
+				"Name": "18-9: 终止支架",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

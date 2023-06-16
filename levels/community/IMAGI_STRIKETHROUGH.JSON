@@ -17,7 +17,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Strikethrough - Imagination",
+				"Name": "删除线 - Imagination",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(DinoStage@LevelModules)"

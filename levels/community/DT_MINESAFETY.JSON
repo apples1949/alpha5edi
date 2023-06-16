@@ -24,7 +24,7 @@
 					"RTID(Escalation@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Mine Safety - DT",
+				"Name": "土豆安危 - DT",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

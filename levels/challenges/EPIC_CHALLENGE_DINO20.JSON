@@ -21,7 +21,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Dino Dynasty",
+				"Name": "恐龙王朝",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}

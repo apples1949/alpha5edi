@@ -29,7 +29,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "LC-14: Line Skippers",
+				"Name": "LC-14: 越线者",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Electrical Fried Management - Imagination",
+				"Name": "电击处理 - Imagination",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

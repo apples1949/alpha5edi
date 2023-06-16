@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Good Farmer - Locke",
+				"Name": "春种秋收 - Locke",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

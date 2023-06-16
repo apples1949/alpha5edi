@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "3-1X: Dark Ages",
+				"Name": "3-1X: 黑暗时代",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

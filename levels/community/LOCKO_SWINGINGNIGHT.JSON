@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Swinging Night - Locke",
+				"Name": "摇摆之夜 - Locke",
 				"StageModule": "RTID(ModernNightStage@LevelModules)"
 			}
 		},

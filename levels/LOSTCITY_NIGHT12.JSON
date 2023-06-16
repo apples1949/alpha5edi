@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "LC-12: Tents & Pressure",
+				"Name": "LC-12: 帐篷压力",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "JM-16: Raise And Fold",
+				"Name": "JM-16: 上升与合并",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

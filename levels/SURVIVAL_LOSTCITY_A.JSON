@@ -17,7 +17,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Lost City",
+				"Name": "生存: 失落之城",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}

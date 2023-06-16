@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "Run n' Gun - DT",
+				"Name": "枪手跑酷 - DT",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

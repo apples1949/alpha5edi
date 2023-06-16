@@ -27,7 +27,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "7-2X: Duckwater",
+				"Name": "7-2X: 暗流汹涌",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

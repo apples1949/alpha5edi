@@ -24,7 +24,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "7-5X: Wave Controller",
+				"Name": "7-5X: 驯浪高手",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

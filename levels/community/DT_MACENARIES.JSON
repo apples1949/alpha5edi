@@ -16,7 +16,7 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "The Macenaries - DT",
+				"Name": "恐龙雇佣兵 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

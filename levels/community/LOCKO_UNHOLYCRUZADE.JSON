@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Unholy Cruzade - Locke",
+				"Name": "邪恶十字军 - Locke",
 				"StageModule": "RTID(DarkDayStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

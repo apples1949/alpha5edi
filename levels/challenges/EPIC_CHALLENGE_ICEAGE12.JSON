@@ -20,7 +20,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Bubbling Floor",
+				"Name": "冒泡地面",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}

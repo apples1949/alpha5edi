@@ -24,7 +24,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-62: Copycat - Bread",
+				"Name": "WP-62: 冒牌货",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

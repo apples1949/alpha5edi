@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "8-2: Kickstarter",
+				"Name": "8-2: 弹射起步",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

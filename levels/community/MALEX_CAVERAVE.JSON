@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Cave Rave - Malex2005",
+				"Name": "洞穴节奏 - Malex2005",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

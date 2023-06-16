@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "ICS-2: Snow Flaws",
+				"Name": "ICS-2: 雪的瑕疵",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

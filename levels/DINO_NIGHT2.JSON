@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "JM-2: Active Spot",
+				"Name": "JM-2: 起跳点",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

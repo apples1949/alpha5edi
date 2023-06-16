@@ -30,7 +30,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WW-12: Dealrusher",
+				"Name": "WW-12: 极速交易",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "10-1: Eighties Empire",
+				"Name": "10-1: 八零帝国",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

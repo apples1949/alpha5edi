@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "13-2: Sheep Counter",
+				"Name": "13-2: 绵羊计数者",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

@@ -28,7 +28,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WML-4: Lobs & Blocks",
+				"Name": "WML-4: 投掷与阻碍",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

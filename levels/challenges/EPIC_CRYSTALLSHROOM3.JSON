@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "CRS-3: Shine Through The Cracks",
+				"Name": "CRS-3: 驹光过隙",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

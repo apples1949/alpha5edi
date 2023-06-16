@@ -18,7 +18,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Tomb Curses - DHQ",
+				"Name": "陵墓诅咒 - DHQ",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(EgyptStage@LevelModules)"

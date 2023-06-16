@@ -16,7 +16,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Overleft II: Motivation",
+				"Name": "隔山打牛 II: 动力",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

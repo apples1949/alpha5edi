@@ -24,7 +24,7 @@
 					"RTID(PowerTiles@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "The Killzone",
+				"Name": "屠戮区",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

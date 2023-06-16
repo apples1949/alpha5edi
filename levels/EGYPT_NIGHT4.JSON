@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(TechnicalZombieOverride@LevelModules)"
 				],
-				"Name": "AE-4: Pyramid Nightshift",
+				"Name": "AE-4: 不眠金字塔",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

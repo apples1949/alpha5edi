@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "The Weather Pack: Snow Day - DHQ",
+				"Name": "气象灾害: 速冻冰雹 - DHQ",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(IceageStage@LevelModules)"

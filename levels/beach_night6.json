@@ -24,7 +24,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-6: Lockpad",
+				"Name": "BWB-6: 荷叶限制",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

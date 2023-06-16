@@ -17,7 +17,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Prehistoric Temple - BeepBoop",
+				"Name": "史前神殿 - BeepBoop",
 				"StageModule": "RTID(LostCityStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

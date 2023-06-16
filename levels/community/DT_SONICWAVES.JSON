@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Sonic Waves - DT",
+				"Name": "音速袭击 - DT",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

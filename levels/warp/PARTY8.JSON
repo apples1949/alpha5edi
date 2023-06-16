@@ -29,7 +29,7 @@
 					"RTID(Tide@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "WP-8: Crab Season - Locke",
+				"Name": "WP-8: 螃蟹旺季 - Locke",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}

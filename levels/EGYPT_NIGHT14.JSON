@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "AE-14: Sunless Lights",
+				"Name": "AE-14: 无日之光",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

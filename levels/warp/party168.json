@@ -34,7 +34,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "WP-168: Torchbite Caves - !ereHyddeS",
+				"Name": "WP-168: 火灼洞穴 - !ereHyddeS",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

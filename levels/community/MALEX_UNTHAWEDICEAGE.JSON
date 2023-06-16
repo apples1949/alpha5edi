@@ -26,7 +26,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Unthawed Ice Age - Malex2005",
+				"Name": "未化冰河 - Malex2005",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

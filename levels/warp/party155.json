@@ -35,7 +35,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(IPP_Protect@CurrentLevel)"
 				],
-				"Name": "WP-155: Teeter Tides - !ereHyddeS",
+				"Name": "WP-155: 摇晃潮汐 - !ereHyddeS",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

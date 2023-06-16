@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "2-4: Ground Saber",
+				"Name": "2-4: 地面刺刀",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

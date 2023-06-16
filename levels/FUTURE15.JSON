@@ -28,7 +28,7 @@
 					"RTID(PowerTiles@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "19-5: Tackle Engine",
+				"Name": "19-5: 铲球引擎",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

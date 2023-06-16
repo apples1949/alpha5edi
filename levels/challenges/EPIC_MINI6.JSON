@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Mini 6: Snow Gathering Foes",
+				"Name": "Mini 6: 积雪聚敌",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

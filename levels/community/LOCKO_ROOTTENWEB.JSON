@@ -30,7 +30,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Rootten Web - Locke",
+				"Name": "根深蒂固  - Locke",
 				"StageModule": "RTID(ModernNightStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

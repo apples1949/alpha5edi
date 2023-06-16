@@ -16,7 +16,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Overleft I: To the Left",
+				"Name": "隔山打牛 I: 向左",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Buggy Jungles - Jungletyrant",
+				"Name": "害虫丛林 - Jungletyrant",
 				"StageModule": "RTID(LostCityStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

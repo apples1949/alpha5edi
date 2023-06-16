@@ -28,7 +28,7 @@
 					"RTID(PowerTiles@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "19-8: Loop Attack",
+				"Name": "19-8: 循环攻击",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

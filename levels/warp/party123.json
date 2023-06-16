@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-123: Moon Knights - PJ",
+				"Name": "WP-123: 月光骑士 - PJ",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

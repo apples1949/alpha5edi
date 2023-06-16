@@ -33,7 +33,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "6-10: Isoland",
+				"Name": "6-10: 孤岛",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

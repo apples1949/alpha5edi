@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "DA-9: Sheep Tactic",
+				"Name": "DA-9: 绵羊战术",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

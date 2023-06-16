@@ -29,7 +29,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "3-4: Fire Fighter",
+				"Name": "3-4: 消防员",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

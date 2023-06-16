@@ -23,7 +23,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-11: The Shower Game",
+				"Name": "BWB-11: 淋浴游戏",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

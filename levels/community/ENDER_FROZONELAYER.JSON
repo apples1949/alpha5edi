@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Frozone Layer - EnderallyGolem",
+				"Name": "冻层 - EnderallyGolem",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

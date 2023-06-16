@@ -18,7 +18,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Golden Rain - BeepBoop",
+				"Name": "黄金之雨 - BeepBoop",
 				"StageModule": "RTID(LostCityStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

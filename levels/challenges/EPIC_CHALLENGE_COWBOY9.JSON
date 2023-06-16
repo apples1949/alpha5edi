@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "The Old Monarchs",
+				"Name": "古老的君主",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

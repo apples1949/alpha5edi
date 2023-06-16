@@ -26,7 +26,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "8-1: Mesozoic Marsh",
+				"Name": "8-1: 中生代沼泽",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

@@ -27,7 +27,7 @@
 					"RTID(FreeCooldown@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "11-5: Ra Square",
+				"Name": "11-5: 太阳神广场",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

@@ -27,7 +27,7 @@
 					"RTID(BowlingMinigame@CurrentLevel)",
 					"RTID(TechnicalZombieOverride@LevelModules)"
 				],
-				"Name": "Wall Breaker (easy)",
+				"Name": "高墙拆除者 (简单)",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

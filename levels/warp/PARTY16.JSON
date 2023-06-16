@@ -23,7 +23,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(CrazyOlaf@CurrentLevel)"
 				],
-				"Name": "WP-16: Fireshower",
+				"Name": "WP-16: 浴火焚身",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

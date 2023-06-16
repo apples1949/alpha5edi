@@ -23,7 +23,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-2: Snoria",
+				"Name": "BWB-2: 斯诺里亚",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

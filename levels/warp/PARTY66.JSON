@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-66: Wildest Day - MCtheZombie",
+				"Name": "WP-66: 最荒诞的一天 - MCtheZombie",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

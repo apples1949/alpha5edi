@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Boxing Arena - MemeMan",
+				"Name": "拳击擂台 - MemeMan",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

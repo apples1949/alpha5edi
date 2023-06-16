@@ -83,7 +83,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-138: eclipse - darkchan",
+				"Name": "WP-138: 日食 - darkchan",
 				"StageModule": "RTID(EgyptStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

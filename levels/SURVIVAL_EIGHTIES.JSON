@@ -17,7 +17,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Neon Mixtape Tour",
+				"Name": "生存: 炫光魔音游",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}

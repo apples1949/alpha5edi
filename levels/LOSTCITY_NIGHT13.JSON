@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "LC-13: Swing Quivers",
+				"Name": "LC-13: 行囊摇曳",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

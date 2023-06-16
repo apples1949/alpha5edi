@@ -23,7 +23,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "16-7: Cross Field",
+				"Name": "16-7: 腹背受敌",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

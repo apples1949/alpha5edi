@@ -29,7 +29,7 @@
 					"RTID(IZP@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "15-9: Burst Delivery",
+				"Name": "15-9: 爆破邮递",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

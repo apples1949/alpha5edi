@@ -19,7 +19,7 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Juggler-naut - DHQ",
+				"Name": "坚果杂耍 - DHQ",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(ModernNightStage@LevelModules)"

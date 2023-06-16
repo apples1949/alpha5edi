@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "9-6X: Bug Screen",
+				"Name": "9-6X: 跳虫满屏",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

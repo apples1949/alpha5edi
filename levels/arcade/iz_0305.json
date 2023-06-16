@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z3-5: Rock Paper Excavator",
+				"Name": "Z3-5: 岩纸挖掘者",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

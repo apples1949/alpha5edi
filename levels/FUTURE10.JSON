@@ -39,7 +39,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "9-10: Tech Terror",
+				"Name": "9-10: 科技恐惧",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

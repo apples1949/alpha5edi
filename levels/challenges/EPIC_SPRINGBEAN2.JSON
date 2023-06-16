@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "SPB-2: Spike Or Barrel?",
+				"Name": "SPB-2: 刺还是桶?",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

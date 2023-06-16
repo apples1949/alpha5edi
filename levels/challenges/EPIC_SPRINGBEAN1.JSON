@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(PiratePlanks@CurrentLevel)"
 				],
-				"Name": "SPB-1: Spring Theory",
+				"Name": "SPB-1: 弹簧理论",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

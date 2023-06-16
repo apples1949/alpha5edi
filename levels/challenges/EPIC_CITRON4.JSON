@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "CTR-4: Lane Sweeper",
+				"Name": "CTR-4: 道路清理大师",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

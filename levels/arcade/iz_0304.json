@@ -24,7 +24,7 @@
 					"RTID(NewWaves@.)",
 					"RTID(ChallengeModule@.)"
 				],
-				"Name": "Z3-4: Grave Yard Simulation",
+				"Name": "Z3-4: 墓地模拟",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

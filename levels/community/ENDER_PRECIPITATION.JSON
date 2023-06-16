@@ -31,7 +31,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Precipitant Precipitation - EnderallyGolem",
+				"Name": "大雨倾盆 - EnderallyGolem",
 				"StageModule": "RTID(EgyptStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

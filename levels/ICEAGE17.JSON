@@ -32,7 +32,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "15-7: Veteran Turkey",
+				"Name": "15-7: 老练火鸡",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

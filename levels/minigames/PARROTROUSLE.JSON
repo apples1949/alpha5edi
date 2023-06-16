@@ -17,7 +17,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Parrotrousle - DT",
+				"Name": "鹦鹉动乱 - DT",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

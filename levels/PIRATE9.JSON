@@ -29,7 +29,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "4-9: Packership",
+				"Name": "4-9: 船上包装",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

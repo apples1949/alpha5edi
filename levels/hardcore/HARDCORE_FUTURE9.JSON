@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "9-9X: Cone Station",
+				"Name": "9-9X: 锥形停车场",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

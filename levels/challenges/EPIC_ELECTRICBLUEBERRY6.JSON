@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "EBL-6: Lingering Lightning",
+				"Name": "EBL-6: 挥之不去的闪电",
 				"StageModule": "RTID(DarkDayStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

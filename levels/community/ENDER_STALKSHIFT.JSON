@@ -17,7 +17,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Stalk Shift - EnderallyGolem",
+				"Name": "潜茎位移 - EnderallyGolem",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

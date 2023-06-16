@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-149: Sunny Flower - darkchan",
+				"Name": "WP-149: 阳光之花  - darkchan",
 				"StageModule": "RTID(ModernStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

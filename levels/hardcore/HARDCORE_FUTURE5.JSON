@@ -26,7 +26,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "9-5X: Augmented Protection",
+				"Name": "9-5X: 加强护盾",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

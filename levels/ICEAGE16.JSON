@@ -32,7 +32,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "15-6: Knock Queue",
+				"Name": "15-6: 敲击队列",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

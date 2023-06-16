@@ -27,7 +27,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WML-2: Slow Replacement",
+				"Name": "WML-2: 逐步替换",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

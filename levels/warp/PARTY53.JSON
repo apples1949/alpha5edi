@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WP-53: Jar Collection",
+				"Name": "WP-53: 药瓶收藏",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-96: Strict and Sunny - Cyber",
+				"Name": "WP-96: 苛刻阳光 - Cyber",
 				"StageModule": "RTID(ModernStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

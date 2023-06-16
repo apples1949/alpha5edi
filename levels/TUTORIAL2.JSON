@@ -17,7 +17,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "We will make this quick, however.",
+				"Name": "然而, 我们会速战速决.",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

@@ -17,7 +17,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "High Zap Voltages - beetsa",
+				"Name": "高压电击 - beetsa",
 				"NormalPresentTable": "cowboy_normal_01",
 				"ShinyPresentTable": "cowboy_shiny_01",
 				"StageModule": "RTID(WestNightStage@LevelModules)"

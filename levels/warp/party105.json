@@ -29,7 +29,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-105: Cactus' Problems - yfyfyfyfyfy",
+				"Name": "WP-105: 仙人掌的麻烦 - yfyfyfyfyfy",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

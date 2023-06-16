@@ -21,7 +21,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Taking the Big Stage",
+				"Name": "登台表演",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

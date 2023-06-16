@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "13-4: The Iron Farm",
+				"Name": "13-4: 钢铁农场",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

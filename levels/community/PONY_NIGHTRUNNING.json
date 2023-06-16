@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Night Running - pony",
+				"Name": "夜晚狂奔 - pony",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

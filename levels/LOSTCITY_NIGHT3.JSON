@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "LC-3: Blooming Night",
+				"Name": "LC-3: 花开之夜",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

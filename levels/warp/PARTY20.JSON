@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-20: Porch Pirates",
+				"Name": "WP-20: 门廊海盗",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

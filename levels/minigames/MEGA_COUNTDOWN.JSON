@@ -29,7 +29,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Mega Countdown - DT",
+				"Name": "终极倒数 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

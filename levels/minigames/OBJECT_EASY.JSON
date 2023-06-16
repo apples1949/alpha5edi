@@ -18,7 +18,7 @@
 					"RTID(GridItems@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Objective: Protect (easy) - DT",
+				"Name": "任务: 保护 (简单) - DT",
 				"StageModule": "RTID(ModernStage@CurrentLevel)"
 			}
 		},

@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WW-13: Bullete Trail",
+				"Name": "WW-13: 装弹轨道",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

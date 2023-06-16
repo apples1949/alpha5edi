@@ -37,7 +37,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Rainbow Raid - username",
+				"Name": "彩虹突袭 - username",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

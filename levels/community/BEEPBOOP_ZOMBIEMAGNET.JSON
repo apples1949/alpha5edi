@@ -19,7 +19,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Zombie Magnet - BeepBoop",
+				"Name": "僵尸磁铁 - BeepBoop",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

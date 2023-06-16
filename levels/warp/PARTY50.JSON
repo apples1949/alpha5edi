@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WP-50: Predator Profession",
+				"Name": "WP-50: 捕食职业",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

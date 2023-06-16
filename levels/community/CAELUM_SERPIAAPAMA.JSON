@@ -29,7 +29,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Sepia Apama - Caelum",
+				"Name": "乌贼护罩 - Caelum",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(TechnicalZombieOverride@LevelModules)"
 				],
-				"Name": "WW-1: Western Darkland",
+				"Name": "WW-1: 西部夜土",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

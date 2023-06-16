@@ -27,7 +27,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "5-1: Ice Lever",
+				"Name": "5-1: 寒冰杠杆",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

@@ -18,7 +18,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Botanical Battle I: Robodancers",
+				"Name": "植物反击 I: 机械舞者 - DT",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

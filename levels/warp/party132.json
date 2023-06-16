@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-132: Lighting Flame - darkchan",
+				"Name": "WP-132: 火炬复燃 - darkchan",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

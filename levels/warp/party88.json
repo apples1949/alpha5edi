@@ -29,7 +29,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-88: Barrel Bashin' - MisMan",
+				"Name": "WP-88: 酒桶猛击 - MisMan",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

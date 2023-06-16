@@ -25,7 +25,7 @@
 					"RTID(Tide@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "WP-24: Sea Room",
+				"Name": "WP-24: 宽广水区",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}

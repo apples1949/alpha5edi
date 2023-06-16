@@ -31,7 +31,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-140: Air Attack - Giang",
+				"Name": "WP-140: 空中攻击 - Giang",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

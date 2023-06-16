@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Lightning Scanner",
+				"Name": "闪电扫描仪",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

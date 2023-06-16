@@ -35,7 +35,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "2-10X: Block Dropper",
+				"Name": "2-10X: 障碍运输者",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

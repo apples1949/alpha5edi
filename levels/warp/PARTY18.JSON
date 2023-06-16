@@ -25,7 +25,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-18: Bug Through The Gate",
+				"Name": "WP-18: 昆虫过门",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}

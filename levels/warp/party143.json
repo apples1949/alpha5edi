@@ -44,7 +44,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-143: Against The Rising Tides - TheNormalizer",
+				"Name": "WP-143: 逆流而上 - TheNormalizer",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

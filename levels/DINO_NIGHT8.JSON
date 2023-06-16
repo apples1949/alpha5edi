@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "JM-8: Grass Hoppers",
+				"Name": "JM-8: 草坪跳蚤",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

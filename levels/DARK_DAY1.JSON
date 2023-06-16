@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "DA-1: time set 1500",
+				"Name": "DA-1: 时间设置 白天",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

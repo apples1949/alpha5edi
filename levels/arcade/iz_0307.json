@@ -24,7 +24,7 @@
 					"RTID(LastStand@.)",
 					"RTID(CoolDown@.)"
 				],
-				"Name": "Z3-7: Gaslight Savior",
+				"Name": "Z3-7: 臭气救世主",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

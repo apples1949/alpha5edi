@@ -30,7 +30,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "8-10X: Land of Giants",
+				"Name": "8-10X: 巨人之地",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

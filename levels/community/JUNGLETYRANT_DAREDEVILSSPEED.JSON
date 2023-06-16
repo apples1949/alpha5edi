@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Daredevil's Speed - JungleTyrant",
+				"Name": "超胆侠之速 - JungleTyrant",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

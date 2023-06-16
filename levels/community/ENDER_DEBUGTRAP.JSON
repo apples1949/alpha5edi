@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "Debug Trap - EnderallyGolem",
+				"Name": "虫灾陷阱 - EnderallyGolem",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

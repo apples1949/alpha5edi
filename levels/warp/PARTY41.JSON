@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "WP-41: Wave Vortex",
+				"Name": "WP-41: 波浪漩涡",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

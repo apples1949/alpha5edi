@@ -16,7 +16,7 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Level's not available yet!",
+				"Name": "关卡尚不可用!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"StageModule": "RTID(ModernStage@LevelModules)"

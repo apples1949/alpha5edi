@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "SDL-2: Leaf Beater",
+				"Name": "SDL-2: 叶片打手",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

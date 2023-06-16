@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "JM-17: Firecricket",
+				"Name": "JM-17: 火蟋蟀",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

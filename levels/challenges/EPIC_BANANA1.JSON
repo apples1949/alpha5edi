@@ -25,7 +25,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "BNN-1: Banana Filter",
+				"Name": "BNN-1: 香蕉过滤器",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

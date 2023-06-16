@@ -33,7 +33,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(BowlingMinigame@CurrentLevel)"
 				],
-				"Name": "Bowling Party 6: Multiply",
+				"Name": "保龄球派对 6: 增殖",
 				"MusicType": "Minigame_B",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}

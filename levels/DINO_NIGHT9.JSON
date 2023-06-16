@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "JM-9: Sun Shell",
+				"Name": "JM-9: 阳光炮弹",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

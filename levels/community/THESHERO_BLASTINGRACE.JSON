@@ -24,7 +24,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Blasting Race - TheShero",
+				"Name": "爆破竞赛 - TheShero",
 				"StageModule": "RTID(DinoStage@CurrentLevel)"
 			}
 		},

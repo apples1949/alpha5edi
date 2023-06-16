@@ -22,7 +22,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "EBL-5: Frictional Power",
+				"Name": "EBL-5: 摩擦起电",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

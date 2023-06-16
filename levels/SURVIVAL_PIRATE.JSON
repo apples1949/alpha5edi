@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Pirate Seas",
+				"Name": "生存: 海盗港湾",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}

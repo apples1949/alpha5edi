@@ -29,7 +29,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Speed Surf - MemeMan",
+				"Name": "极速冲浪 - MemeMan",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

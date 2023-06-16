@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Auto-completing 8-10...",
+				"Name": "自动完成 8-10...",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

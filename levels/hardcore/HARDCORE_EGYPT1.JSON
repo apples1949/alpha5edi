@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "1-1X: The Ancient Time",
+				"Name": "1-1X: 远古时期",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

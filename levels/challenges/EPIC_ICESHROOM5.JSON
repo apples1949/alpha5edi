@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "ICS-5: Frozen Flesh",
+				"Name": "ICS-5: 冻肉",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

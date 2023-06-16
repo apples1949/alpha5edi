@@ -26,7 +26,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "The Shipper (easy)",
+				"Name": "托运者 (简单)",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}

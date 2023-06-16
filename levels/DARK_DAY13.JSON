@@ -28,7 +28,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "DA-13: Fire Filter",
+				"Name": "DA-13: 火焰过滤",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

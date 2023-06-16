@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-100: Gargantuar Blast - Pyrodosic",
+				"Name": "WP-100: 巨人爆破 - Pyrodosic",
 				"StageModule": "RTID(DinoStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

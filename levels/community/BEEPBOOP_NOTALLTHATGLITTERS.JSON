@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Not All That Glitters is Gold - BeepBoop",
+				"Name": "发光的不一定都是金子 - BeepBoop",
 				"StageModule": "RTID(PirateStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

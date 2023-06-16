@@ -18,7 +18,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Magic Kingdom - A.K.E.E",
+				"Name": "魔法王国 - A.K.E.E",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

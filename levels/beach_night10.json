@@ -27,7 +27,7 @@
 					"RTID(LevelScoring@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "BWB-10: Nightwish",
+				"Name": "BWB-10: 夜愿",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

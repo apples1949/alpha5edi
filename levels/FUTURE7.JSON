@@ -26,7 +26,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "9-7: Fry Engine",
+				"Name": "9-7: 烧焦引擎",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Plant Puzzle 4",
+				"Name": "移花接木 4",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

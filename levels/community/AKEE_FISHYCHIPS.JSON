@@ -26,7 +26,7 @@
 					"RTID(InitialTide@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Fishy Chips - A.K.E.E",
+				"Name": "炸鱼薯条 - A.K.E.E",
 				"StageModule": "RTID(BeachStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

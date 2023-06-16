@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Raid Leader - DT",
+				"Name": "冲锋陷阵 - DT",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

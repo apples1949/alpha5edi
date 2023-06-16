@@ -24,7 +24,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "BWB-9: Banalogue",
+				"Name": "BWB-9: 香蕉专家",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

@@ -37,7 +37,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(BowlingMinigame@CurrentLevel)"
 				],
-				"Name": "Bowling Party X: The Future",
+				"Name": "保龄球派对 X: 未来",
 				"MusicType": "Minigame_A",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}

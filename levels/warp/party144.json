@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-144: Operation: Obliteration - Locke",
+				"Name": "WP-144: 操作: 抹杀 - Locke",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

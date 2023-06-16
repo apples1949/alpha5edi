@@ -27,7 +27,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "SPB-5: Spring Field",
+				"Name": "SPB-5: 弹簧领域",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

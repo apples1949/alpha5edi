@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(IZP@CurrentLevel)"
 				],
-				"Name": "EBL-4: Threat Unboxer",
+				"Name": "EBL-4: 危险拆箱",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "AE-9: Emerging The Light",
+				"Name": "AE-9: 火光浮现",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

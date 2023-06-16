@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(LootOverride@CurrentLevel)"
 				],
-				"Name": "WP-67: Daylight Savings? - !ereHyddeS",
+				"Name": "WP-67: 日光积蓄? - !ereHyddeS",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

@@ -27,7 +27,7 @@
 					"RTID(TechnicalZombieOverride@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Sun Reserves - BeepBoop",
+				"Name": "阳光储备 - BeepBoop",
 				"StageModule": "RTID(EightiesStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

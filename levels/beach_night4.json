@@ -25,7 +25,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-4: Greenwash",
+				"Name": "BWB-4: 绿水冲刷",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

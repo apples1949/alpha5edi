@@ -26,7 +26,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "16-4: Homing Side Control",
+				"Name": "16-4: 导向控制",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "4-4: Pea For Three",
+				"Name": "4-4: 豆分三路",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

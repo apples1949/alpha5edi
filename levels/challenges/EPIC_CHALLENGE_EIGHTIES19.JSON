@@ -23,7 +23,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(GI2@CurrentLevel)"
 				],
-				"Name": "Simulation Band",
+				"Name": "虚拟乐队",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

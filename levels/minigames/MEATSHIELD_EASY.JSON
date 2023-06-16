@@ -28,7 +28,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Meat Shield (easy)",
+				"Name": "肉体护盾 (简单)",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

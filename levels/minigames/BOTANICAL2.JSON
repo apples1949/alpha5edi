@@ -16,7 +16,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Botanical Battle II: Tiny Army - DT",
+				"Name": "植物反击 II: 迷你军队 - DT",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

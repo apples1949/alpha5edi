@@ -27,7 +27,7 @@
 					"RTID(LastStand@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "3-5: Grave Consumer",
+				"Name": "3-5: 墓碑消费者",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

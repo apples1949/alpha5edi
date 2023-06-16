@@ -23,7 +23,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "Z3-1: Fungimental Meals",
+				"Name": "Z3-1: 真菌膳食",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

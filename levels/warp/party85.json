@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-85: Bull Hoppers - Pyrodosic",
+				"Name": "WP-85: 公牛跳者 - Pyrodosic",
 				"StageModule": "RTID(WestStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-111: Cowboy Wranglers - Jornker",
+				"Name": "WP-111: 放牧牛仔 - Jornker",
 				"StageModule": "RTID(WestNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

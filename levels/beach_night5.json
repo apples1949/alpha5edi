@@ -23,7 +23,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "BWB-5: Squeeds",
+				"Name": "BWB-5: 条纹章鱼",
 				"StageModule": "RTID(BeachNightStage@LevelModules)"
 			}
 		},

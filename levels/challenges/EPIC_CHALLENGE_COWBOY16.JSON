@@ -19,7 +19,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Crossing Field",
+				"Name": "交叉领域",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

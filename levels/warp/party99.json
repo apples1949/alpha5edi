@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-99: Rush Hour - Kimmy Turner",
+				"Name": "WP-99: 高峰期 - Kimmy Turner",
 				"StageModule": "RTID(EgyptStage@CurrentLevel)",
 				"MusicType": "MiniGame_A"
 			}

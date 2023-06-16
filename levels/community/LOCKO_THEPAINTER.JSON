@@ -24,7 +24,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "The Painter - Locke",
+				"Name": "妙手丹青 - Locke",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}

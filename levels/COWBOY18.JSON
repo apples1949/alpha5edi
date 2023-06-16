@@ -28,7 +28,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "16-8: Electric Scanner",
+				"Name": "16-8: 电流扫描仪",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

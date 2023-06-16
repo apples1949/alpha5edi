@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "15-4: Lava Floor",
+				"Name": "15-4: 熔岩地板",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

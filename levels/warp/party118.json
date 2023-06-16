@@ -32,7 +32,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-118: Grass Keeper - darkchan",
+				"Name": "WP-118: 草坪管家 - darkchan",
 				"StageModule": "RTID(FrontLawnStage@CurrentLevel)",
 				"MusicType": "MiniGame_B"
 			}

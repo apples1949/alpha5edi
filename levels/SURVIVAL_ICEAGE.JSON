@@ -18,7 +18,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Frostbite Caves",
+				"Name": "生存: 极寒冰窟",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}

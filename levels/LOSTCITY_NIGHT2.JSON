@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "LC-2: Hovering Tramps",
+				"Name": "LC-2: 彷徨探险者",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

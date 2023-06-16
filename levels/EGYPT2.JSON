@@ -29,7 +29,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "1-2: Headstone Passer",
+				"Name": "1-2: 飞跃墓碑",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

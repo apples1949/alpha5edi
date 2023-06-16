@@ -27,7 +27,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "ICS-6: Ice Power",
+				"Name": "ICS-6: 寒冰之力",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}

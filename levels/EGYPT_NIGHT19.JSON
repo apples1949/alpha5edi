@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "AE-19: Unpaid Settlement",
+				"Name": "AE-19: 未偿搁置",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

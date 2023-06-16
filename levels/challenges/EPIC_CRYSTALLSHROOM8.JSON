@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "CRS-8: Rush Shroom",
+				"Name": "CRS-8: 急促蘑菇",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

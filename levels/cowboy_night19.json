@@ -31,7 +31,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WW-19: Helping Feet",
+				"Name": "WW-19: 出脚相助",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

@@ -22,7 +22,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "EBL-3: Double Pings",
+				"Name": "EBL-3: 双重脉冲",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)",
 				"Loot": "RTID(DefaultLoot@LevelModules)"
 			}

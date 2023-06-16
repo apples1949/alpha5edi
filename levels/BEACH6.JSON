@@ -24,7 +24,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "7-6: Board Confistication",
+				"Name": "7-6: 冲浪板缴获",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

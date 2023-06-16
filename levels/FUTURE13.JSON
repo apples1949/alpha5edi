@@ -27,7 +27,7 @@
 					"RTID(PowerTiles@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "19-3: Future Dancing Zombie",
+				"Name": "19-3: 未来舞王僵尸",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

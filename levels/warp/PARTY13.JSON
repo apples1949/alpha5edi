@@ -31,7 +31,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(GI2@CurrentLevel)"
 				],
-				"Name": "WP-13: Jungle Bells",
+				"Name": "WP-13: 丛林之钟",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}

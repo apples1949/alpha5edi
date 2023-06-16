@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-93: Inevitable Explosion - Kimmy Turner",
+				"Name": "WP-93: 不可避免的爆炸 - Kimmy Turner",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

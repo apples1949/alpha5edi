@@ -25,7 +25,7 @@
 					"RTID(Tide@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "7-4X: Floating Ground",
+				"Name": "7-4X: 漂浮于地",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

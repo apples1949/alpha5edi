@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "STR-2: Nuke Sender",
+				"Name": "STR-2: 核能发射",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

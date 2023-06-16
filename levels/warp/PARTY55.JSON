@@ -24,7 +24,7 @@
 					"RTID(IPP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WP-55: Joint A Ray",
+				"Name": "WP-55: 电路连接",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

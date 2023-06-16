@@ -22,7 +22,7 @@
 					"RTID(SeedBank@.)",
 					"RTID(NewWaves@.)"
 				],
-				"Name": "IZ - Demo Hard",
+				"Name": "IZ - 困难测试",
 				"StageModule": "RTID(ModernNightStage@LevelModules)",
 				"SuppressAccountUpgrades": true,
 				"DisablePlantBoosts": true

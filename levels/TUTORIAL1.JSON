@@ -22,7 +22,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "No skipping the Tutorial this time.",
+				"Name": "这次不准跳过教程.",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

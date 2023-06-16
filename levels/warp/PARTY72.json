@@ -30,7 +30,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-72: Sun Shooter - Kimmy Turner",
+				"Name": "WP-72: 阳光射手 - Kimmy Turner",
 				"StageModule": "RTID(ModernNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

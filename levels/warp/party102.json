@@ -27,7 +27,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-102: Hollowed Night - Pyrodosic",
+				"Name": "WP-102: 空洞夜晚 - Pyrodosic",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

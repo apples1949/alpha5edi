@@ -24,7 +24,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "11-2: Tomb Seeds",
+				"Name": "11-2: 墓碑种子",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

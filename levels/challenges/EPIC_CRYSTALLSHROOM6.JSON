@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "CRS-6: Arctic Tactical",
+				"Name": "CRS-6: 北极战术",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

@@ -19,7 +19,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Old-Timey Railways - beetsa",
+				"Name": "古老铁路 - beetsa",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "WP-32: Hardturn",
+				"Name": "WP-32: 急转弯",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

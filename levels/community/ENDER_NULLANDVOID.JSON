@@ -22,7 +22,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Null And Void - EnderallyGolem",
+				"Name": "空洞虚无 - EnderallyGolem",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

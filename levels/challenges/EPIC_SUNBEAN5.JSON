@@ -28,7 +28,7 @@
 					"RTID(PiratePlanks@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "SNB-5: Sun Bank",
+				"Name": "SNB-5: 阳光银行",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

@@ -15,7 +15,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Get your pinatas here!",
+				"Name": "在这里收集你的彩陶!",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

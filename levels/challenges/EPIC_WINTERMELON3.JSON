@@ -25,7 +25,7 @@
 					"RTID(CowboyMinigame@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WML-3: After Fall",
+				"Name": "WML-3: 瓜落之后",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

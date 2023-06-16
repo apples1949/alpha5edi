@@ -24,7 +24,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-2: Ceramic Storm",
+				"Name": "WP-2: 陶瓷风暴",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}

@@ -29,7 +29,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-141: Sun Stall - Chezz",
+				"Name": "WP-141: 阳光拖延 - Chezz",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

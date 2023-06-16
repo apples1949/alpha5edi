@@ -27,7 +27,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "AE-6: Close Fire",
+				"Name": "AE-6: 近火",
 				"StageModule": "RTID(EgyptNightStage@LevelModules)"
 			}
 		},

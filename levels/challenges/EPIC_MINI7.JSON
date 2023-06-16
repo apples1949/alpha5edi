@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Mini 7: Prime Potato Mine",
+				"Name": "Mini 7: 精英土豆地雷",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

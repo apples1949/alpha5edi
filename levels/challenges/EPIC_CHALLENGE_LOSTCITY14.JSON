@@ -20,7 +20,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "The Swift Trampler",
+				"Name": "迅捷践踏者",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

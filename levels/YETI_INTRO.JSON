@@ -19,7 +19,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Go hunt some Yetis!",
+				"Name": "去猎杀一些雪人吧!",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"StageModule": "RTID(ModernStage@LevelModules)"

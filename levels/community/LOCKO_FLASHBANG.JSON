@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Flashbangs - Locke",
+				"Name": "闪光弹 - Locke",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

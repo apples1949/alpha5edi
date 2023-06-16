@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Nether's Gate - Vin",
+				"Name": "下界之门 - Vin",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

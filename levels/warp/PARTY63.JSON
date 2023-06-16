@@ -23,7 +23,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "WP-63: Fallen in Line - EnderallyGolem",
+				"Name": "WP-63: 紧随其后 - EnderallyGolem",
 				"StageModule": "RTID(ModernNightStage@LevelModules)",
 				"UseTutorialOutro": false,
 				"SuppressDynamicTutorial": true,

@@ -18,7 +18,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Rainbow Road - EnderallyGolem",
+				"Name": "彩虹大道 - EnderallyGolem",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

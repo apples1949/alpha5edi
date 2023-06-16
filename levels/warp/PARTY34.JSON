@@ -25,7 +25,7 @@
 					"RTID(IPP@CurrentLevel)",
 					"RTID(LastStand@CurrentLevel)"
 				],
-				"Name": "WP-34: Tiny Tech Giants",
+				"Name": "WP-34: 小科技大机甲",
 				"MusicType": "MiniGame_A",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}

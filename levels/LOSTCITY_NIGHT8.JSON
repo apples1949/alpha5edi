@@ -28,7 +28,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "LC-8: Martyrdome",
+				"Name": "LC-8: 殉难者",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

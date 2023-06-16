@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "SDL-6: Dark Matter Heist",
+				"Name": "SDL-6: 暗物质劫掠",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

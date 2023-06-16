@@ -25,7 +25,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "3-3X: Grave Cavation",
+				"Name": "3-3X: 墓碑挖掘",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

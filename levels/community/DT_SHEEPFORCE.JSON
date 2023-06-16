@@ -23,7 +23,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Sheep Force - DT",
+				"Name": "绵羊之力 - DT",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

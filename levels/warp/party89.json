@@ -29,7 +29,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-89: Micro War - Astro",
+				"Name": "WP-89: 微小战争 - Astro",
 				"StageModule": "RTID(BeachNightStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

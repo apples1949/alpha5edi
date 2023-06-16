@@ -21,7 +21,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-48: The Trespassers Law",
+				"Name": "WP-48: 闯入者法则",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

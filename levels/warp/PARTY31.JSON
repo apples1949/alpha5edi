@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-31: Dragonflies - Locke",
+				"Name": "WP-31: 龙蝇 - Locke",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

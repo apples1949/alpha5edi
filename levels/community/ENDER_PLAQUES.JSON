@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Plague of the Plaques - EnderallyGolem",
+				"Name": "斑块瘟疫 - EnderallyGolem",
 				"StageModule": "RTID(DarkStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

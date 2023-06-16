@@ -33,7 +33,7 @@
 					"RTID(GI@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "5-9X: Threat Passer",
+				"Name": "5-9X: 通行威胁",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

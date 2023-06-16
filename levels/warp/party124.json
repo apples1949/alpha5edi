@@ -42,7 +42,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-124: Trigger - darkchan",
+				"Name": "WP-124: 触发 - darkchan",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

@@ -29,7 +29,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "5-3X: Bird Trap",
+				"Name": "5-3X: 捕鸟陷阱",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

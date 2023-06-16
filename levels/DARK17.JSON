@@ -26,7 +26,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "13-7: False Collision",
+				"Name": "13-7: 错误碰撞",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

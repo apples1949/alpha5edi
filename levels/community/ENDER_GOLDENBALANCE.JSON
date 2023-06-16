@@ -27,7 +27,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Golden Balance - EnderallyGolem",
+				"Name": "黄金平衡 - EnderallyGolem",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

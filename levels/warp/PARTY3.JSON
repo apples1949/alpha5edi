@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-3: Troublesome Ladies - Locke",
+				"Name": "WP-3: 麻烦女士 - Locke",
 				"StageModule": "RTID(DarkDayStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

@@ -38,7 +38,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(PiratePlanks@CurrentLevel)"
 				],
-				"Name": "Bowling Party 8: Endangered",
+				"Name": "保龄球派对 8: 濒危",
 				"MusicType": "Minigame_A",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}

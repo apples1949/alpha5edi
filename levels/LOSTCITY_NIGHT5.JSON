@@ -30,7 +30,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
-				"Name": "LC-5: Convergent",
+				"Name": "LC-5: 汇聚",
 				"StageModule": "RTID(LostCityNightStage@LevelModules)"
 			}
 		},

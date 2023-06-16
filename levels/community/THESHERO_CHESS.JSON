@@ -25,7 +25,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Chess - TheShero",
+				"Name": "棋盘迷局 - TheShero",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

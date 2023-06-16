@@ -29,7 +29,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "5-4X: Snowball Fight",
+				"Name": "5-4X: 雪球大战",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

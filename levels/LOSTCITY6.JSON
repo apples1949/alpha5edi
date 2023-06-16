@@ -26,7 +26,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "2-6: Weight Lifter",
+				"Name": "2-6: 举重者",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

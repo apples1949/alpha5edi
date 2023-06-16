@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "JM-4: Shake Land",
+				"Name": "JM-4: 大地颤抖",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},

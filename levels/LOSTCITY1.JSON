@@ -32,7 +32,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "2-1: Golden Discovery",
+				"Name": "2-1: 黄金遗迹",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

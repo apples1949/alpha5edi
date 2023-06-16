@@ -26,7 +26,7 @@
 					"RTID(FreeCooldown@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Plant Puzzle 8",
+				"Name": "移花接木 8",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

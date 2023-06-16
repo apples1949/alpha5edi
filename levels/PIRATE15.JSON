@@ -31,7 +31,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "14-5: The Parrot Patrols",
+				"Name": "14-5: 鹦鹉巡逻队",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

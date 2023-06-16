@@ -22,7 +22,7 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Play chapter 11 instead, dummy.",
+				"Name": "去玩第11章吧, 小傻瓜.",
 				"FirstRewardType": "none",
 				"ReplayRewardType": "none",
 				"StageModule": "RTID(ModernStage@LevelModules)"

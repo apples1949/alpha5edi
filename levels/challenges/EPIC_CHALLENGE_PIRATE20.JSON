@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Battle Bay",
+				"Name": "海湾战争",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

@@ -29,7 +29,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-103: Fried Signal - Locke",
+				"Name": "WP-103: 电击信号 - Locke",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}

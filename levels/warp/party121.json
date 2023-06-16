@@ -30,7 +30,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-121: Power Reservoir - PJ",
+				"Name": "WP-121: 能量储存 - PJ",
 				"StageModule": "RTID(FutureStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

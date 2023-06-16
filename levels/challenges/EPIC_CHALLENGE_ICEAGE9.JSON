@@ -24,7 +24,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "Frozen Threat",
+				"Name": "冰冻威胁",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

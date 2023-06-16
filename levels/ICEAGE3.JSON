@@ -31,7 +31,7 @@
 					"RTID(IZP@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "5-3: Bird Trap",
+				"Name": "5-3: 捕鸟陷阱",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

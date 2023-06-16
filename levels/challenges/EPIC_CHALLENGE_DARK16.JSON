@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Blind Spot",
+				"Name": "盲点",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

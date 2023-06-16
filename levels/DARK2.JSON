@@ -29,7 +29,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "3-2: Organic Lights",
+				"Name": "3-2: 有机光源",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

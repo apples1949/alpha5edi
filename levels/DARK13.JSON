@@ -24,7 +24,7 @@
 					"RTID(GI@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "13-3: Medieval Mending Machine",
+				"Name": "13-3: 中世纪修理器",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}
 		},

@@ -34,7 +34,7 @@
 					"RTID(BowlingMinigame@CurrentLevel)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "Bowling Party 7: Origin",
+				"Name": "保龄球派对 7: 原版",
 				"MusicType": "Minigame_A",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}

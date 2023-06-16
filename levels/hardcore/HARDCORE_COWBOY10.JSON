@@ -31,7 +31,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "6-10X: Isoland",
+				"Name": "6-10X: 孤岛",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

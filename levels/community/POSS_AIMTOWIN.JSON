@@ -17,7 +17,7 @@
 					"RTID(FutureMowers@LevelModules)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Aim to Win - Poss",
+				"Name": "瞄准致胜 - Poss",
 				"MusicType": "MiniGame_B",
 				"NormalPresentTable": "future_normal_01",
 				"ShinyPresentTable": "future_shiny_01",

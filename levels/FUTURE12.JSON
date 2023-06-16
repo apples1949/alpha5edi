@@ -28,7 +28,7 @@
 					"RTID(PowerTiles@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "19-2: Sudden Wall",
+				"Name": "19-2: 肉墙突现",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

@@ -18,7 +18,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "Botanical Battle IV: Bowl Game - DT",
+				"Name": "植物反击 IV: 保龄球游戏 - DT",
 				"StageModule": "RTID(BeachStage@LevelModules)"
 			}
 		},

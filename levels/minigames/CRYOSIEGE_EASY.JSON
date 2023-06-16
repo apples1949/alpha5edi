@@ -1,5 +1,5 @@
 {
-	"#comment": "Cryosiege (easy) - EnderallyGolem | ELM: Custom Ver [ECL Beta 1.8]",
+	"#comment": "Cryosiege (简单) - EnderallyGolem | ELM: Custom Ver [ECL Beta 1.8]",
 	"objects": [
 		{
 			"objclass": "LevelDefinition",
@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "Cryosiege (easy) - EnderallyGolem",
+				"Name": "冰晶封锁(简单) - EnderallyGolem",
 				"StageModule": "RTID(IceageStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}

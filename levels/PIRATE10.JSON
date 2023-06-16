@@ -35,7 +35,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "4-10: Black Flags",
+				"Name": "4-10: 黑旗",
 				"StageModule": "RTID(PirateStage@LevelModules)"
 			}
 		},

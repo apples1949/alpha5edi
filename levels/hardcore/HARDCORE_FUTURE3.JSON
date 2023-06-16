@@ -29,7 +29,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_B",
-				"Name": "9-3X: Jumper Danger",
+				"Name": "9-3X: 弹跳危机",
 				"StageModule": "RTID(FutureStage@LevelModules)"
 			}
 		},

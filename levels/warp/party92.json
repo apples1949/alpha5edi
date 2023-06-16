@@ -28,7 +28,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "WP-92: Sunset - darkchan",
+				"Name": "WP-92: 晚霞 - darkchan",
 				"StageModule": "RTID(BeachStage@CurrentLevel)"
 			}
 		},

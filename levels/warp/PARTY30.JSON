@@ -28,7 +28,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-30: Amphibian Hunters - Locke",
+				"Name": "WP-30: 两栖捕手 - Locke",
 				"StageModule": "RTID(DinoNightStage@LevelModules)",
 				"MusicType": "MiniGame_B"
 			}

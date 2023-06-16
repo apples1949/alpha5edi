@@ -28,7 +28,7 @@
 					"RTID(BowlingMinigame@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Dead End: Drag Party",
+				"Name": "穷途末路: 拖拽派对",
 				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},

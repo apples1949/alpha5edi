@@ -22,7 +22,7 @@
 					"RTID(LootOverride@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "Escalation Game",
+				"Name": "升级游戏",
 				"StageModule": "RTID(EightiesStage@LevelModules)"
 			}
 		},

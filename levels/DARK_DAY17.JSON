@@ -27,7 +27,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(GI@CurrentLevel)"
 				],
-				"Name": "DA-17: Walkthrough",
+				"Name": "DA-17: 穿过",
 				"StageModule": "RTID(DarkDayStage@LevelModules)"
 			}
 		},

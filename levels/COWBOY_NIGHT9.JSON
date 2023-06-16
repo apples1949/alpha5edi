@@ -30,7 +30,7 @@
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WW-9: Split Shooter",
+				"Name": "WW-9: 裂荚豌豆",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},

@@ -29,7 +29,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(ProtectThePlant@CurrentLevel)"
 				],
-				"Name": "12-2: Snip Gate",
+				"Name": "12-2: 剪刀门",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
 			}
 		},

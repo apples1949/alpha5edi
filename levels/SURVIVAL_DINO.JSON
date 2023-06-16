@@ -19,7 +19,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "Survival: Jurassic Marsh",
+				"Name": "生存: 侏罗纪沼泽",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}

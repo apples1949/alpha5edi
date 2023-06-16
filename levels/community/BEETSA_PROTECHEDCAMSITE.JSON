@@ -17,7 +17,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Proteched Campsite - beetsa",
+				"Name": "安全营地 - beetsa",
 				"NormalPresentTable": "egypt_normal_01",
 				"ShinyPresentTable": "egypt_shiny_01",
 				"StageModule": "RTID(FutureStage@LevelModules)"

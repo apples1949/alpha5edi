@@ -19,7 +19,7 @@
 					"RTID(Grid@CurrentLevel)"
 				],
 				"MusicType": "megalovania",
-				"Name": "Ancient Mausoleum - EnderallyGolem",
+				"Name": "远古陵墓 - EnderallyGolem",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

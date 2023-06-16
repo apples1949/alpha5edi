@@ -26,7 +26,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)"
 				],
-				"Name": "WP-6: Angry Seeds - Locke",
+				"Name": "WP-6: 愤怒的种子 - Locke",
 				"StageModule": "RTID(DinoStage@LevelModules)"
 			}
 		},

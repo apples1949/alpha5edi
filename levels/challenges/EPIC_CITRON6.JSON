@@ -31,7 +31,7 @@
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "CTR-6: Plasman",
+				"Name": "CTR-6: 等离子炮手",
 				"StageModule": "RTID(IceageStage@LevelModules)"
 			}
 		},

@@ -23,7 +23,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "WP-7: Sun Mineral",
+				"Name": "WP-7: 阳光矿石",
 				"MusicType": "MiniGame_B",
 				"StageModule": "RTID(DarkStage@LevelModules)"
 			}

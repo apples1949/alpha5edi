@@ -24,7 +24,7 @@
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "6-7: The Overpassers",
+				"Name": "6-7: 飞跃者",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

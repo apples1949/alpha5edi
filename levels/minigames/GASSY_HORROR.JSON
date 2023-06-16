@@ -22,7 +22,7 @@
 					"RTID(NewWaves@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "Gassy Horror - DT",
+				"Name": "毒气恐惧 - DT",
 				"StageModule": "RTID(EgyptStage@LevelModules)"
 			}
 		},

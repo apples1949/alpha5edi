@@ -23,7 +23,7 @@
 					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(IPP@CurrentLevel)"
 				],
-				"Name": "16-5: Plant Consumer",
+				"Name": "16-5: 植物饕餮",
 				"StageModule": "RTID(WestStage@LevelModules)"
 			}
 		},

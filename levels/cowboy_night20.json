@@ -26,7 +26,7 @@
 					"RTID(LootOverride@CurrentLevel)"
 				],
 				"MusicType": "MiniGame_A",
-				"Name": "WW-20: Fermentation Bar",
+				"Name": "WW-20: 发酵酒吧",
 				"StageModule": "RTID(WestNightStage@LevelModules)"
 			}
 		},
