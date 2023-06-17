@@ -2216,7 +2216,7 @@
 						"StatNameAlias": "Sun Production",
 						"StatType": "sunprod",
 						"StatValue": "sunprod_variable",
-						"TypeStringID": "[PLANTALMANACDATA_SUN_PRODUCTION] (PER STAGE)",
+						"TypeStringID": "[PLANTALMANACDATA_SUN_PRODUCTION_PER_STAGE]",
 						"ValueStringID": "25/50/75"
 					},
 					{
@@ -2234,8 +2234,8 @@
 						"StatNameAlias": "Grow Time",
 						"StatType": "sunprod",
 						"StatValue": "sunprod_variable",
-						"TypeStringID": "TIME TO GROW",
-						"ValueStringID": "NA/NA -- 160/NA -- 120/240"
+						"TypeStringID": "[PLANTALMANACDATA_TIME_TO_GROW]",
+						"ValueStringID": "[PLANTALMANACDATA_SUMSHROOM]"
 					}
 				],
 				"TypeName": "sunshroom"
@@ -7618,7 +7618,7 @@
 					},
 					{
 						"LevelToUnlock": "0",
-						"StatName": "Concealmint_Plant[PLANTALMANACDATA_LIFETIME]",
+						"StatName": "Concealmint_Plantlifetime",
 						"StatNameAlias": "Life Time",
 						"StatType": "firerate",
 						"StatValue": "firerate0",
@@ -8433,7 +8433,7 @@
 						"StatNameAlias": "Proj. Life Time",
 						"StatType": "damage",
 						"StatValue": "damage2",
-						"TypeStringID": "PROJECTILE [PLANTALMANACDATA_LIFETIME]",
+						"TypeStringID": "[PLANTALMANACDATA_PROJECTILE_LIFETIME]",
 						"ValueStringID": "180"
 					},
 					{

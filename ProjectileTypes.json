@@ -18699,6 +18699,60 @@
 					"mHeight": 20
 				}
 			}
+		},
+		{
+			"objclass": "GuacodileProjectileProps",
+			"aliases": [
+				"FireTotemDefault"
+			],
+			"objdata": {
+				"ClassName": "GuacodileProjectile",
+				"BaseDamage": 1,
+				"CollisionFlags": [
+					"plants"
+				],
+				"FollowsGround": true,
+				"DiesOnImpact": false,
+				"HasShadow": false,
+				"DamageFlags": [
+					"fire",
+					"ash_death"
+				],
+				"InitialVelocity": [
+					{
+						"Min": -75.0,
+						"Max": -75.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					},
+					{
+						"Min": 0.0,
+						"Max": 0.0
+					}
+				],
+				"InitialScale": {
+					"Min": 1,
+					"Max": 1
+				},
+				"AttachedPAM": "POPANIM_EFFECTS_JACKOLANTERN_WISP_COCO",
+				"AttachedPAMAnimationToPlay": [
+					"coconut_projectile_plantfood"
+				],
+				"AttachedPAMOffset": {
+					"x": -100,
+					"y": -120
+				},
+				"CollisionRect": {
+					"mX": -30.0,
+					"mY": -15.0,
+					"mWidth": 60.0,
+					"mHeight": 60.0
+				},
+				"ChompsPerSecond": 15,
+				"DamagePerChomp": 180
+			}
 		}
 	]
 }

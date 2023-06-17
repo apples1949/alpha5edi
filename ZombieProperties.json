@@ -41990,6 +41990,211 @@
 					}
 				]
 			}
+		},
+		{
+			"aliases": [
+				"ZombieFireTotem"
+			],
+			"objclass": "ZombieIceAgeHunterProps",
+			"objdata": {
+				"Actions": [
+					"RTID(ZombieFireTotemAction@ZombieActions)"
+				],
+				"ArtCenter": {
+					"x": 90,
+					"y": 125
+				},
+				"AttackRect": {
+					"mHeight": 60,
+					"mWidth": 10,
+					"mX": 99999,
+					"mY": 0
+				},
+				"ConditionImmunities": [
+					{
+						"Condition": "chill"
+					},
+					{
+						"Condition": "freeze"
+					},
+					{
+						"Condition": "stalled"
+					},
+					{
+						"Condition": "stackableslow"
+					},
+					{
+						"Condition": "sapped"
+					},
+					{
+						"Condition": "stun"
+					},
+					{
+						"Condition": "butter"
+					},
+					{
+						"Condition": "shrinking"
+					},
+					{
+						"Condition": "shrunken"
+					},
+					{
+						"Condition": "poisoned"
+					},
+					{
+						"Condition": "decaypoison"
+					},
+					{
+						"Condition": "contagiouspoison"
+					},
+					{
+						"Condition": "speedup1"
+					},
+					{
+						"Condition": "speedup2"
+					},
+					{
+						"Condition": "speedup3"
+					},
+					{
+						"Condition": "speedup4"
+					},
+					{
+						"Condition": "terrified"
+					},
+					{
+						"Condition": "potionspeed1"
+					},
+					{
+						"Condition": "potionspeed2"
+					},
+					{
+						"Condition": "potionspeed3"
+					},
+					{
+						"Condition": "potiontoughness1"
+					},
+					{
+						"Condition": "potiontoughness2"
+					},
+					{
+						"Condition": "potiontoughness3"
+					},
+					{
+						"Condition": "potionsuper1"
+					},
+					{
+						"Condition": "potionsuper2"
+					},
+					{
+						"Condition": "potionsuper3"
+					},
+					{
+						"Condition": "hypnotized"
+					},
+					{
+						"Condition": "sunbeaned"
+					},
+					{
+						"Condition": "haunted"
+					},
+					{
+						"Condition": "icecubed"
+					},
+					{
+						"Condition": "speeddown1"
+					},
+					{
+						"Condition": "speeddown2"
+					},
+					{
+						"Condition": "speeddown3"
+					},
+					{
+						"Condition": "speeddown4"
+					},
+					{
+						"Condition": "invincible"
+					},
+					{
+						"Condition": "bloomingheartdebuff"
+					},
+					{
+						"Condition": "gummed"
+					},
+					{
+						"Condition": "stoneblocked"
+					}
+				],
+				"CollideHypnotizedZombies": "ignore",
+				"CanSpawnPlantFood": false,
+				"CanSurrender": true,
+				"ChillInsteadOfFreeze": true,
+				"Cost": 150,
+				"EatDPS": 0,
+				"FarAttackRange": 999,
+				"GroundTrackName": "ground_swatch",
+				"HitRect": {
+					"mHeight": 95,
+					"mWidth": 30,
+					"mX": 7,
+					"mY": 10
+				},
+				"Hitpoints": 1200,
+				"ScoreOverride": 1,
+				"NearAttackRange": 1,
+				"ScaledProps": [
+					{
+						"Arg1": 1.05,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "Hitpoints"
+					},
+					{
+						"Arg1": 1.05,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "SnowballsPerBarrage"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.1,
+						"Formula": "standard",
+						"Key": "FarAttackRange"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.1,
+						"Formula": "standard",
+						"Key": "EatDPS"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.01,
+						"Formula": "standard",
+						"Key": "Speed"
+					}
+				],
+				"ShadowOffset": {
+					"x": 0,
+					"y": 0,
+					"z": 1.2
+				},
+				"SnowballsPerBarrage": 1,
+				"Speed": 0,
+				"WavePointCost": 300,
+				"Weight": 3500,
+				"ZombieStats": [
+					{
+						"Type": "toughness",
+						"Value": "damage6"
+					},
+					{
+						"Type": "speed",
+						"Value": "speed0"
+					}
+				]
+			}
 		}
 	],
 	"version": 1

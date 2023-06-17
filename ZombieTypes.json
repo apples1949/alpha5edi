@@ -12429,6 +12429,30 @@
 				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR",
 				"HomeWorld": "tutorial"
 			}
+		},
+		{
+			"objclass": "ZombieType",
+			"aliases": [
+				"firetotem"
+			],
+			"objdata": {
+				"TypeName": "firetotem",
+				"ZombieClass": "ZombieIceAgeHunter",
+				"Properties": "RTID(ZombieFireTotem@ZombieProperties)",
+				"ResourceGroups": [
+					"ZombieIceAgeHunterGroup",
+					"FrostbiteIceBlockPlantGroup",
+					"PlantJackOLantern",
+					"PlantJackOLanternAudio"
+				],
+				"AudioGroups": [
+					"ZombieIceAgeHunterAudio"
+				],
+				"AnimRigClass": "ZombieAnimRig_Hunter",
+				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_HUNTER",
+				"HomeWorld": "egypt",
+				"IsBasicZombie": false
+			}
 		}
 	]
 }

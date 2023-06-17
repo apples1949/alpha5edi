@@ -12535,6 +12535,35 @@
 				"ApexHeight": 100,
 				"TimeUntilHit": 0.75
 			}
+		},
+		{
+			"objclass": "ZombieProjectileActionDefinition",
+			"aliases": [
+				"ZombieFireTotemAction"
+			],
+			"objdata": {
+				"TimeBeforeFirst": {
+					"Min": 0,
+					"Max": 0
+				},
+				"TimeBetween": {
+					"Min": 7,
+					"Max": 7
+				},
+				"TimeBetweenBarrages": {
+					"Min": 0,
+					"Max": 0
+				},
+				"Projectile": "RTID(FireTotemDefault@ProjectileTypes)",
+				"ProjectileSound": "Play_Zomb_Egypt_Zomboss_Attack_Rush",
+				"SpawnOffset": {
+					"x": -20.0,
+					"y": 0.0,
+					"z": 45.0
+				},
+				"ApexHeight": 100,
+				"TimeUntilHit": 0.75
+			}
 		}
 	]
 }

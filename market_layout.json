@@ -149,7 +149,7 @@
 				"Tabs": [
 					{
 						"Type": "Promoted Offers",
-						"Name": "Main",
+						"Name": "[STORE_TAB_MAIN]",
 						"ImageDown": "IMAGE_UI_STORE_GEMSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_GEMSTAB_ACTIVE",
 						"Categories": [
@@ -169,7 +169,7 @@
 					},
 					{
 						"Type": "Costumes",
-						"Name": "Costumes",
+						"Name": "[STORE_TAB_COSTUMES]",
 						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 						"Categories": [
@@ -178,7 +178,7 @@
 					},
 					{
 						"Type": "Costumes_2",
-						"Name": "Costumes",
+						"Name": "[STORE_TAB_COSTUMES]",
 						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 						"Categories": [
@@ -187,7 +187,7 @@
 					},
 					{
 						"Type": "Costumes_3",
-						"Name": "Costumes",
+						"Name": "[STORE_TAB_COSTUMES]",
 						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 						"Categories": [
@@ -196,7 +196,7 @@
 					},
 					{
 						"Type": "Costumes_4",
-						"Name": "Costumes",
+						"Name": "[STORE_TAB_COSTUMES]",
 						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 						"Categories": [
@@ -205,7 +205,7 @@
 					},
 					{
 						"Type": "Costumes_5",
-						"Name": "Costumes",
+						"Name": "[STORE_TAB_COSTUMES]",
 						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 						"Categories": [
@@ -214,7 +214,7 @@
 					},
 					{
 						"Type": "Accessory",
-						"Name": "Accessory",
+						"Name": "[STORE_TAB_ACCESSORY]",
 						"ImageDown": "IMAGE_UI_STORE_SPROUTSTAB_DOWN",
 						"ImageActive": "IMAGE_UI_STORE_SPROUTSTAB_ACTIVE",
 						"Categories": [

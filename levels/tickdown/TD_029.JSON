@@ -18,7 +18,7 @@
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(Tide@CurrentLevel)"
 				],
-				"Name": "����ʱģʽ!",
+				"Name": "倒计时模式!",
 				"SuppressAwardScreen": true,
 				"StageModule": "RTID(TickdownStage@LevelModules)"
 			}

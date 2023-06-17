@@ -23,8 +23,9 @@
 			],
 			"objdata": {
 				"#comment": "switch to https://DT2381.pythonanywhere.com/ or https://DT2382.pythonanywhere.com/ for launch",
+				"#comment2": "old server: http://gp2-dt.7m.pl/",
 				"timeout": 30,
-				"ip": "http://gp2-dt.7m.pl/"
+				"ip": "https://eclisealpha5web.pythonanywhere.com/"
 			}
 		},
 		{
@@ -188,7 +189,8 @@
 				"DraperConfig"
 			],
 			"objdata": {
-				"DraperURL": "http://gp2-dt.7m.pl/"
+				"#comment": "Change the website to something to avoid ads",
+				"DraperURL": "https://eclisealpha5web.pythonanywhere.com/"
 			}
 		},
 		{
