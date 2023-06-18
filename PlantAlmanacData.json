@@ -3674,7 +3674,7 @@
 						"StatType": "area",
 						"StatValue": "3by3",
 						"TypeStringID": "[STAT_AREA]",
-						"ValueStringID": "3x3 -- 5x5 -- FULL BOARD"
+						"ValueStringID": "[PLANTALMANACDATA_THYMEWARP]"
 					}
 				],
 				"TypeName": "thymewarp"
