@@ -7323,7 +7323,7 @@
 							"QuestCategory": "Minigames",
 							"OverrideQuestTheme": "Misc",
 							"UniqueID": "MINIGAME_OBJECT",
-							"QuestName": "[QUEST__MINIGAME_OBJECTQUESTNAME]",
+							"QuestName": "[QUEST_MINIGAME_OBJECTQUESTNAME]",
 							"Description": "",
 							"UniqueIDList": [
 								"MINIGAME_OBJECT_STEP_1",
