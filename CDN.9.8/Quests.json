@@ -4686,6 +4686,129 @@
 					},
 					{
 						"EpicQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "PlantQuest",
+							"OverrideQuestTheme": "Plant",
+							"UniqueID": "EPIC_QUEST_PARSNIP",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_QUESTNAME]",
+							"Description": "",
+							"UniqueIDList": [
+								"EPIC_QUEST_PARSNIP_STEP_1",
+								"EPIC_QUEST_PARSNIP_STEP_2",
+								"EPIC_QUEST_PARSNIP_STEP_3",
+								"EPIC_QUEST_PARSNIP_STEP_4",
+								"EPIC_QUEST_PARSNIP_STEP_5",
+								"EPIC_QUEST_PARSNIP_STEP_6",
+								"EPIC_QUEST_PARSNIP_STEP_7",
+								"EPIC_QUEST_PARSNIP_STEP_8"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "mints",
+										"SubType": "",
+										"Amount": 80
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"egypt10"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_1",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_1_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d6",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_2",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_2_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d7",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_3",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_3_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d8",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_4",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_4_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d9",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_5",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_5_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d10",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_6",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_6_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d11",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_7",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_7_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d12",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_8",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP_STEP_8_QUESTNAME]",
+							"Description": "",
+							"LevelName": "test/d13",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"EpicQuestData": {
 							"Slot": "Currency",
 							"QuestCategory": "PlantQuest",
 							"OverrideQuestTheme": "Plant",

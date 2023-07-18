@@ -27,7 +27,7 @@
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
-				"Name": "ICS-4: 定格",
+				"Name": "ICS-4: 停止前进",
 				"StageModule": "RTID(DinoNightStage@LevelModules)"
 			}
 		},
