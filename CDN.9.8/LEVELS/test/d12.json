@@ -3,7 +3,7 @@
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "E  C  L  I  S  E",
+				"Description": "本周植物!",
 				"StartingSun": 50,
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"FirstIntroNarrative": "EPIC_PARSNIP7_INTRO",
