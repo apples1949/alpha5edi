@@ -1802,6 +1802,58 @@
 						"ChallengeLevelQuestData": {
 							"Slot": "PremiumPlant",
 							"QuestCategory": "Veteran",
+							"OverrideQuestTheme": "Zombie",
+							"UniqueID": "EPIC_QUEST_MECHANIC_CHARM",
+							"QuestName": "[QUEST_EPIC_QUEST_MECHANIC_CHARM_QUESTNAME]",
+							"Description": "[QUEST_EPIC_QUEST_MECHANIC_CHARM_DESCRIPTION]",
+							"LevelName": "test/d5",
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "mints",
+										"SubType": "",
+										"Amount": 100
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"eighties10"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Veteran",
+							"OverrideQuestTheme": "Plant",
+							"UniqueID": "EPIC_QUEST_PARSNIP7_VET",
+							"QuestName": "[QUEST_EPIC_QUEST_PARSNIP7_VET_QUESTNAME]",
+							"Description": "[QUEST_EPIC_QUEST_PARSNIP7_VET_DESCRIPTION]",
+							"LevelName": "test/d4",
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "mints",
+										"SubType": "",
+										"Amount": 40
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"egypt10"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "Veteran",
 							"OverrideQuestTheme": "Dark",
 							"UniqueID": "EPIC_QUEST_DARK5_VET",
 							"QuestName": "[QUEST_EPIC_QUEST_DARK5_VET_QUESTNAME]",

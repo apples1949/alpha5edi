@@ -1874,7 +1874,7 @@
 			],
 			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDERDANCER1]",
+				"WaveStartMessage": "[WAVESTARTMESSAGE_UNDER_DANCER1]",
 				"ZombieSpawnWaitTime": 0,
 				"SuppressActionIfNoGridItemsFound": false,
 				"AdditionalPlantfood": "0",

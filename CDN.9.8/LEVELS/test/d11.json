@@ -54,7 +54,7 @@
 					},
 					{
 						"PlantType": "thymewarp",
-						"Level": 1
+						"Level": 2
 					}
 				],
 				"PlantExcludeList": [
@@ -225,7 +225,7 @@
 			"objdata": {
 				"GridItemType": "sheepforce",
 				"GridItemsToDestroy": 56,
-				"ChallengeDescription": "Destroy all amulets"
+				"ChallengeDescription": "[DESCRIPTION_TEST_PSN_6_2]"
 			}
 		},
 		{
@@ -868,18 +868,6 @@
 						"Type": "RTID(swashbuckler@ZombieTypes)"
 					},
 					{
-						"Row": "4",
-						"Type": "RTID(dark_gargantuar@ZombieTypes)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(dark_gargantuar@ZombieTypes)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(dark_gargantuar@ZombieTypes)"
-					},
-					{
 						"Row": "3",
 						"Type": "RTID(dark_armor3@ZombieTypes)"
 					},
@@ -898,6 +886,10 @@
 					{
 						"Row": "1",
 						"Type": "RTID(dark@ZombieTypes)"
+					},
+					{
+						"Row": "4",
+						"Type": "RTID(dark_gargantuar@ZombieTypes)"
 					}
 				]
 			}
@@ -1139,10 +1131,6 @@
 						"Type": "RTID(swashbuckler@ZombieTypes)"
 					},
 					{
-						"Row": "2",
-						"Type": "RTID(dark_gargantuar@ZombieTypes)"
-					},
-					{
 						"Row": "4",
 						"Type": "RTID(swashbuckler@ZombieTypes)"
 					},
@@ -1332,15 +1320,7 @@
 						"Type": "RTID(cannon@ZombieTypes)"
 					},
 					{
-						"Row": "4",
-						"Type": "RTID(dark_gargantuar@ZombieTypes)"
-					},
-					{
 						"Row": "2",
-						"Type": "RTID(dark_gargantuar@ZombieTypes)"
-					},
-					{
-						"Row": "5",
 						"Type": "RTID(dark_gargantuar@ZombieTypes)"
 					},
 					{
