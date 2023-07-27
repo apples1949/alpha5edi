@@ -1,39 +1,25 @@
 {
-	"#comment": "Mechanical Charms | ELM: Ver-10 [ECL Alpha 4.5]",
-	"#zombies": "future, future_armor1, future_armor2, future_protector, mech_cone, football_mech, football, future_gargantuar, eighties_boombox",
+	"#comment": "Gate",
 	"objects": [
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"StartingSun": 50,
-				"Description": "完成这个疯狂的关卡.",
-				"FirstRewardParam": "moneybag",
-				"NormalPresentTable": "egypt_normal_01",
-				"ShinyPresentTable": "egypt_shiny_01",
+				"LevelPowerupSet": "LevelPowerupsDisabled",
+				"StartingSun": 0,
+				"DisableRestart": true,
+				"DisableSaveGame": true,
 				"Loot": "RTID(DefaultLoot@LevelModules)",
-				"ResourceGroupNames": [
-					"DelayLoad_Background_Beach",
-					"DelayLoad_Background_Beach_Compressed",
-					"Tombstone_Dark_Special",
-					"Tombstone_Dark_Effects"
-				],
 				"Modules": [
-					"RTID(TechnicalZombieOverride@LevelModules)",
-					"RTID(PirateBarrel30FPS@LevelModules)",
-					"RTID(FutureMowers@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
-					"RTID(GI@CurrentLevel)",
-					"RTID(SeedBank@CurrentLevel)",
-					"RTID(DefaultSunDropper@LevelModules)",
-					"RTID(ChallengeModule@CurrentLevel)",
-					"RTID(Escalation@CurrentLevel)",
-					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
-					"RTID(DefaultZombieWinCondition@LevelModules)"
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "机械魅力",
-				"StageModule": "RTID(FutureStage@LevelModules)",
-				"MusicType": "MiniGame_A"
+				"Name": "关卡尚不可用!",
+				"FirstRewardType": "none",
+				"ReplayRewardType": "none",
+				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},
 		{
@@ -43,261 +29,12 @@
 			"objclass": "SeedBankProperties",
 			"objdata": {
 				"PresetPlantList": [
-				],
-				"PlantIncludeList": [
-					"sunflower",
-					"peashooter",
-					"wallnut",
-					"tallnut",
-					"explodeonut",
-					"bonkchoy",
-					"cabbagepult",
-					"melonpult",
-					"cherry_bomb",
-					"coconutcannon",
-					"gravebuster",
-					"iceburg",
-					"laser_bean",
-					"potatomine",
-					"repeater",
-					"snapdragon",
-					"spikeweed",
-					"threepeater",
-					"torchwood",
-					"kernelpult",
-					"springbean",
-					"snowpea",
-					"chilibean",
-					"splitpea",
-					"lightningreed",
-					"peapod",
-					"magnifyinggrass",
-					"bloomerang",
-					"holonut",
-					"empea",
-					"blover",
-					"starfruit",
-					"imitater",
-					"jalapeno",
-					"wintermelon",
-					"twinsunflower",
-					"spikerock",
-					"powerlily",
-					"squash",
-					"citron",
-					"powerplant",
-					"sunshroom",
-					"puffshroom",
-					"fumeshroom",
-					"sunbean",
-					"magnetshroom",
-					"hypnoshroom",
-					"peanut",
-					"firepeashooter",
-					"lilypad",
-					"bowlingbulb",
-					"homingthistle",
-					"banana",
-					"chomper",
-					"guacodile",
-					"tanglekelp",
-					"ghostpepper",
-					"sweetpotato",
-					"sapfling",
-					"hurrikale",
-					"xshot",
-					"chardguard",
-					"pepperpult",
-					"hotpotato",
-					"stunion",
-					"dandelion",
-					"redstinger",
-					"goldleaf",
-					"akee",
-					"lavaguava",
-					"toadstool",
-					"endurian",
-					"stallia",
-					"strawburst",
-					"cactus",
-					"phatbeet",
-					"thymewarp",
-					"celerystalker",
-					"electricblueberry",
-					"sporeshroom",
-					"garlic",
-					"intensivecarrot",
-					"jackolantern",
-					"primalpeashooter",
-					"grapeshot",
-					"primalwallnut",
-					"perfumeshroom",
-					"coldsnapdragon",
-					"primalsunflower",
-					"primalpotatomine",
-					"shrinkingviolet",
-					"moonflower",
-					"nightshade",
-					"shadowshroom",
-					"bloominghearts",
-					"escaperoot",
-					"grimrose",
-					"dusklobber",
-					"goldbloom",
-					"electriccurrant",
-					"aloe",
-					"applemortar",
-					"bombegranate",
-					"missiletoe",
-					"parsnip",
-					"witchhazel",
-					"hotdate",
-					"caulipower",
-					"solartomato",
-					"electricpeashooter",
-					"hollyknight",
-					"bombardmint",
-					"concealmint",
-					"armamint",
-					"enlightenmint",
-					"kiwibeast",
-					"spearmint",
-					"ailmint",
-					"dazeychain",
-					"stickybombrice",
-					"pumpkin",
-					"tumbleweed",
-					"gloomvine",
-					"unused_43",
-					"minipeashooter",
-					"unused_45",
-					"unused_46",
-					"unused_47",
-					"Mini",
-					"hocus",
-					"Mini"
-				],
-				"PlantExcludeList": [
-				],
-				"SelectionMethod": "chooser"
-			}
-		},
-		{
-			"aliases": [
-				"ChallengeModule"
-			],
-			"objclass": "StarChallengeModuleProperties",
-			"objdata": {
-				"Challenges": [
-					[
-						"RTID(BeatTheLevel@CurrentLevel)"
-					]
-				],
-				"ChallengesAlwaysAvailable": true
-			}
-		},
-		{
-			"aliases": [
-				"BeatTheLevel"
-			],
-			"objclass": "StarChallengeBeatTheLevelProps",
-			"objdata": {
-				"Description": "[DESCRIPTION_TEST_D5_MC]",
-				"DescriptiveName": "Custom Objective"
-			}
-		},
-		{
-			"aliases": [
-				"GI"
-			],
-			"objclass": "InitialGridItemProperties",
-			"objdata": {
-				"InitialGridItemPlacements": [
 					{
-						"GridX": 1,
-						"GridY": 0,
-						"TypeName": "powertile_alpha"
-					},
-					{
-						"GridX": 4,
-						"GridY": 0,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 7,
-						"GridY": 0,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 0,
-						"GridY": 1,
-						"TypeName": "powertile_alpha"
-					},
-					{
-						"GridX": 5,
-						"GridY": 1,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 5,
-						"GridY": 2,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 6,
-						"GridY": 2,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 0,
-						"GridY": 3,
-						"TypeName": "powertile_alpha"
-					},
-					{
-						"GridX": 4,
-						"GridY": 3,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 7,
-						"GridY": 3,
-						"TypeName": "protectionrune"
-					},
-					{
-						"GridX": 1,
-						"GridY": 4,
-						"TypeName": "powertile_alpha"
-					},
-					{
-						"GridX": 6,
-						"GridY": 4,
-						"TypeName": "protectionrune"
+						"PlantType": "gravebuster",
+						"Level": -1
 					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Escalation"
-			],
-			"objclass": "LevelEscalationModuleProperties",
-			"objdata": {
-				"FlagCount": 2,
-				"WavesPerFlag": 9,
-				"PlantfoodToSpawnCount": 3,
-				"StartingPoints": 300,
-				"PointIncrementPerWave": 400,
-				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": [
-					"RTID(future@ZombieTypes)",
-					"RTID(mech_cone@ZombieTypes)",
-					"RTID(future_armor1@ZombieTypes)",
-					"RTID(football_mech@ZombieTypes)",
-					"RTID(future_armor2@ZombieTypes)",
-					"RTID(football@ZombieTypes)",
-					"RTID(future_protector@ZombieTypes)",
-					"RTID(future_gargantuar@ZombieTypes)"
-				]
+				],
+				"SelectionMethod": "preset"
 			}
 		},
 		{
@@ -306,161 +43,97 @@
 			],
 			"objclass": "WaveManagerModuleProperties",
 			"objdata": {
+				"WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
 			}
 		},
 		{
 			"aliases": [
-				"WaveManager"
+				"WaveManagerProps"
 			],
 			"objclass": "WaveManagerProperties",
 			"objdata": {
-				"FlagWaveInterval": 9,
-				"WaveCount": 18,
-				"SuppressFlagZombie": false,
+				"ZombieCountdownFirstWaveSecs": 0,
+				"ZombieCountdownFirstWaveConveyorSecs": 0,
+				"ZombieCountdownHugeWaveDelay": 0,
+				"SuppressFlagZombie": true,
+				"FlagWaveInterval": 1,
+				"WaveCount": 1,
 				"Waves": [
 					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
-					],
-					[
-					],
-					[
-						"RTID(GroundSpawn2_C4@.)",
-						"RTID(Necro2@.)"
+						"RTID(Wave1@.)"
 					]
 				]
 			}
 		},
 		{
 			"aliases": [
-				"GroundSpawn2_C4"
+				"Wave1"
 			],
 			"objclass": "SpawnZombiesFromGroundSpawnerProps",
 			"objdata": {
-				"AdditionalPlantfood": "0",
-				"ColumnStart": 4,
-				"ColumnEnd": 5,
+				"ColumnStart": 8,
+				"ColumnEnd": 9,
 				"Zombies": [
 					{
-						"Row": "1",
-						"Type": "RTID(eighties_boombox@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(eighties_boombox@ZombieTypes)"
+						"Row": "3",
+						"Type": "RTID(tutorial@.)"
 					}
 				]
 			}
 		},
 		{
+			"objclass": "ZombieType",
 			"aliases": [
-				"Necro2"
+				"tutorial"
 			],
-			"objclass": "SpawnZombiesFromGridItemSpawnerProps",
 			"objdata": {
-				"WaveStartMessage": "[WAVESTARTMESSAGE_CHARMING_HITS]",
-				"ZombieSpawnWaitTime": 0,
-				"SuppressActionIfNoGridItemsFound": false,
-				"AdditionalPlantfood": "0",
-				"GridTypes": [
+				"TypeName": "tutorial",
+				"ZombieClass": "ZombieBasic",
+				"Properties": "RTID(ZombieTutorialDefault@.)",
+				"ResourceGroups": [
+					"ZombieTutorialGroup"
 				],
-				"Zombies": [
-				]
+				"AudioGroups": [
+				],
+				"AnimRigClass": "ZombieAnimRig_Tutorial",
+				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
+				"HomeWorld": "modern",
+				"IsBasicZombie": true
 			}
 		},
 		{
+			"aliases": [
+				"ZombieTutorialDefault"
+			],
+			"objclass": "ZombiePropertySheet",
+			"objdata": {
+				"ArtCenter": {
+					"x": 90,
+					"y": 125
+				},
+				"AttackRect": {
+					"mHeight": 95,
+					"mWidth": 20,
+					"mX": 15,
+					"mY": 0
+				},
+				"CanSpawnPlantFood": false,
+				"EatDPS": 100,
+				"GroundTrackName": "ground_swatch",
+				"HitRect": {
+					"mHeight": 95,
+					"mWidth": 32,
+					"mX": 10,
+					"mY": 10
+				},
+				"Hitpoints": 268353535,
+				"ShadowOffset": {
+					"x": 5,
+					"y": 0,
+					"z": 1.399999976158142
+				},
+				"Speed": 0
+			}
 		}
 	],
 	"version": 1
