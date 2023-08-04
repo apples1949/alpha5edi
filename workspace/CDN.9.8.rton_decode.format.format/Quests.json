@@ -5101,8 +5101,8 @@
 							"Slot": "PremiumPlant",
 							"QuestCategory": "PlantQuest",
 							"OverrideQuestTheme": "Plant",
-							"UniqueID": "[QUEST_EPIC_EPIC_QUEST_REED_QUESTNAME]",
-							"QuestName": "Plant of the Week: Lightning Reed!",
+							"UniqueID": "EPIC_QUEST_REED",
+							"QuestName": "[QUEST_EPIC_EPIC_QUEST_REED_QUESTNAME]",
 							"Description": "",
 							"UniqueIDList": [
 								"EPIC_QUEST_REED_STEP_1",
@@ -23189,6 +23189,7 @@
 								]
 							},
 							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
