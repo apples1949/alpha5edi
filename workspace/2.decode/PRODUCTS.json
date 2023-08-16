@@ -348,7 +348,7 @@
 		},
 		{
 			"aliases": [
-				"seeds_homingthistle_1"
+				"potw_tiering_1"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -356,19 +356,19 @@
 				"IsFree": false,
 				"Name": "",
 				"ObjectCount": 1,
-				"ObjectItem": "homingthistle",
+				"ObjectItem": "redstinger",
 				"ObjectType": "plantxp",
 				"Price": 0,
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "49",
-				"Sku": "seeds_homingthistle_1",
+				"Sku": "potw_tiering_1",
 				"LawnShortDescription": "PRODUCT_PLANTXP"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_tumbleweed_1"
+				"potw_tiering_2"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -376,19 +376,19 @@
 				"IsFree": false,
 				"Name": "",
 				"ObjectCount": 1,
-				"ObjectItem": "tumbleweed",
+				"ObjectItem": "ghostpepper",
 				"ObjectType": "plantxp",
 				"Price": 0,
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "49",
-				"Sku": "seeds_tumbleweed_1",
+				"Sku": "potw_tiering_2",
 				"LawnShortDescription": "PRODUCT_PLANTXP"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_sunshroom_1"
+				"potw_tiering_3"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -396,39 +396,19 @@
 				"IsFree": false,
 				"Name": "",
 				"ObjectCount": 1,
-				"ObjectItem": "sunshroom",
-				"ObjectType": "plantxp",
-				"Price": 0,
-				"PriceCoins": "0",
-				"PriceGems": "0",
-				"PriceMints": "59",
-				"Sku": "seeds_sunshroom_1",
-				"LawnShortDescription": "PRODUCT_PLANTXP"
-			}
-		},
-		{
-			"aliases": [
-				"seeds_moonflower_1"
-			],
-			"objclass": "StoreProductProps",
-			"objdata": {
-				"IsAdPlacement": false,
-				"IsFree": false,
-				"Name": "",
-				"ObjectCount": 1,
-				"ObjectItem": "moonflower",
+				"ObjectItem": "magnifyinggrass",
 				"ObjectType": "plantxp",
 				"Price": 0,
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "49",
-				"Sku": "seeds_moonflower_1",
+				"Sku": "potw_tiering_3",
 				"LawnShortDescription": "PRODUCT_PLANTXP"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_hotdate_1"
+				"potw_tiering_4"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -436,19 +416,19 @@
 				"IsFree": false,
 				"Name": "",
 				"ObjectCount": 1,
-				"ObjectItem": "hotdate",
+				"ObjectItem": "iceburg",
 				"ObjectType": "plantxp",
 				"Price": 0,
 				"PriceCoins": "0",
 				"PriceGems": "0",
-				"PriceMints": "59",
-				"Sku": "seeds_hotdate_1",
+				"PriceMints": "29",
+				"Sku": "potw_tiering_4",
 				"LawnShortDescription": "PRODUCT_PLANTXP"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_primalpeashooter_1"
+				"potw_tiering_5"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -456,19 +436,39 @@
 				"IsFree": false,
 				"Name": "",
 				"ObjectCount": 1,
-				"ObjectItem": "primalpeashooter",
+				"ObjectItem": "endurian",
 				"ObjectType": "plantxp",
 				"Price": 0,
 				"PriceCoins": "0",
 				"PriceGems": "0",
-				"PriceMints": "69",
-				"Sku": "seeds_primalpeashooter_1",
+				"PriceMints": "29",
+				"Sku": "potw_tiering_5",
 				"LawnShortDescription": "PRODUCT_PLANTXP"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_powerplant_1"
+				"potw_tiering_6"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "bloomerang",
+				"ObjectType": "plantxp",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "49",
+				"Sku": "potw_tiering_6",
+				"LawnShortDescription": "PRODUCT_PLANTXP"
+			}
+		},
+		{
+			"aliases": [
+				"potw_permanent_tiering_1"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -482,13 +482,13 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "99",
-				"Sku": "seeds_powerplant_1",
-				"LawnShortDescription": "PRODUCT_PLANTXP"
+				"Sku": "potw_permanent_tiering_1",
+				"LawnShortDescription": "PRODUCT_PLANTXP_PERMANENT"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_applemortar_1"
+				"potw_permanent_tiering_2"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -502,13 +502,13 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "129",
-				"Sku": "seeds_applemortar_1",
-				"LawnShortDescription": "PRODUCT_PLANTXP"
+				"Sku": "potw_permanent_tiering_2",
+				"LawnShortDescription": "PRODUCT_PLANTXP_PERMANENT"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_pumpkin_1"
+				"potw_permanent_tiering_3"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -522,13 +522,13 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "79",
-				"Sku": "seeds_pumpkin_1",
-				"LawnShortDescription": "PRODUCT_PLANTXP"
+				"Sku": "potw_permanent_tiering_3",
+				"LawnShortDescription": "PRODUCT_PLANTXP_PERMANENT"
 			}
 		},
 		{
 			"aliases": [
-				"seeds_twinsunflower_1"
+				"potw_permanent_tiering_4"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -542,28 +542,8 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "79",
-				"Sku": "seeds_twinsunflower_1",
-				"LawnShortDescription": "PRODUCT_PLANTXP"
-			}
-		},
-		{
-			"aliases": [
-				"seeds_lightningreed_1"
-			],
-			"objclass": "StoreProductProps",
-			"objdata": {
-				"IsAdPlacement": false,
-				"IsFree": false,
-				"Name": "",
-				"ObjectCount": 1,
-				"ObjectItem": "lightningreed",
-				"ObjectType": "plantxp",
-				"Price": 0,
-				"PriceCoins": "0",
-				"PriceGems": "0",
-				"PriceMints": "79",
-				"Sku": "seeds_lightningreed_1",
-				"LawnShortDescription": "PRODUCT_PLANTXP"
+				"Sku": "potw_permanent_tiering_4",
+				"LawnShortDescription": "PRODUCT_PLANTXP_PERMANENT"
 			}
 		},
 		{

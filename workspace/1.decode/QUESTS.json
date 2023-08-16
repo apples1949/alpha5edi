@@ -297,8 +297,8 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
-							"QuestCategory": "Veteran",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Zombie",
 							"UniqueID": "EPIC_QUEST_MECHANIC_CHARM",
 							"QuestName": "Mechanic Charms!",
@@ -324,8 +324,8 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
-							"QuestCategory": "Veteran",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Cowboy",
 							"UniqueID": "EPIC_QUEST_VETERAN_COWBOYEXPANSION20",
 							"QuestName": "Challenge Level: The Battle of Pima Butte",
@@ -345,13 +345,14 @@
 									"cowboy20"
 								]
 							},
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
-							"QuestCategory": "Veteran",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Cowboy",
 							"UniqueID": "EPIC_QUEST_VETERAN_COWBOYEXPANSION16",
 							"QuestName": "Challenge Level: Wondrous Fatality",
@@ -371,7 +372,8 @@
 									"cowboy20"
 								]
 							},
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -1879,8 +1881,8 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
-							"QuestCategory": "Veteran",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Plant",
 							"UniqueID": "EPIC_QUEST_PARSNIP7_VET",
 							"QuestName": "Challenge Level: Nonuple Activation Rematch!",
@@ -2686,8 +2688,8 @@
 					},
 					{
 						"EpicQuestData": {
-							"Slot": "Cowboy",
-							"QuestCategory": "Veteran",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Cowboy",
 							"UniqueID": "EPIC_QUEST_COWBOY_EXPANSION",
 							"QuestName": "Adventure Extra: Wild West Expansion",
@@ -2713,7 +2715,8 @@
 									"cowboy20"
 								]
 							},
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2724,7 +2727,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a1",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2735,7 +2739,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a2",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2746,7 +2751,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a3",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2757,7 +2763,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a4",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2768,13 +2775,14 @@
 							"QuestName": "Adventure Extra: Wild West Expansion\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a5",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"EpicQuestData": {
-							"Slot": "Cowboy",
-							"QuestCategory": "Veteran",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Cowboy",
 							"UniqueID": "EPIC_QUEST_COWBOY_EXPANSION_CONT",
 							"QuestName": "Adventure Extra: Wild West Expansion (cont.)",
@@ -2800,7 +2808,8 @@
 									"cowboy20"
 								]
 							},
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2811,7 +2820,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion (cont.)\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a6",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2822,7 +2832,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion (cont.)\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a7",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2833,7 +2844,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion (cont.)\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a8",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2844,7 +2856,8 @@
 							"QuestName": "Adventure Extra: Wild West Expansion (cont.)\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
 							"Description": "",
 							"LevelName": "test/a9",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -2853,6 +2866,181 @@
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_COWBOY_EXPANSION_CONT_STEP_5",
 							"QuestName": "Adventure Extra: Wild West Expansion (cont.)\nWild! Wondrous! War! Return to the Wild West once more to defend against massive horde of zombies from everywhere!",
+							"Description": "",
+							"LevelName": "test/a10",
+							"Priority": "Primary",
+							"Disabled": true
+						}
+					},
+					{
+						"EpicQuestData": {
+							"Slot": "Eighties",
+							"QuestCategory": "Veteran",
+							"OverrideQuestTheme": "Eighties",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion.",
+							"Description": "",
+							"UniqueIDList": [
+								"EPIC_QUEST_EIGHTIES_EXPANSION_STEP_1",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_STEP_2",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_STEP_3",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_STEP_4",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_STEP_5"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "mints",
+										"SubType": "",
+										"Amount": 50
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"eighties20"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_STEP_1",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion\nComes to the show once again, for a burning match in the theme of time.",
+							"Description": "",
+							"LevelName": "test/a1",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_STEP_2",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion\nComes to the show once again, for a burning match in the theme of time.",
+							"Description": "",
+							"LevelName": "test/a2",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_STEP_3",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion\nComes to the show once again, for a burning match in the theme of time.",
+							"Description": "",
+							"LevelName": "test/a3",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_STEP_4",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion\nComes to the show once again, for a burning match in the theme of time.",
+							"Description": "",
+							"LevelName": "test/a4",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_STEP_5",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion\nComes to the show once again, for a burning match in the theme of time.",
+							"Description": "",
+							"LevelName": "test/a5",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"EpicQuestData": {
+							"Slot": "Eighties",
+							"QuestCategory": "Veteran",
+							"OverrideQuestTheme": "Eighties",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_CONT",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion (cont.)",
+							"Description": "",
+							"UniqueIDList": [
+								"EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_1",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_2",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_3",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_4",
+								"EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_5"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "mints",
+										"SubType": "",
+										"Amount": 100
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"eighties20"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_1",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion (cont.)\nOn to the second half of the tour! Let's take back the stage of us!",
+							"Description": "",
+							"LevelName": "test/a6",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_2",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion (cont.)\nOn to the second half of the tour! Let's take back the stage of us!",
+							"Description": "",
+							"LevelName": "test/a7",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_3",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion (cont.)\nOn to the second half of the tour! Let's take back the stage of us!",
+							"Description": "",
+							"LevelName": "test/a8",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_4",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion (cont.)\nOn to the second half of the tour! Let's take back the stage of us!",
+							"Description": "",
+							"LevelName": "test/a9",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_EIGHTIES_EXPANSION_CONT_STEP_5",
+							"QuestName": "Adventure Extra: Neon Mixtape Tour Expansion (cont.)\nOn to the second half of the tour! Let's take back the stage of us!",
 							"Description": "",
 							"LevelName": "test/a10",
 							"Priority": "Primary"
@@ -4966,8 +5154,8 @@
 					},
 					{
 						"EpicQuestData": {
-							"Slot": "PremiumPlant",
-							"QuestCategory": "PlantQuest",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Plant",
 							"UniqueID": "EPIC_QUEST_PARSNIP",
 							"QuestName": "Plant of the Week: Parsnip!",
@@ -5002,7 +5190,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_1",
 							"QuestName": "Plant of the Week\nGet ready to join on a new adventure while experimenting our friend, Parsnip!",
@@ -5014,7 +5202,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_2",
 							"QuestName": "Plant of the Week\nThe timeline is coliding! use your parsnips to attack on the hardcore metal theme!",
@@ -5026,7 +5214,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_3",
 							"QuestName": "Plant of the Week\nHead to the west to attack the crowded group of underdancers!",
@@ -5038,7 +5226,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_4",
 							"QuestName": "Plant of the Week\nThese rangers of the temple just wont leave us alone! Let's go for a rush!",
@@ -5050,7 +5238,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_5",
 							"QuestName": "Plant of the Week\nBreak time! A special delivery is coming to the night beach, including fireflies!",
@@ -5062,7 +5250,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_6",
 							"QuestName": "Plant of the Week\nThe zombies set up a massive sheep force attack against us, show them who's the boss!",
@@ -5074,7 +5262,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_7",
 							"QuestName": "Plant of the Week\nTrap tiles have been upgraded to be destructive. Use this to somehow break down the excavators barrier!",
@@ -5086,7 +5274,7 @@
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_PARSNIP_STEP_8",
 							"QuestName": "Plant of the Week\nWe have come a long way. Let's get this over with.",
@@ -5098,8 +5286,8 @@
 					},
 					{
 						"EpicQuestData": {
-							"Slot": "PremiumPlant",
-							"QuestCategory": "PlantQuest",
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
 							"OverrideQuestTheme": "Plant",
 							"UniqueID": "EPIC_QUEST_REED",
 							"QuestName": "Plant of the Week: Lightning Reed!",
@@ -5126,72 +5314,178 @@
 									"egypt10"
 								]
 							},
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_REED_STEP_1",
 							"QuestName": "Plant of the Week\nAnother time, another powered plant!",
 							"Description": "",
 							"LevelName": "test/d6",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_REED_STEP_2",
 							"QuestName": "Plant of the Week\nWatching out for graves as it blocks down your lightning reed sight! Be aware.",
 							"Description": "",
 							"LevelName": "test/d7",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_REED_STEP_3",
 							"QuestName": "Plant of the Week\nConnect the zombies to kill off a closer threat!",
 							"Description": "",
 							"LevelName": "test/d8",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_REED_STEP_4",
 							"QuestName": "Plant of the Week\nThe power of lightning strikes down all the foes! Protect the needed zombies to keep on attacking others!",
 							"Description": "",
 							"LevelName": "test/d9",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_REED_STEP_5",
 							"QuestName": "Plant of the Week\nBreak time! A special delivery is coming to the night beach, this time, from the back!",
 							"Description": "",
 							"LevelName": "test/d10",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
 						"ChallengeLevelQuestData": {
-							"Slot": "PremiumPlant",
+							"Slot": "Unused",
 							"QuestCategory": "Unused",
 							"UniqueID": "EPIC_QUEST_REED_STEP_6",
 							"QuestName": "Plant of the Week\nThe end is also the beginning, another west, another revenge!",
 							"Description": "",
 							"LevelName": "test/d11",
+							"Priority": "Primary",
+							"Disabled": true
+						}
+					},
+					{
+						"EpicQuestData": {
+							"Slot": "PremiumPlant",
+							"QuestCategory": "PlantQuest",
+							"OverrideQuestTheme": "Plant",
+							"UniqueID": "EPIC_QUEST_GRIMROSE",
+							"QuestName": "Week of the Dark Rose!",
+							"Description": "",
+							"UniqueIDList": [
+								"EPIC_QUEST_GRIMROSE_STEP_1",
+								"EPIC_QUEST_GRIMROSE_STEP_2",
+								"EPIC_QUEST_GRIMROSE_STEP_3",
+								"EPIC_QUEST_GRIMROSE_STEP_4",
+								"EPIC_QUEST_GRIMROSE_STEP_5",
+								"EPIC_QUEST_GRIMROSE_STEP_6"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "mints",
+										"SubType": "",
+										"Amount": 60
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"egypt10"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_GRIMROSE_STEP_1",
+							"QuestName": "Plant of the Week!\nGet on for a ride to the shadow realm of the garden to meet up our shadowy family!",
+							"Description": "",
+							"LevelName": "test/d1",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_GRIMROSE_STEP_2",
+							"QuestName": "Plant of the Week!\nThe jungle is being ruled by the giants and powerful zombies from different eras! It's time to retaking the lights with darkness!",
+							"Description": "",
+							"LevelName": "test/d2",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_GRIMROSE_STEP_3",
+							"QuestName": "Plant of the Week!\nThe zombies have discovered Grim's biggest weakness! Help him survive this night in the dino land!",
+							"Description": "",
+							"LevelName": "test/d3",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_GRIMROSE_STEP_4",
+							"QuestName": "Plant of the Week!\nThe moon shines down the jungle night. A special delivery is coming! We must win!",
+							"Description": "",
+							"LevelName": "test/d4",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_GRIMROSE_STEP_5",
+							"QuestName": "Plant of the Week!\nThe Pirate Ship is filled with lots of threats. Including giants! There gotta be a way to take care of these!",
+							"Description": "",
+							"LevelName": "test/d5",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EPIC_QUEST_GRIMROSE_STEP_6",
+							"QuestName": "Plant of the Week!\nAlmost there! Only one Sloth Gargantuar left to dealt with. Right?",
+							"Description": "",
+							"LevelName": "test/d6",
 							"Priority": "Primary"
 						}
 					},
