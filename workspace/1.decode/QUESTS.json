@@ -3047,6 +3047,32 @@
 						}
 					},
 					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Eighties",
+							"QuestCategory": "Veteran",
+							"OverrideQuestTheme": "Eighties",
+							"UniqueID": "EPIC_QUEST_METAL_MAYHEM",
+							"QuestName": "Challenge Level: Metal Mayhem",
+							"Description": "Challenge Level: Metal Mayhem\nYOU asked for S-40? wow. Have this instead. >:)",
+							"LevelName": "test/a11",
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "gems",
+										"SubType": "",
+										"Amount": 20
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"eighties20"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
 						"EpicQuestData": {
 							"Slot": "Egypt",
 							"QuestCategory": "Egypt",

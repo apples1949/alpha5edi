@@ -20,7 +20,7 @@
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
 				],
-				"Name": "金属混乱",
+				"Name": "Metal Mayhem",
 				"StageModule": "RTID(EightiesStage@LevelModules)",
 				"MusicType": "MiniGame_A"
 			}
@@ -54,7 +54,7 @@
 			],
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
-				"Description": "[DESCRIPTION_TEST_S40_MM]",
+				"Description": "You are not prepared to deal with unbreakable speakerphones.",
 				"DescriptiveName": ""
 			}
 		},

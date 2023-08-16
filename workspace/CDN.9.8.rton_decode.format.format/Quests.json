@@ -3047,6 +3047,32 @@
 						}
 					},
 					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Eighties",
+							"QuestCategory": "Veteran",
+							"OverrideQuestTheme": "Eighties",
+							"UniqueID": "EPIC_QUEST_METAL_MAYHEM",
+							"QuestName": "[QUEST_EPIC_QUEST_METAL_MAYHEM_QUESTNAME]",
+							"Description": "[QUEST_EPIC_QUEST_METAL_MAYHEM_DESCRIPTION]",
+							"LevelName": "test/a11",
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "gems",
+										"SubType": "",
+										"Amount": 20
+									}
+								]
+							},
+							"Prerequisites": {
+								"SpineLevelCompletions": [
+									"eighties20"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
 						"EpicQuestData": {
 							"Slot": "Egypt",
 							"QuestCategory": "Egypt",

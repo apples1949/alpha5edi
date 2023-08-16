@@ -493,7 +493,7 @@
 				"Zombies": [
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "3",
@@ -583,7 +583,7 @@
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "4",
@@ -591,10 +591,6 @@
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "4",
 						"Type": "RTID(iceage_troglobite_mc@.)"
 					}
 				]
@@ -618,7 +614,7 @@
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "5",
@@ -627,10 +623,6 @@
 					{
 						"Row": "2",
 						"Type": "RTID(eighties_mc@ZombieTypes)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
 					},
 					{
 						"Row": "4",
@@ -706,19 +698,11 @@
 				"Zombies": [
 					{
 						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(eighties_mc@ZombieTypes)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Type": "RTID(eighties@ZombieTypes)"
@@ -786,7 +770,7 @@
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "4",
@@ -833,6 +817,10 @@
 						"Type": "RTID(gargantuar_mega@ZombieTypes)"
 					},
 					{
+						"Row": "2",
+						"Type": "RTID(gargantuar_mega@ZombieTypes)"
+					},
+					{
 						"Row": "1",
 						"Type": "RTID(eighties_mc@ZombieTypes)"
 					},
@@ -862,11 +850,11 @@
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "1",
@@ -875,10 +863,6 @@
 					{
 						"Row": "3",
 						"Type": "RTID(eighties_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
 					},
 					{
 						"Row": "5",
@@ -905,27 +889,15 @@
 				"Zombies": [
 					{
 						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					}
 				]
 			}
@@ -955,23 +927,23 @@
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "5",
@@ -982,32 +954,12 @@
 						"Type": "RTID(eighties@ZombieTypes)"
 					},
 					{
-						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
 						"Row": "3",
 						"Type": "RTID(eighties_armor2@ZombieTypes)"
 					},
 					{
-						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
 						"Row": "2",
 						"Type": "RTID(eighties_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
 					},
 					{
 						"Row": "4",
@@ -1058,6 +1010,26 @@
 			"objdata": {
 				"Zombies": [
 					{
+						"Row": "3",
+						"Type": "RTID(eighties_armor2@ZombieTypes)"
+					},
+					{
+						"Row": "4",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
+						"Row": "2",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
+						"Row": "1",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
+						"Row": "5",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
 						"Row": "2",
 						"Type": "RTID(eighties_mc@ZombieTypes)"
 					},
@@ -1070,16 +1042,8 @@
 						"Type": "RTID(eighties_mc@ZombieTypes)"
 					},
 					{
-						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
 						"Row": "3",
 						"Type": "RTID(eighties_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
 					}
 				]
 			}
@@ -1092,20 +1056,28 @@
 			"objdata": {
 				"Zombies": [
 					{
+						"Row": "3",
+						"Type": "RTID(gargantuar_mega@ZombieTypes)"
+					},
+					{
 						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
+					},
+					{
+						"Row": "4",
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
+					},
+					{
+						"Row": "5",
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					}
 				]
 			}
@@ -1119,26 +1091,18 @@
 				"Zombies": [
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "4",
 						"Type": "RTID(eighties_mc@ZombieTypes)"
 					},
 					{
-						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
 						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
-						"Row": "3",
 						"Type": "RTID(iceage_troglobite_mc@.)"
 					}
 				]
@@ -1180,16 +1144,28 @@
 						"Type": "RTID(iceage_troglobite_mc@.)"
 					},
 					{
+						"Row": "1",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
+						"Row": "4",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
+						"Row": "2",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
+					},
+					{
+						"Row": "3",
+						"Type": "RTID(iceage_troglobite_mc_2block@.)"
+					},
+					{
 						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "3",
 						"Type": "RTID(eighties_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
 					}
 				]
 			}
@@ -1202,28 +1178,24 @@
 			"objdata": {
 				"Zombies": [
 					{
-						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
-					},
-					{
 						"Row": "3",
 						"Type": "RTID(eighties_armor2@ZombieTypes)"
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
-						"Row": "3",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Row": "1",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
-						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Row": "5",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "5",
@@ -1260,8 +1232,8 @@
 						"Type": "RTID(gargantuar_mega@ZombieTypes)"
 					},
 					{
-						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Row": "3",
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "3",
@@ -1269,7 +1241,7 @@
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "5",
@@ -1277,7 +1249,7 @@
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "3",
@@ -1289,11 +1261,11 @@
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(iceage_troglobite_mc@.)"
+						"Type": "RTID(iceage_troglobite_mc_3block@.)"
 					},
 					{
 						"Row": "2",
@@ -1410,6 +1382,202 @@
 				"ScoreOverride": 80,
 				"ImpType": "eighties_mc",
 				"NumberOfIceblocksToSpawnWith": 1,
+				"ScaledProps": [
+					{
+						"Arg1": 1.05,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "Hitpoints"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.1,
+						"Formula": "standard",
+						"Key": "EatDPS"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.01,
+						"Formula": "standard",
+						"Key": "Speed"
+					}
+				],
+				"ShadowOffset": {
+					"x": 10,
+					"y": 0,
+					"z": 1.2
+				},
+				"Speed": 0.16,
+				"WavePointCost": 900,
+				"Weight": 3500,
+				"ZombieStats": [
+					{
+						"Type": "toughness",
+						"Value": "damage4"
+					},
+					{
+						"Type": "speed",
+						"Value": "speed1"
+					}
+				]
+			}
+		},
+		{
+			"objclass": "ZombieType",
+			"aliases": [
+				"iceage_troglobite_mc_2block"
+			],
+			"objdata": {
+				"TypeName": "iceage_troglobite",
+				"ZombieClass": "ZombieIceAgeTroglobite",
+				"Properties": "RTID(ZombieIceAgeTroglobiteMC2Block@.)",
+				"ResourceGroups": [
+					"ZombieIceageTroglobiteGroup",
+					"FrostbiteIceBlockZombieGroup",
+					"ZombieEightiesMCGroup"
+				],
+				"AudioGroups": [
+					"ZombieIceAgeTroglobiteAudio",
+					"ZombieEightiesMCZombieAudio"
+				],
+				"AnimRigClass": "ZombieAnimRig_Troglobite",
+				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_TROGLOBITE",
+				"HomeWorld": "iceage",
+				"IsBasicZombie": false
+			}
+		},
+		{
+			"aliases": [
+				"ZombieIceAgeTroglobiteMC2Block"
+			],
+			"objclass": "ZombieIceAgeTroglobiteProps",
+			"objdata": {
+				"Actions": [
+					"RTID(ZombiePushGridItemAction@ZombieActions)"
+				],
+				"ArtCenter": {
+					"x": 90,
+					"y": 125
+				},
+				"AttackRect": {
+					"mHeight": 65,
+					"mWidth": 10,
+					"mX": 5,
+					"mY": 0
+				},
+				"CanSpawnPlantFood": true,
+				"ChillInsteadOfFreeze": true,
+				"Cost": 150,
+				"EatDPS": 100,
+				"GroundTrackName": "ground_swatch",
+				"HitRect": {
+					"mHeight": 105,
+					"mWidth": 30,
+					"mX": 7,
+					"mY": 10
+				},
+				"Hitpoints": 560,
+				"ScoreOverride": 80,
+				"ImpType": "eighties_mc",
+				"NumberOfIceblocksToSpawnWith": 2,
+				"ScaledProps": [
+					{
+						"Arg1": 1.05,
+						"Arg2": 0.05,
+						"Formula": "standard",
+						"Key": "Hitpoints"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.1,
+						"Formula": "standard",
+						"Key": "EatDPS"
+					},
+					{
+						"Arg1": 1,
+						"Arg2": 0.01,
+						"Formula": "standard",
+						"Key": "Speed"
+					}
+				],
+				"ShadowOffset": {
+					"x": 10,
+					"y": 0,
+					"z": 1.2
+				},
+				"Speed": 0.16,
+				"WavePointCost": 900,
+				"Weight": 3500,
+				"ZombieStats": [
+					{
+						"Type": "toughness",
+						"Value": "damage4"
+					},
+					{
+						"Type": "speed",
+						"Value": "speed1"
+					}
+				]
+			}
+		},
+		{
+			"objclass": "ZombieType",
+			"aliases": [
+				"iceage_troglobite_mc_3block"
+			],
+			"objdata": {
+				"TypeName": "iceage_troglobite",
+				"ZombieClass": "ZombieIceAgeTroglobite",
+				"Properties": "RTID(ZombieIceAgeTroglobiteMC3Block@.)",
+				"ResourceGroups": [
+					"ZombieIceageTroglobiteGroup",
+					"FrostbiteIceBlockZombieGroup",
+					"ZombieEightiesMCGroup"
+				],
+				"AudioGroups": [
+					"ZombieIceAgeTroglobiteAudio",
+					"ZombieEightiesMCZombieAudio"
+				],
+				"AnimRigClass": "ZombieAnimRig_Troglobite",
+				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_ICEAGE_TROGLOBITE",
+				"HomeWorld": "iceage",
+				"IsBasicZombie": false
+			}
+		},
+		{
+			"aliases": [
+				"ZombieIceAgeTroglobiteMC3Block"
+			],
+			"objclass": "ZombieIceAgeTroglobiteProps",
+			"objdata": {
+				"Actions": [
+					"RTID(ZombiePushGridItemAction@ZombieActions)"
+				],
+				"ArtCenter": {
+					"x": 90,
+					"y": 125
+				},
+				"AttackRect": {
+					"mHeight": 65,
+					"mWidth": 10,
+					"mX": 5,
+					"mY": 0
+				},
+				"CanSpawnPlantFood": true,
+				"ChillInsteadOfFreeze": true,
+				"Cost": 150,
+				"EatDPS": 100,
+				"GroundTrackName": "ground_swatch",
+				"HitRect": {
+					"mHeight": 105,
+					"mWidth": 30,
+					"mX": 7,
+					"mY": 10
+				},
+				"Hitpoints": 560,
+				"ScoreOverride": 80,
+				"ImpType": "eighties_mc",
+				"NumberOfIceblocksToSpawnWith": 3,
 				"ScaledProps": [
 					{
 						"Arg1": 1.05,
