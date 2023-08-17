@@ -49,8 +49,6 @@
 				"Waves": [
 					[
 						"RTID(Wave1@CurrentLevel)",
-						"RTID(CH@CurrentLevel)",
-						"RTID(CHM@CurrentLevel)",
 						"RTID(jam_punk@CurrentLevel)",
 						"RTID(ZombieDisplay@CurrentLevel)"
 					],

@@ -18,6 +18,7 @@
 					"RTID(PiratePlanks@CurrentLevel)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(IPP_Protect@CurrentLevel)",
+					"RTID(IPP@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)"
 				],
@@ -86,6 +87,28 @@
 					}
 				],
 				"MustProtectCount": 2
+			}
+		},
+		{
+			"aliases": [
+				"IPP"
+			],
+			"objclass": "InitialPlantProperties",
+			"objdata": {
+				"InitialPlantPlacements": [
+					{
+						"GridX": 1,
+						"GridY": 0,
+						"Level": 0,
+						"TypeName": "grimrose"
+					},
+					{
+						"GridX": 1,
+						"GridY": 4,
+						"Level": 0,
+						"TypeName": "grimrose"
+					}
+				]
 			}
 		},
 		{
@@ -222,7 +245,6 @@
 					"enlightenmint",
 					"kiwibeast",
 					"spearmint",
-					"ailmint",
 					"dazeychain",
 					"stickybombrice",
 					"pumpkin",
@@ -233,6 +255,7 @@
 					"unused_45",
 					"unused_46",
 					"unused_47",
+					"ailmint",
 					"Mini",
 					"hocus",
 					"Mini"
@@ -240,7 +263,8 @@
 				"PlantExcludeList": [
 					"garlic",
 					"hotdate",
-					"sweetpotato"
+					"sweetpotato",
+					"ailmint"
 				],
 				"SelectionMethod": "chooser"
 			}
@@ -264,10 +288,12 @@
 				"WaveCount": 16,
 				"Waves": [
 					[
-						"RTID(Wave1@CurrentLevel)"
+						"RTID(Wave1@CurrentLevel)",
+						"RTID(GrimroseAttack@CurrentLevel)"
 					],
 					[
-						"RTID(Wave2@CurrentLevel)"
+						"RTID(Wave2@CurrentLevel)",
+						"RTID(GrimroseAttack@CurrentLevel)"
 					],
 					[
 						"RTID(Wave3@CurrentLevel)"

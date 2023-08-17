@@ -1,28 +1,21 @@
 {
 	"#comment": "Metal Mayhem",
-	"#zombies": "eighties, eighties_armor1, eighties_armor2, eighties_gargantuar, eighties_glitter, eighties_breakdancer, football, west_bull, eighties_boombox",
 	"objects": [
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"StartingSun": 50,
-				"Description": "E C L I S E",
-				"FirstRewardParam": "moneybag",
-				"NormalPresentTable": "egypt_normal_01",
-				"ShinyPresentTable": "egypt_shiny_01",
+				"Description": "E  C  L  I  S  E",
+				"FirstRewardParam": "big_moneybag",
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"ResourceGroupNames": [
-					"DelayLoad_Background_Beach",
-					"DelayLoad_Background_Beach_Compressed",
 					"Tombstone_Dark_Special",
 					"Tombstone_Dark_Effects"
 				],
 				"Modules": [
-					"RTID(TechnicalZombieOverride@LevelModules)",
 					"RTID(StandardIntro@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(ChallengeModule@CurrentLevel)",
-					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)"
@@ -38,12 +31,6 @@
 			],
 			"objclass": "SeedBankProperties",
 			"objdata": {
-				"PresetPlantList": [
-				],
-				"PlantIncludeList": [
-				],
-				"PlantExcludeList": [
-				],
 				"SelectionMethod": "chooser"
 			}
 		},
@@ -68,23 +55,7 @@
 			"objclass": "StarChallengeBeatTheLevelProps",
 			"objdata": {
 				"Description": "You are not prepared to deal with unbreakable speakerphones.",
-				"DescriptiveName": "Custom Objective"
-			}
-		},
-		{
-			"aliases": [
-				"Escalation"
-			],
-			"objclass": "LevelEscalationModuleProperties",
-			"objdata": {
-				"FlagCount": 4,
-				"WavesPerFlag": 6,
-				"PlantfoodToSpawnCount": 0,
-				"StartingPoints": 0,
-				"PointIncrementPerWave": 0,
-				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
-				"ZombiePool": [
-				]
+				"DescriptiveName": ""
 			}
 		},
 		{
@@ -93,6 +64,7 @@
 			],
 			"objclass": "WaveManagerModuleProperties",
 			"objdata": {
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)"
 			}
 		},
 		{
@@ -103,7 +75,6 @@
 			"objdata": {
 				"FlagWaveInterval": 6,
 				"WaveCount": 24,
-				"SuppressFlagZombie": false,
 				"Waves": [
 					[
 						"RTID(Wave1@.)",

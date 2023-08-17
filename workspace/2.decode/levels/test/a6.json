@@ -43,7 +43,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					},
 					{
@@ -52,7 +52,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					},
 					{
@@ -61,7 +61,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					},
 					{
@@ -70,7 +70,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					},
 					{
@@ -79,7 +79,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					},
 					{
@@ -88,7 +88,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					},
 					{
@@ -97,7 +97,7 @@
 						"StartingWave": 15,
 						"ZombiePool": [
 							"RTID(eighties@ZombieTypes)",
-							"RTID(eighties_armor2@ZombieTypes)"
+							"RTID(eighties_armor1@ZombieTypes)"
 						]
 					}
 				],
@@ -256,11 +256,11 @@
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"AdditionalPlantfood": 1,
+				"AdditionalPlantfood": 0,
 				"Zombies": [
 					{
 						"Row": "2",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					}
 				]
 			}
@@ -302,11 +302,11 @@
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					}
 				]
 			}
@@ -321,11 +321,11 @@
 				"Zombies": [
 					{
 						"Row": "1",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -403,7 +403,7 @@
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "2",
@@ -411,7 +411,7 @@
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -434,11 +434,11 @@
 				"Zombies": [
 					{
 						"Row": "1",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -481,7 +481,7 @@
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "3",
@@ -489,11 +489,11 @@
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "1",
@@ -536,7 +536,7 @@
 				"Zombies": [
 					{
 						"Row": "2",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -556,11 +556,11 @@
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -674,15 +674,15 @@
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -694,11 +694,11 @@
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
@@ -753,23 +753,23 @@
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Type": "RTID(eighties@ZombieTypes)"
@@ -845,13 +845,13 @@
 						"Type": "RTID(eighties_glitter@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					}
 				]
 			}
@@ -894,28 +894,28 @@
 						"Type": "RTID(eighties@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					}
 				]
 			}
@@ -970,23 +970,23 @@
 					},
 					{
 						"Row": "1",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "2",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "3",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "4",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "5",
-						"Type": "RTID(eighties_armor2@ZombieTypes)"
+						"Type": "RTID(eighties_armor1@ZombieTypes)"
 					},
 					{
 						"Row": "2",
