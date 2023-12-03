@@ -1,83 +1,25 @@
 {
-	"#comment": "GRS-2",
+	"#comment": "Gate",
 	"objects": [
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
-				"Description": "本周植物!",
-				"FirstIntroNarrative": "GRIMROSE2_INTRO",
-				"ReplayIntroNarrative": "GRIMROSE2_INTRO",
+				"LevelPowerupSet": "LevelPowerupsDisabled",
+				"StartingSun": 0,
+				"DisableRestart": true,
+				"DisableSaveGame": true,
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [
 					"RTID(StandardIntro@LevelModules)",
-					"RTID(DefaultSunDropper@LevelModules)",
-					"RTID(DefaultZombieWinCondition@LevelModules)",
-					"RTID(ChallengeModule@CurrentLevel)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
-					"RTID(GI@CurrentLevel)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)"
 				],
-				"Name": "GRS-2: 严重限制",
-				"StageModule": "RTID(LostCityStage@LevelModules)"
-			}
-		},
-		{
-			"aliases": [
-				"GI"
-			],
-			"objclass": "InitialGridItemProperties",
-			"objdata": {
-				"InitialGridItemPlacements": [
-					{
-						"GridX": 6,
-						"GridY": 0,
-						"TypeName": "goldtile"
-					},
-					{
-						"GridX": 6,
-						"GridY": 1,
-						"TypeName": "goldtile"
-					},
-					{
-						"GridX": 6,
-						"GridY": 2,
-						"TypeName": "goldtile"
-					},
-					{
-						"GridX": 6,
-						"GridY": 3,
-						"TypeName": "goldtile"
-					},
-					{
-						"GridX": 6,
-						"GridY": 4,
-						"TypeName": "goldtile"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"ChallengeModule"
-			],
-			"objclass": "StarChallengeModuleProperties",
-			"objdata": {
-				"Challenges": [
-					[
-						"RTID(MaxCount@CurrentLevel)"
-					]
-				],
-				"ChallengesAlwaysAvailable": true
-			}
-		},
-		{
-			"aliases": [
-				"MaxCount"
-			],
-			"objclass": "StarChallengeSimultaneousPlantsProps",
-			"objdata": {
-				"MaximumPlants": 5
+				"Name": "关卡尚不可用!",
+				"FirstRewardType": "none",
+				"ReplayRewardType": "none",
+				"StageModule": "RTID(ModernStage@LevelModules)"
 			}
 		},
 		{
@@ -88,148 +30,11 @@
 			"objdata": {
 				"PresetPlantList": [
 					{
-						"PlantType": "grimrose",
-						"Level": 2
-					},
-					{
-						"PlantType": "moonflower",
-						"Level": 0
+						"PlantType": "gravebuster",
+						"Level": -1
 					}
 				],
-				"PlantIncludeList": [
-					"sunflower",
-					"peashooter",
-					"wallnut",
-					"tallnut",
-					"explodeonut",
-					"bonkchoy",
-					"cabbagepult",
-					"melonpult",
-					"cherry_bomb",
-					"coconutcannon",
-					"gravebuster",
-					"iceburg",
-					"laser_bean",
-					"potatomine",
-					"repeater",
-					"snapdragon",
-					"spikeweed",
-					"threepeater",
-					"torchwood",
-					"kernelpult",
-					"springbean",
-					"snowpea",
-					"chilibean",
-					"splitpea",
-					"lightningreed",
-					"peapod",
-					"magnifyinggrass",
-					"bloomerang",
-					"holonut",
-					"empea",
-					"blover",
-					"starfruit",
-					"imitater",
-					"jalapeno",
-					"wintermelon",
-					"twinsunflower",
-					"spikerock",
-					"powerlily",
-					"squash",
-					"citron",
-					"powerplant",
-					"sunshroom",
-					"puffshroom",
-					"fumeshroom",
-					"sunbean",
-					"magnetshroom",
-					"hypnoshroom",
-					"peanut",
-					"firepeashooter",
-					"lilypad",
-					"bowlingbulb",
-					"homingthistle",
-					"banana",
-					"chomper",
-					"guacodile",
-					"tanglekelp",
-					"ghostpepper",
-					"sweetpotato",
-					"sapfling",
-					"hurrikale",
-					"xshot",
-					"chardguard",
-					"pepperpult",
-					"hotpotato",
-					"stunion",
-					"dandelion",
-					"redstinger",
-					"goldleaf",
-					"akee",
-					"lavaguava",
-					"toadstool",
-					"endurian",
-					"stallia",
-					"strawburst",
-					"cactus",
-					"phatbeet",
-					"thymewarp",
-					"celerystalker",
-					"electricblueberry",
-					"sporeshroom",
-					"garlic",
-					"intensivecarrot",
-					"jackolantern",
-					"primalpeashooter",
-					"grapeshot",
-					"primalwallnut",
-					"perfumeshroom",
-					"coldsnapdragon",
-					"primalsunflower",
-					"primalpotatomine",
-					"shrinkingviolet",
-					"moonflower",
-					"nightshade",
-					"shadowshroom",
-					"bloominghearts",
-					"escaperoot",
-					"grimrose",
-					"dusklobber",
-					"goldbloom",
-					"electriccurrant",
-					"aloe",
-					"applemortar",
-					"bombegranate",
-					"missiletoe",
-					"parsnip",
-					"witchhazel",
-					"hotdate",
-					"caulipower",
-					"solartomato",
-					"electricpeashooter",
-					"hollyknight",
-					"bombardmint",
-					"concealmint",
-					"armamint",
-					"enlightenmint",
-					"kiwibeast",
-					"spearmint",
-					"ailmint",
-					"dazeychain",
-					"stickybombrice",
-					"pumpkin",
-					"tumbleweed",
-					"gloomvine",
-					"unused_43",
-					"minipeashooter",
-					"unused_45",
-					"unused_46",
-					"unused_47",
-					"Mini",
-					"hocus",
-					"Mini"
-				],
-				"SelectionMethod": "chooser"
+				"SelectionMethod": "preset"
 			}
 		},
 		{
@@ -238,47 +43,24 @@
 			],
 			"objclass": "WaveManagerModuleProperties",
 			"objdata": {
-				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)"
+				"WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
 			}
 		},
 		{
 			"aliases": [
-				"WaveManager"
+				"WaveManagerProps"
 			],
 			"objclass": "WaveManagerProperties",
 			"objdata": {
-				"FlagWaveInterval": 10,
-				"WaveCount": 10,
+				"ZombieCountdownFirstWaveSecs": 0,
+				"ZombieCountdownFirstWaveConveyorSecs": 0,
+				"ZombieCountdownHugeWaveDelay": 0,
+				"SuppressFlagZombie": true,
+				"FlagWaveInterval": 1,
+				"WaveCount": 1,
 				"Waves": [
 					[
-						"RTID(Wave1@CurrentLevel)"
-					],
-					[
-						"RTID(Wave2@CurrentLevel)"
-					],
-					[
-						"RTID(Wave3@CurrentLevel)"
-					],
-					[
-						"RTID(Wave4@CurrentLevel)"
-					],
-					[
-						"RTID(Wave5@CurrentLevel)"
-					],
-					[
-						"RTID(Wave6@CurrentLevel)"
-					],
-					[
-						"RTID(Wave7@CurrentLevel)"
-					],
-					[
-						"RTID(Wave8@CurrentLevel)"
-					],
-					[
-						"RTID(Wave9@CurrentLevel)"
-					],
-					[
-						"RTID(Wave10@CurrentLevel)"
+						"RTID(Wave1@.)"
 					]
 				]
 			}
@@ -287,280 +69,70 @@
 			"aliases": [
 				"Wave1"
 			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objclass": "SpawnZombiesFromGroundSpawnerProps",
 			"objdata": {
+				"ColumnStart": 8,
+				"ColumnEnd": 9,
 				"Zombies": [
 					{
 						"Row": "3",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
+						"Type": "RTID(tutorial@.)"
 					}
 				]
 			}
 		},
 		{
+			"objclass": "ZombieType",
 			"aliases": [
-				"Wave2"
+				"tutorial"
 			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					}
-				]
+				"TypeName": "tutorial",
+				"ZombieClass": "ZombieBasic",
+				"Properties": "RTID(ZombieTutorialDefault@.)",
+				"ResourceGroups": [
+					"ZombieTutorialGroup"
+				],
+				"AudioGroups": [
+				],
+				"AnimRigClass": "ZombieAnimRig_Tutorial",
+				"PopAnim": "POPANIM_ZOMBIE_ZOMBIE_TUTORIAL",
+				"HomeWorld": "modern",
+				"IsBasicZombie": true
 			}
 		},
 		{
 			"aliases": [
-				"Wave3"
+				"ZombieTutorialDefault"
 			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objclass": "ZombiePropertySheet",
 			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(lostcity_impporter@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_impporter@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_impporter@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave4"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_impporter@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(dark_wizard@ZombieTypes)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_impporter@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave5"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(dark_wizard@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(football@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_gargantuar@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave6"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave7"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					},
-					{
-						"Row": "3",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave8"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(dark_wizard@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave9"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "4",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(football@ZombieTypes)"
-					}
-				]
-			}
-		},
-		{
-			"aliases": [
-				"Wave10"
-			],
-			"objclass": "SpawnZombiesJitteredWaveActionProps",
-			"objdata": {
-				"Zombies": [
-					{
-						"Row": "1",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(football@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(iceage_weaselhoarder@ZombieTypes)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_gargantuar@ZombieTypes)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(lostcity_gargantuar@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(football@ZombieTypes)"
-					},
-					{
-						"Row": "4",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "5",
-						"Type": "RTID(lostcity_armor2@ZombieTypes)"
-					},
-					{
-						"Row": "1",
-						"Type": "RTID(dark_wizard@ZombieTypes)"
-					},
-					{
-						"Row": "2",
-						"Type": "RTID(lostcity_armor1@ZombieTypes)"
-					}
-				]
+				"ArtCenter": {
+					"x": 90,
+					"y": 125
+				},
+				"AttackRect": {
+					"mHeight": 95,
+					"mWidth": 20,
+					"mX": 15,
+					"mY": 0
+				},
+				"CanSpawnPlantFood": false,
+				"EatDPS": 100,
+				"GroundTrackName": "ground_swatch",
+				"HitRect": {
+					"mHeight": 95,
+					"mWidth": 32,
+					"mX": 10,
+					"mY": 10
+				},
+				"Hitpoints": 268353535,
+				"ShadowOffset": {
+					"x": 5,
+					"y": 0,
+					"z": 1.399999976158142
+				},
+				"Speed": 0
 			}
 		}
 	],

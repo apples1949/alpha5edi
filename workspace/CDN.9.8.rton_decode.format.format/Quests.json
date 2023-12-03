@@ -5446,7 +5446,8 @@
 									"egypt10"
 								]
 							},
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -5457,7 +5458,8 @@
 							"QuestName": "[QUEST_EPIC_QUEST_GRIMROSE_STEP_1_QUESTNAME]",
 							"Description": "",
 							"LevelName": "test/d1",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -5468,7 +5470,8 @@
 							"QuestName": "[QUEST_EPIC_QUEST_GRIMROSE_STEP_2_QUESTNAME]",
 							"Description": "",
 							"LevelName": "test/d2",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -5479,7 +5482,8 @@
 							"QuestName": "[QUEST_EPIC_QUEST_GRIMROSE_STEP_3_QUESTNAME]",
 							"Description": "",
 							"LevelName": "test/d3",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -5490,7 +5494,8 @@
 							"QuestName": "[QUEST_EPIC_QUEST_GRIMROSE_STEP_4_QUESTNAME]",
 							"Description": "",
 							"LevelName": "test/d4",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -5501,7 +5506,8 @@
 							"QuestName": "[QUEST_EPIC_QUEST_GRIMROSE_STEP_5_QUESTNAME]",
 							"Description": "",
 							"LevelName": "test/d5",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
@@ -5512,7 +5518,8 @@
 							"QuestName": "[QUEST_EPIC_QUEST_GRIMROSE_STEP_6_QUESTNAME]",
 							"Description": "",
 							"LevelName": "test/d6",
-							"Priority": "Primary"
+							"Priority": "Primary",
+							"Disabled": true
 						}
 					},
 					{
